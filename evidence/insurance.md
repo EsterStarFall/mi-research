@@ -130,8 +130,225 @@
 
 ## 경쟁 동향
 
-(아직 근거 없음)
+> **조사 방법 관련 비고**: 이번 세션도 네트워크 egress 프록시가 newstomato.com, etnews.com,
+> insjournal.co.kr, businesswire.com, beinsure.com 등 시도한 거의 모든 언론사 도메인에서
+> WebFetch(직접 페이지 열람)를 차단했습니다(`EGRESS_BLOCKED`). 아래 항목은 모두
+> WebSearch(검색엔진이 실제 페이지를 크롤링해 종합한 결과)를 통해 확인했으며, 가능한
+> 복수 매체·복수 검색어로 교차검증했습니다.
+
+### 카카오페이 자동차보험 비교서비스 이용자 자체 조사 — "10명 중 6명이 비교해 가입"
+
+- **수치/핵심 사실**: 카카오페이가 자사 서비스 '페이로운 소식'에서 2024년 1월 24~26일 "자동차보험 나는 이렇게 갱신한다"를 주제로 설문을 진행, 총 11,341명이 참여. 이 중 약 57%(6,508명)가 "여러 보험사를 비교해 가입"이라고 응답했고, 43%(4,833명)는 "기존 보험사 그대로 갱신"이라고 응답. 이를 근거로 카카오페이는 "사용자 10명 중 6명이 자동차보험을 비교해 가입한다"고 발표(2024-02-05 보도). 당시 카카오페이는 10개 손해보험사(롯데손해보험·메리츠화재·삼성화재·캐롯손해보험·하나손해보험·현대해상·흥국화재·AXA손해보험·DB손해보험·KB손해보험) 자동차보험을 비교하는 서비스를 제공 중이었음.
+- **원문 발췌**: "카카오페이는 자사 서비스 '페이로운 소식'에서 '자동차보험 나는 이렇게 갱신한다'를 주제로 1월 24일에서 26일까지 진행한 설문에 1만1341명이 참여했으며, 약 57%에 해당하는 6508명은 '여러 보험사를 비교해 가입'이라고 응답했고, 43%인 4833명은 '기존 보험사 그대로 갱신'이라고 답했다." / "카카오페이는 10개 손해보험사(롯데손해보험, 메리츠화재, 삼성화재, 캐롯손해보험, 하나손해보험, 현대해상, 흥국화재, AXA손해보험, DB손해보험, KB손해보험) 자동차보험을 한번에 편하게 비교할 수 있는 '자동차보험 비교 서비스'를 제공 중이다."
+- **출처명**: ZDNet Korea "카카오페이 "사용자 10명 중 6명 자동차보험 비교하고 가입"" (2024-02-05) / 한국보험신문(insnews.co.kr) 동일 제목 보도 / 한국금융신문(fntimes.com) 동일 취지 보도
+- **출처 URL**: https://zdnet.co.kr/view/?no=20240205091731 , https://www.insnews.co.kr/news/articleView.html?idxno=77628 , https://www.fntimes.com/html/view.php?ud=2024020510183125406a663fbf34_18 (WebFetch 차단, WebSearch 결과 기반)
+- **기준 시점**: 설문 조사 2024년 1월 24~26일 진행, 보도 2024년 2월 5일
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 이 수치는 카카오페이 자체 앱 내 설문조사(자기선택편향 있는 표본, 표본 규모 11,341명)에 기반한 정성적 자기보고 통계로, "실제 구매전환율"(시장현황 축에서 다룬 9.2%)이나 "타사 대비 점유율"과는 전혀 다른 지표임을 report-writer가 명확히 구분해서 쓸 것. 2024년 발표 자료라 2026-08 기준으로는 다소 오래된 자료이며 더 최신 자체 발표 통계는 이번 세션에서 확인하지 못함 — 갱신치가 있는지는 추가 확인 필요.
+
+### 자동차보험 비교·추천서비스 2.0 — 카카오페이 실제 출시 여부: 확인 안 됨
+
+- **수치/핵심 사실**: 2025년 3월 20일 네이버페이·토스가 '자동차보험 비교·추천서비스 2.0'을 먼저 출시했고, 해빗팩토리는 2025년 3월 말 출시. 카카오페이는 여러 매체(정책브리핑·전자신문·조세일보 등)에서 "2025년 하반기 중 출시 예정"으로 일관되게 보도됐으나, 이번 세션에서 카카오페이가 실제로 2.0을 출시했는지, 출시했다면 정확한 시점이 언제인지를 뒷받침하는 1차 보도자료나 후속 기사를 찾지 못함. 참고로 2.0에 참여 가능한 핀테크사는 총 4개사(1.0 당시 9개사에서 대폭 축소)로, 신규 정보제공 비용(보험개발원 정보이용료) 부담 증가 등이 참여 축소 원인으로 보도됨.
+- **원문 발췌**: "혁신금융서비스 개정을 통해 자동차보험 비교·추천서비스 2.0 출시가 가능한 4개 핀테크사 중 네이버페이와 토스가 먼저 출시했으며, 해빗팩토리는 2025년 3월 말, 카카오페이는 2025년 하반기 중 2.0 서비스를 출시할 예정입니다." (대한민국 정책브리핑, 규제 변화 축 기존 인용과 동일) / "기존에는 9곳의 핀테크사가 참여했지만, 이번에는 서비스 출시를 앞둔 곳을 포함해도 4곳에 불과합니다... 브로커리지 수수료는 줄어드는데 보험개발원에 지급하는 정보제공료는 늘어 핀테크사의 부담이 커졌다" (뉴스토마토 "차보험 비교·추천 2.0, '네·카·토' 그들만의 리그" 요약, WebSearch 결과)
+- **출처명**: 뉴스토마토(newstomato.com) "차보험 비교·추천 2.0, '네·카·토' 그들만의 리그" / 대한민국 정책브리핑(korea.kr) — 규제 변화 축과 동일 출처
+- **출처 URL**: https://www.newstomato.com/ReadNews.aspx?no=1256429 (WebFetch 차단, WebSearch 요약 결과만 확보 — 원문 직접 대조 불가) / https://www.korea.kr/news/policyNewsView.do?newsId=148940739
+- **기준 시점**: 2025년 3월~9월경 보도 시점 기준 "하반기 출시 예정" (2026-08-10 현재 실제 출시 여부 미확인)
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: **"확인 필요 (출처 미확보)"** — "네·카·토(네이버페이·카카오페이·토스)"라는 표현이 여러 후속 기사(예: 아래 토스 실적 기사)에서 관용적으로 3사를 묶어 지칭하는 데 쓰이고 있어 정황상 카카오페이도 2.0을 출시했을 가능성이 있으나, 이를 명시적으로 확인하는 1차 기사(정확한 출시일, 참여 여부)는 찾지 못함. report-writer는 "카카오페이는 2025년 하반기 출시 예정으로 보도됐으나 실제 출시 여부·시점은 확인되지 않음"이라고 명시할 것 — "출시했다"고 단정하지 말 것.
+
+### 토스(토스인슈어런스) — 차보험 비교 2.0 이용자 5배 증가, 구매전환 개선
+
+- **수치/핵심 사실**: 토스의 '차보험 비교 2.0' 서비스 이용자 수가 개편 전(2025년 2월) 대비 2025년 11월 말 기준 5배 증가. 이용자 중 약 절반이 기존 가입 보험료보다 더 저렴한 조건을 확인. 보험료 확인 후 실제 보험사 가입 페이지로 이동한 이용자 비율은 2025년 11월 말 기준 약 60%. 차량정보·할인특약(대중교통·만보기 등) 자동 반영이 주요 개선 요인으로 설명됨. 별도로 토스인슈어런스(비바리퍼블리카 첫 계열사, 국내 유일 플랫폼형 GA)는 2024년 매출 1,200억원, 순이익 36억원으로 창립 이후 첫 흑자를 기록.
+- **원문 발췌**: "토스의 차보험 비교 2.0 서비스 이용자 수가 개편 전인 2월 대비 11월 말 기준 5배 증가했습니다... 11월 말 기준으로 이전 가입 보험료보다 더 저렴한 조건을 확인한 고객이 이용자 중 절반에 달했습니다. 이는 차량 정보와 할인특약(대중교통·만보기 등)을 자동으로 반영해 이용자가 직접 입력하지 않아도 받을 수 있는 할인이 적용되도록 개선한 결과입니다... 보험료를 확인한 뒤 실제 보험사 가입 페이지로 이동한 이용자 비율도 11월 말 기준 약 60%로, 비교 결과가 실제 가입 절차로 자연스럽게 이어졌습니다." / "[토스인슈어런스는] 2024년 매출 1200억원, 순이익 36억원을 기록하며 창립 이후 첫 흑자를 달성했습니다."
+- **출처명**: 보험저널(insjournal.co.kr) "토스 차보험 비교 2.0, 이용자 5배 폭증… 절반이 실제로 보험료 낮아졌다" / 머니투데이(mt.co.kr) "토스 차보험 비교 2.0, 이용자 5배 껑충… 절반은 '최저가' 찾았다"(2025-12-04) / 헤럴드경제 "토스, '차보험 비교 2.0' 이용자 5배 증가" / THE VC "토스인슈어런스 기업정보"
+- **출처 URL**: https://www.insjournal.co.kr/news/articleView.html?idxno=29203 , https://www.mt.co.kr/finance/2025/12/04/2025120408573681615 , https://biz.heraldcorp.com/article/10629612 , https://thevc.kr/tossinsurance (WebFetch 차단, WebSearch 결과 기반)
+- **기준 시점**: 2025년 2월(개편 전) 대비 2025년 11월 말 기준, 보도일 2025년 12월 4일 / 토스인슈어런스 매출·순이익은 2024년 연간 기준
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 이 자료는 2.0 서비스의 실질적 효과(구매전환율 개선 시사)를 보여주는 유의미한 사례로, 위 시장현황 축의 "구매전환율 9.2%"(전체 플랫폼 평균, 기준시점 불명확)와 대비해 report-writer가 "2.0 시행 이후 개선 추세"의 근거로 활용 가능. 다만 "5배 증가"는 절대 이용건수가 아니라 배율이므로 원래 규모(분모)가 확인 안 됨 — 과장 해석 주의.
+
+### 카카오페이손해보험 — 2025년 연간 실적 및 2026년 상반기 분기 실적
+
+- **수치/핵심 사실**: 카카오페이손해보험(카카오페이 자회사, 디지털 손보사)의 2025년 연간 당기순손실은 524억원으로 전년(2024년, 482억원) 대비 적자 폭 확대. 2025년 보험수익은 571억원으로 전년(351억원) 대비 큰 폭 증가. 보험계약금액 56조원 초과, 가입자 수 600만명 돌파. 역대 적자 추이: 2022년 261억원 → 2023년 373억원 → 2024년 482억원 → 2025년 524억원(4년 연속 확대). 2026년 1분기 매출 243억원(전년 동기 대비 +85%), 정기납입보험료 +157%, 펫보험 등 신규상품이 성장 견인. 2026년 1분기 순손실은 103억원으로 전년 동기(137억원) 대비 34억원 축소(분기 기준 첫 적자 축소). 2026년 2분기 매출은 256억원(전년 동기 대비 매체별로 +85%~+104% 등 다소 다르게 보도), 원수보험료 +66%, 정기납입보험료 +134% 증가.
+- **원문 발췌**: "카카오페이손보의 2025년 당기순손실은 524억원으로 전년(482억원) 대비 적자 폭이 확대되었습니다. 지난해 4분기에는 독감 유행 영향으로 보험금 지급이 증가하면서 손실이 커진 것으로 나타났습니다. 그러나 외형 성장세는 이어지고 있으며, 카카오페이손보의 보험수익은 2025년 571억원으로 전년(351억원) 대비 크게 증가했습니다. 보험계약금액도 56조원을 넘어섰고, 가입자 수 역시 600만명을 돌파했습니다." / "카카오페이손보의 적자 규모는 2022년 261억원, 2023년 373억원, 2024년 482억원으로 지속적으로 증가해왔습니다." / "카카오페이손해보험 매출은 243억 원으로 전년 동기 대비 85% 증가했습니다. 같은 기간 157% 늘어난 정기납입 보험료와 차별화된 펫(Pet) 보험 등 신규 상품의 경쟁력이 주효했습니다." / "카카오페이손보는 2026년 1분기 당기순손실 103억원을 기록해, 전년 동기(137억원) 대비 34억원 줄었다. 분기 적자가 전년 동기 대비 감소한 것은 이번이 처음이다." / "카카오페이손해보험의 2분기 매출은 256억원으로 전년 동기 대비 증가했습니다. 같은 기간 원수보험료는 66%, 정기납입 보험료는 134% 늘었습니다."
+- **출처명**: 인사이트코리아(insightkorea.co.kr) "카카오페이손보 '성장 함정' 빠졌나...매출 늘었는데 적자 확대" / 네이트뉴스(news.nate.com) "[디지털보험사 체질개선][카카오페이손보] 적자 규모 확대…장기보험으로 체질전환 시동"(2026-01-27) / 전자신문(etnews.com) "카카오페이손보, 1분기 매출 243억원 '역대 최고'…보험손익 안정세"(2026-05-27) / 보험저널(insjournal.co.kr) "카카오페이손보, 2분기 매출 256억원…원수보험료 66%·정기납 134% 증가" / 딜사이트(dealsite.co.kr) "'출범 1년' 카카오페이손보, '적자 늪' 탈출 언제?"
+- **출처 URL**: https://www.insightkorea.co.kr/news/articleView.html?idxno=246277 , https://news.nate.com/view/20260127n07971 , https://www.etnews.com/20260527000215 , https://www.insjournal.co.kr/news/articleView.html?idxno=32498 , https://dealsite.co.kr/articles/111679 (WebFetch 차단, WebSearch 결과 기반)
+- **기준 시점**: 2022~2025년 연간 실적, 2026년 1분기(1~3월)·2분기(4~6월) 분기 실적
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 2분기 매출 성장률("전년 동기 대비" 몇 %)이 검색 요약마다 다르게 나타남(일부 요약은 +85%, 일부는 +104%로 표기) — 정확한 원문 수치 재확인 필요, report-writer는 "약 85~104% 사이로 매체별 표기 차이가 있음" caveat를 달거나 원수보험료(+66%)·정기납(+134%) 등 이견 없는 세부지표 위주로 인용할 것. **주의**: 이 "카카오페이손해보험"(자회사, 보험 언더라이팅) 실적은 아래 "카카오페이(플랫폼) 전체 실적" 항목의 "보험서비스 매출 +78%"(카카오페이 연결 실적 중 금융서비스 세그먼트의 보험 부문, 비교·중개 수수료 등 포함 추정)와는 **다른 지표**이므로 report-writer는 두 수치를 절대 혼동하지 말 것 — 카카오페이손보 매출은 보험사로서의 매출(보험료 등)이고, 카카오페이 플랫폼의 "보험서비스 매출"은 지주/플랫폼 관점의 세그먼트 매출로 구성 항목이 다를 수 있음(정확한 구성 요소는 확인 안 됨).
+
+### 카카오페이(플랫폼) 2026년 1·2분기 전체 실적 — 보험서비스 매출 고성장
+
+- **수치/핵심 사실**: 카카오페이 2026년 1분기 연결 매출 3,003억원, 영업이익 322억원(역대 분기 최대), 거래액 50.9조원. 금융서비스 매출 1,459억원으로 전년 동기 대비 +82%, 이 중 투자서비스 매출 +137%, 보험서비스 매출 +78%로 고성장. 2026년 2분기는 영업이익 586억원(분기 역대 최대), 디지털금융 매출은 증권·보험 부문에 힘입어 75% 증가한 1,752억원 기록.
+- **원문 발췌**: "카카오페이는 2026년 1분기 매출 3003억 원, 영업이익 322억 원으로 역대 최대치를 경신했다... 금융 서비스 매출은 1459억원으로 전년 동기 대비 82% 증가했으며, 투자와 보험 서비스 매출이 각각 137%, 78% 증가하며 실적을 끌어올렸다." / "디지털 금융 매출은 증권 및 보험 부문의 도움으로 75% 증가한 1,752억 원을 기록했다... 2분기 영업이익 586억원으로 분기 최대 실적을 경신했다."
+- **출처명**: 다음뉴스(v.daum.net) "카카오페이, 분기 최대 실적 경신…2026년 1분기 연결 매출 3003억 원, 영업이익 322억 원, 거래액 50.9조 원"(2026-05-06) / 파이낸셜투데이(ftoday.co.kr) "카카오페이, 1분기 영업이익 322억원 역대 최대…금융 매출 82% 급증" / 이투데이(etoday.co.kr) "카카오페이, 2분기 영업익 586억…'분기 최대'" / 디지털타임스(dt.co.kr) "카카오페이, 최대 실적 경신…2분기 영업이익 586억"
+- **출처 URL**: https://v.daum.net/v/20260506170307831 , https://www.ftoday.co.kr/news/articleView.html?idxno=358504 , https://www.etoday.co.kr/news/view/2610875 , https://www.dt.co.kr/article/12076500 (WebFetch 차단, WebSearch 결과 기반) / 원 발표처 추정: 카카오페이 IR(https://www.kakaopay.com/ir/ir_archive/earnings_release)
+- **기준 시점**: 2026년 1분기(1~3월), 2분기(4~6월) 실적
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 위 "카카오페이손해보험" 항목과 지표 성격이 다름(비고 참고). "보험서비스 매출 78% 증가"의 구체적 구성 요소(비교·추천 수수료 vs 카카오페이손보 매출 포함 여부 등)는 확인하지 못함 — report-writer는 "카카오페이 연결 실적상 보험서비스 매출"이라고만 표기하고 구성 항목을 단정하지 말 것.
+
+### 뱅크샐러드 — 보험 부문이 실적 개선 견인
+
+- **수치/핵심 사실**: 뱅크샐러드의 보험 부문 매출은 전년 대비 160% 급증. 보험 중개 부문 수익이 전체 매출의 절반가량을 차지하며 핵심 수익원으로 자리잡음(건강데이터 연계 보험진단·추천서비스, 대출비교 플랫폼 고도화가 배경). 뱅크샐러드는 마이데이터 정식 도입 이후 최근 2년간 매출 연평균성장률(CAGR) 104% 기록. 광고 부문 매출도 175% 증가.
+- **원문 발췌**: "뱅크샐러드의 보험 부문 매출은 전년 대비 160% 급증했다. 실적 개선은 보험 부문이 이끌었다." / "보험 중개 부문에서의 수익은 전체 매출의 절반가량을 차지하며 핵심 수익원으로 자리잡았다. 이는 건강 데이터와 연계한 보험 진단 및 추천 서비스, 대출 비교 플랫폼의 고도화 덕분이다." / "뱅크샐러드는 마이데이터 정식 도입 이후 최근 2년간 104%의 연평균 매출 성장률(CAGR)을 기록 중이다. 보험 외에 광고 부문 매출 역시 175% 늘어나며 수익 다각화에 기여했다."
+- **출처명**: 뉴스저널리즘(ngetnews.com) "뱅크샐러드 실적 개선, 보험이 이끌었다" / 한국금융신문(fntimes.com) "뱅크샐러드, 건강 데이터·보험 중개 수수료 기반 수익성 제고 [핀테크 경쟁력 분석 ①]"(2025-04-26)
+- **출처 URL**: https://www.ngetnews.com/news/articleView.html?idxno=549666 , https://www.fntimes.com/html/view.php?ud=202504260537332287dd55077bc2_18 (WebFetch 차단, WebSearch 결과 기반)
+- **기준 시점**: "전년 대비" 표현의 정확한 기준연도(2025년 실적 vs 2024년, 혹은 2026년 실적 vs 2025년)는 검색 결과에서 명확히 특정되지 않음 — 기사 발행 시점(2025-04경 및 이후 추가 보도 종합)으로 미루어 2024년 실적 기준으로 추정되나 **정확한 기준연도 확인 필요**
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 뱅크샐러드는 카카오페이의 직접 경쟁자로, "보험 부문이 매출의 절반"이라는 점은 카카오페이 대비 보험 사업 의존도가 훨씬 높다는 시사점을 줌 — report-writer가 경쟁 구도 서술 시 활용 가치 높음. 다만 정확한 기준연도가 불명확하므로 리포트에는 "최근 발표 기준"이라는 표현을 쓸 것.
+
+### 해빗팩토리(시그널플래너) — 매출 성장 및 시리즈D 투자유치, 해외 진출
+
+- **수치/핵심 사실**: 해빗팩토리(AI 금융 플랫폼 '시그널플래너' 운영사, 보험비교추천서비스 참여 4개 핀테크사 중 하나)는 2025년 매출 214억원을 기록했고, 2026년 상반기는 전년 동기 대비 76.8% 증가. 2025년 10월 23일 350억원 규모 시리즈D 투자를 유치(제트벤처캐피탈·스마일게이트인베스트먼트 리드), 누적 투자유치액 694억원. 자금은 미국 자회사 확장, 일본 시장 진출, 국내 사업 확장에 사용 예정이며 IPO 준비를 위한 주관사 선정 절차에 착수. 미국에서는 2023년 주택담보대출 전문은행 인가를 받아 누적 대출액 2,031억원 달성.
+- **원문 발췌**: "해빗팩토리가 2025년 10월 23일 350억 투자 유치를 공식 발표했습니다. 해빗팩토리는 350억원 규모의 시리즈D 투자를 유치했으며, 이번 투자는 제트벤처캐피탈(ZVC)과 스마일게이트인베스트먼트가 리드했습니다... 지난해 매출은 214억원을 달성했고, 올해 상반기는 전년 동기 대비 76.8% 증가했습니다... 설립 이후 누적 투자 유치액은 694억원에 이릅니다... 최근 주관사 선정 절차에 착수하며 기업공개(IPO) 준비를 본격화할 예정입니다... 미국에서는 2023년 주택담보대출 전문은행 허가를 받았으며 누적 대출액은 2031억원에 달합니다."
+- **출처명**: 머니투데이(mt.co.kr) "해빗팩토리 시리즈D 투자 350억 유치… 해외사업 진출 박차"(2025-10-23) / ZDNet Korea / 아시아경제 / 보험저널 등 복수 매체 동일 취지 보도
+- **출처 URL**: https://www.mt.co.kr/finance/2025/10/23/2025102308435459373 , https://zdnet.co.kr/view/?no=20251023082017 , https://www.asiae.co.kr/article/finance/2025102309434257691 , https://www.insjournal.co.kr/news/articleView.html?idxno=28631 (WebFetch 차단, WebSearch 결과 기반)
+- **기준 시점**: 2025년 연간 매출(214억원), 2026년 상반기 성장률(+76.8%), 투자유치 발표 2025년 10월 23일
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **조사자**: market-researcher
+- **비고**: 해빗팩토리는 보험비교추천서비스 2.0 참여 4개 핀테크사 중 카카오페이보다 먼저(2025년 3월 말) 출시를 완료한 것으로 확인된 바 있어(규제 변화 축 참고), 실적 성장과의 상관관계를 시사할 수 있으나 인과관계는 확인 안 됨. IPO 추진 중이라는 점에서 국내 인슈어테크 업계의 자본시장 진출 움직임으로 볼 수 있음.
+
+### GA(보험대리점) 업계 — 인카금융서비스·에이플러스에셋 실적
+
+- **수치/핵심 사실**: 인카금융서비스(국내 최대 규모 독립 GA)는 2026년 1분기 매출액 3,012억원, 영업이익 260억원, 분기순이익 225억원으로 분기 기준 사상 최대 매출 달성. 2026년 6월 기준 전국 942개 지점, 소속 보험설계사(FA) 24,724명 보유. 에이플러스에셋어드바이저는 신한라이프 11월 GA 생보실적 기준 시장점유율 6.4%(약 5억5,941만원)로 3위 기록. 2026년 GA협회 우수인증설계사 평가에서 5년 이상 연속 인증 유지 비율("GA 명장" 부문)이 업계 평균을 상회.
+- **원문 발췌**: "인카금융서비스는 올해 1분기 매출액 3012억원, 영업이익 260억원, 분기순이익 225억원을 기록해 분기 기준 사상 최대 매출을 달성했습니다... 2026년 6월 기준 전국 942개 지점과 소속 보험설계사(FA) 2만4724명을 둔 초대형 법인보험대리점(GA)입니다." / "에이플러스에셋어드바이저는 신한라이프 11월 GA 생보실적 기준 6.4% 점유율로 약 5억5,941만원으로 3위에 올랐습니다."
+- **출처명**: 보험저널(insjournal.co.kr) "[한눈에보는GA리포트] 인카금융서비스" / "인카금융서비스, 독립 GA 최초 설계사 2만 명 돌파" / "신한라이프 11월 GA 생보실적 M/S…'인카금융서비스' 1위 유지 속, '신한금융플러스·에이플러스에셋' 상위권 형성"
+- **출처 URL**: https://www.insjournal.co.kr/news/articleView.html?idxno=29814 , https://www.insjournal.co.kr/news/articleView.html?idxno=28726 , https://www.insjournal.co.kr/news/articleView.html?idxno=29482 (WebFetch 차단, WebSearch 결과 기반)
+- **기준 시점**: 인카금융서비스는 2026년 1분기(1~3월) 실적, 2026년 6월 기준 지점·설계사 수 / 에이플러스에셋은 "11월 GA 생보실적" 기준(정확한 연도 특정 안 됨 — 문맥상 2025년 11월로 추정되나 확인 필요)
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: GA 업계(전통적 대면 중심 보험판매채널)는 카카오페이 등 플랫폼 비교추천서비스와는 결이 다른 경쟁자이지만, 규제 변화 축의 "보험판매전문회사" 제도·"판매수수료 개편" 등과 맞물려 판매채널 간 경쟁 구도 전체를 이해하는 데 참고할 것. 에이플러스에셋의 "11월" 기준 정확한 연도는 **확인 필요**.
 
 ## 해외 시장 및 경쟁 동향
 
-(아직 근거 없음)
+> **조사 방법 관련 비고**: 이번 세션도 businesswire.com, beinsure.com 등 다수 해외 매체
+> 도메인에서 WebFetch가 차단되어(`EGRESS_BLOCKED`) WebSearch 결과 기반으로 조사했습니다.
+> 미국 SEC 공시(sec.gov)·기업 IR 페이지(investors.everquote.com, ir.selectquote.com,
+> admiralgroup.co.uk 등)에서 나온 수치는 상대적으로 신뢰도가 높은 1차 출처로 판단됩니다.
+
+### 미국 — EverQuote 2025년 연간 실적 (자동차보험 비교 플랫폼)
+
+- **수치/핵심 사실**: EverQuote(나스닥 상장, 미국 최대 온라인 보험 마켓플레이스 중 하나) 2025년 연간 매출 6억9,250만달러로 전년 대비 +38%. 부문별로 자동차보험(Automotive) 부문 매출 6억2,980만달러(+41%), 주택·임차인보험(Home and renters) 부문 매출 6,270만달러(+20%). 조정 EBITDA 9,460만달러(전년 대비 +62%), GAAP 순이익 9,930만달러. 2025년 영업현금흐름 9,540만달러, 연말 현금 1억7,140만달러, 5,000만달러 규모 자사주 매입 프로그램 개시.
+- **원문 발췌**: "EverQuote reported full year revenue growth of 38% year-over-year to $692.5 million. The company also achieved strong profitability metrics, with full-year Adjusted EBITDA rising to $94.6M (+62% YoY) and GAAP net income of $99.3M." / "Automotive insurance vertical revenue of $629.8 million, an increase of 41%" / "Home and renters insurance vertical revenue of $62.7 million, an increase of 20%" / "CEO Jayme Mendal stated that '2025 was a record year for EverQuote defined by significant success scaling our marketplace, further integrating AI into our operations, and accelerating our evolution to a growth solutions partner to our customers'."
+- **출처명**: EverQuote, Inc. 공식 IR "EverQuote Announces Fourth Quarter and Full Year 2025 Financial Results" / Yahoo Finance "EverQuote (EVER) Reports 38% Revenue Surge in 2025 Driven by Auto Insurance Growth"
+- **출처 URL**: https://investors.everquote.com/press-releases/press-release-details/2026/EverQuote-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx , https://finance.yahoo.com/news/everquote-ever-reports-38-revenue-222315791.html , https://www.sec.gov/Archives/edgar/data/1640428/000119312526066957/ever-20251231.htm (SEC 10-K, WebFetch로 원문 직접 열람은 시도 안 함)
+- **기준 시점**: 2025년 연간(1~12월) 실적, 발표 시점 2026년 초
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 원달러 환산 시(참고용, 정확한 환율 시점 미지정) 6억9,250만달러는 약 9천억원대 규모로, 카카오페이손해보험 연간 보험수익(571억원, 2025년)이나 국내 보험비교추천서비스 전체 시장 규모와 비교해 압도적으로 큰 사업 규모 — 미국 시장은 자동차보험 비교 플랫폼이 훨씬 성숙한 산업으로 자리잡았음을 시사. 다만 미국은 자동차보험이 의무 갱신·주(state)별 규제 다양성으로 비교쇼핑 수요가 원래 큰 시장이라는 구조적 차이가 있어 단순 비교 시 caveat 필요.
+
+### 미국 — SelectQuote FY2025 실적 (보험 비교·중개 플랫폼)
+
+- **수치/핵심 사실**: SelectQuote(뉴욕증권거래소 상장) FY2025(9월 결산) 분기별 연결매출: 1분기 2억9,230만달러(전년 2억3,270만달러), 2분기 4억8,110만달러(전년 4억540만달러), 3분기 4억820만달러(전년 3억7,640만달러), 4분기 3억4,510만달러(전년 3억720만달러). 합산 연간 매출 약 15억2,700만달러로 가이던스 범위(14억2,500만~15억2,500만달러) 내 부합, 전년 대비 +13% 성장(헬스케어서비스 부문이 견인). FY2026 매출 가이던스는 16억5,000만~17억5,000만달러로 제시.
+- **원문 발췌**: "Q1 FY2025: Consolidated revenue of $292.3 million compared to $232.7 million in Q1 FY2024" / "Q2 FY2025: Consolidated revenue of $481.1 million compared to $405.4 million in Q2 FY2024" / "The company achieved strong revenue growth of 13% year-over-year, driven by Healthcare Services. For fiscal year 2026, the company expects revenue to be in the range of $1.650 billion to $1.750 billion."
+- **출처명**: SelectQuote, Inc. 공식 IR 분기 실적 발표 자료(1~4분기) / TradingView News "SelectQuote, Inc. Reports Fourth Quarter of Fiscal Year 2025 Results"
+- **출처 URL**: https://ir.selectquote.com/news/news-details/2024/SelectQuote-Inc.-Reports-First-Quarter-of-Fiscal-Year-2025-Results/default.aspx , https://ir.selectquote.com/news/news-details/2025/SelectQuote-Inc.-Reports-Second-Quarter-of-Fiscal-Year-2025-Results/default.aspx , https://www.tradingview.com/news/tradingview:a04e5d0a19bb8:0-selectquote-inc-reports-fourth-quarter-of-fiscal-year-2025-results/
+- **기준 시점**: FY2025(2024년 10월~2025년 9월 회계연도로 추정), 4개 분기 합산은 market-researcher가 검색 결과의 개별 분기 수치를 단순 합산한 값(회사가 공식 발표한 연간 총계 문구는 직접 확인 못함)
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 연간 합산치(약 15.27억달러)는 4개 분기 수치를 market-researcher가 단순 합산해 산출한 것으로, 회사의 공식 "연간 실적" 보도자료 원문을 직접 대조하지 못했음 — report-writer는 "분기별 실적 합산 추정치"라고 명시할 것. SelectQuote는 순수 보험비교 플랫폼이 아니라 헬스케어서비스(메디케어 어드밴티지 등) 비중이 크므로, 카카오페이 자동차/펫보험 중심 사업과는 상품 구성이 다름을 감안해 비교할 것.
+
+### 미국 — Policygenius (생명·재산보험 마켓플레이스, Zinnia 자회사)
+
+- **수치/핵심 사실**: Policygenius는 생명보험·장기장애보험·임차인보험·펫보험 등의 견적 비교·가입을 지원하는 온라인 보험 마켓플레이스로, 누적 투자유치액 2억8,700만달러(마지막 라운드는 2022년 3월 17일 1억2,500만달러 시리즈E). 2023년 4월 25일 Zinnia에 인수되어 현재 독립 상장사가 아님. 2025년 기준 구체적 매출 수치는 이번 세션에서 확인하지 못함(2019년 연환산 매출 6,000만달러라는 오래된 자료만 확인, 이는 2026-08 기준 7년 전 자료로 참고 가치 낮음).
+- **원문 발췌**: "Policygenius has raised $287M in total funding. Their latest funding round was of $125M on Mar 17, 2022." / "Policygenius got acquired by Zinnia on Apr 25, 2023." / "An older reference notes that the company achieved $60 million in annualized revenue in 2019."
+- **출처명**: Tracxn "Policygenius - 2025 Funding Rounds & List of Investors" / Crunchbase 기업 프로필 / Financial Samurai "What Is Policygenius?"
+- **출처 URL**: https://tracxn.com/d/companies/policygenius/__VVJBDotcuhZ4fvQIV0zJXKYhU6fWZeZWFMXLLE6qybk/funding-and-investors , https://www.crunchbase.com/organization/policy-genius , https://www.financialsamurai.com/information-about-policygenius-insurance/ (WebFetch 미시도, WebSearch 결과 기반)
+- **기준 시점**: 투자유치·인수는 2022~2023년 기준, 매출 6,000만달러는 2019년 기준(매우 오래된 자료)
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: **"확인 필요 (2025년 매출 등 최신 정량 실적 출처 미확보)"** — Zinnia에 인수된 이후 비상장 자회사가 되어 최신 재무 공시가 공개되지 않는 것으로 추정됨. report-writer는 2019년 매출(6천만달러)을 "2025년 실적"인 것처럼 쓰지 말 것 — 사업 모델(생명보험·펫보험 등 카카오페이와 유사한 상품 구성) 소개 용도로만 참고.
+
+### 영국 — Compare the Market(BGL Group 자회사) FY2024 실적 및 시장 지위
+
+- **수치/핵심 사실**: Compare the Market의 지주사 격인 BHL (UK) Holdings는 FY2024(2024년 6월 30일 결산)에 매출 6억4,160만파운드(전년 5억3,460만파운드 대비 +20%), 세전이익 1억7,260만파운드(전년 9,460만파운드 대비 큰 폭 증가) 기록. 별도로 Compare The Market Limited(운영법인 기준)의 세전이익은 1억5,230만파운드에서 2억2,160만파운드로 증가한 것으로 보도(두 수치는 서로 다른 법인 단위이므로 혼동 주의). 매출 성장 배경은 자동차보험 등 손해보험 보험료 상승에 따른 전환(switching) 수요 증가 및 BGL 그룹 전략 진전으로 설명됨. Compare the Market은 2025년 기준 손해보험(non-life insurance) 전반에서 영국 1위 가격비교사이트(PCW) 지위 유지.
+- **원문 발췌**: "Compare The Market's pre-tax profit jumped from £152.3m to £221.6m for the year to 30 June 2024" / "BHL (UK) Holdings ... posted revenues of £641.6m for the year to 30 June 2024, up from £534.6m in 2023, with pre-tax profits jumping from £94.6m to £172.6m" / "The revenue growth reflects progress in BGL Group's strategy, as well as an increasing premiums environment resulting in higher switching rates in motor insurance and other general insurance products." / "Compare the Market retained its position as the dominant PCW across non-life insurance in 2025."
+- **출처명**: CityAM "Compare The Market: Higher premiums help profit pass £200m" / Insider Media "Revenue surge for Compare the Market owner" 계열 기사
+- **출처 URL**: https://www.cityam.com/compare-the-market-higher-premiums-help-profit-pass-200m/ , https://www.insidermedia.com/news/national/revenue-surge-for-compare-the-market-owner (WebFetch 미시도, WebSearch 결과 기반)
+- **기준 시점**: FY2024(2023년 7월~2024년 6월 회계연도), "2025년 기준 시장지위" 언급은 별도 자료(아래 UK PCW 시장 항목) 인용
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: Compare The Market Limited의 세전이익(2.216억파운드)과 모회사 BHL UK Holdings의 세전이익(1.726억파운드)은 서로 다른 법인 단위 수치이므로 report-writer는 둘 중 하나만 선택해 명확히 법인명을 표기하고 혼용하지 말 것. 6억4,160만파운드는 원화 환산 시(참고용, 환율 시점 미지정) 약 1조원 이상 규모로, 국내 보험비교추천 플랫폼 시장(자동차보험 비교추천 계약 14만건 수준, 시장현황 축 참고)과 비교해 매우 성숙한 시장 규모를 보여줌.
+
+### 영국 — Go.Compare(Future plc 자회사) 2025년 상반기 실적
+
+- **수치/핵심 사실**: Future plc(영국 상장 미디어그룹, GoCo Group/Go.Compare 소유) 2025년 상반기(회계연도 상반기) 실적에서 Go.Compare의 자동차보험(car insurance) 매출은 전년 동기 대비 -6%(견적 건수 감소, 강한 전년 비교 기저효과), 비자동차보험(non-car insurance) 매출은 +10%로 전체 Go.Compare 매출의 38%를 차지(전년 대비 4%포인트 증가). Go.Compare 전체 매출은 -1%로 예상 범위 내 소폭 감소. 별도 자료(2024년 실적 기준)로는 Go.Compare가 30%대 매출 성장(2024년 9월 결산연도)을 기록한 바 있어, 연도별 변동성이 큰 편.
+- **원문 발췌**: "Non-car insurance grew by 10% in the half, representing 38% of Go.Compare revenue, up 4 percentage points from the previous year." / "Car insurance revenue declined by 6% in the half set against strong comparators." / "Overall, Go.Compare revenue declined 1%, as expected, as car quote volumes declined given the strong revenue comparator. Despite this, the company saw good diversification with 10% revenue growth from non-car insurance." / "Go.Compare continued to show 'very strong growth' in the year ended 30 September 2024."(별도 2024년 실적 자료)
+- **출처명**: Future plc "2025 Half Year Results" 공식 IR 자료 / Bath Business News "Go.Compare stays on song with strong performance to ease impact of weaker revenues at Future"
+- **출처 URL**: https://futureplc.com/wp-content/uploads/2025/06/Final-Future-plc-2025-HALF-YEAR-RESULTS-1.docx.pdf , https://www.investegate.co.uk/announcement/rns/future--futr/future-plc-2025-half-year-results/8881415 , https://www.bath-business.net/go-compare-stays-on-song-with-strong-performance-to-ease-revenue-fall-at-future/ (WebFetch 미시도, WebSearch 결과 기반)
+- **기준 시점**: 2025년 상반기(Future plc 회계연도 기준, 정확한 월 구간은 확인 필요 — "2025 Half Year Results" 발표일 2025년 5월 16일로 추정) / 별도 인용된 2024년 실적은 2024년 9월 결산 회계연도 기준
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: Go.Compare이 "생명보험 부문에서는 2025년 기준 영국 1위 PCW로 Compare the Market을 역전했다"는 별도 정보(아래 UK PCW 시장 항목)와 함께 보면, Go.Compare은 비자동차보험(생명·홈·펫 등) 다각화 전략을 통해 성장을 도모 중임을 알 수 있음 — 카카오페이의 펫보험 등 신상품 확장 전략과 유사한 방향성으로 참고 가치 있음.
+
+### 영국 — 가격비교사이트(PCW) 시장 전반 및 Confused.com 소유구조 변화
+
+- **수치/핵심 사실**: ResearchAndMarkets "UK Insurance Aggregators Market Analysis Report 2025"(2025-07-30 보도)에 따르면 영국 성인의 67%가 최근 1년 내 보험 검색을 위해 가격비교사이트(PCW)를 이용. 손해보험(non-life insurance) 4개 상품 중 3개가 PCW를 통한 구매 건수 증가 추세. 2025년 기준 Compare the Market이 non-life insurance 전반에서 1위 PCW 지위를 유지한 반면, Go.Compare이 생명보험 상품 부문에서 Compare the Market을 제치고 1위로 올라섬. 참고로 더 오래된 자료(2022년 기준, MotorFinanceOnline 인용)로는 자동차보험 한정 PCW 이용 점유율이 Compare the Market 54.5%, MoneySuperMarket 14.8%, Go.Compare 13.9%, Confused.com 12.6%. Confused.com은 2021년 4월 30일 Admiral Group이 Penguin Portals 사업부(Confused.com 포함)를 사모펀드 배경의 RVU에 5억800만파운드에 매각해, 현재 Admiral Group과는 별개 회사임.
+- **원문 발췌**: "67% of UK adults have used a price comparison website (PCW) to search for insurance policies in the last year." / "Three Out of Four Non-Life Insurance Purchases via PCWs Show Positive Growth" (보고서 제목) / "Compare the Market retained its position as the dominant PCW across non-life insurance in 2025. However, Go.Compare overtook Compare the Market to become the leading PCW across life insurance products." / "Admiral Group sold its Penguin Portals division, including Confused.com, to RVU—a private equity-backed entity—for £508 million, with the deal closing on 30 April 2021." / "Compare the Market is the most frequently used PCW within motor insurance with a 54.5% share of the market, with MoneySuperMarket ranking second (14.8%), followed by Go.Compare (13.9%) and Confused.com (12.6%). Note that this data is from 2022."
+- **출처명**: ResearchAndMarkets/Businesswire "UK Insurance Aggregators Market Analysis Report 2025"(2025-07-30) / MotorFinanceOnline "Compare the Market top PCW for motor insurance in UK despite most expensive quotes"(2022년 자료 인용)
+- **출처 URL**: https://www.businesswire.com/news/home/20250730342128/en/UK-Insurance-Aggregators-Market-Analysis-Report-2025-Three-Out-of-Four-Non-Life-Insurance-Purchases-via-PCWs-Show-Positive-Growth---ResearchAndMarkets.com , https://www.researchandmarkets.com/report/united-kingdom-insurance-aggregator-market , https://www.motorfinanceonline.com/news/compare-the-market-top-pcw-for-motor-insurance-in-uk-despite-most-expensive-quotes/ (WebFetch 차단, WebSearch 결과 기반)
+- **기준 시점**: PCW 이용률(67%)·2025년 시장 지위 데이터는 2025년 보고서 기준(정확한 조사 기간은 원문 미확보), 자동차보험 점유율(54.5%/14.8%/13.9%/12.6%)은 2022년 기준으로 오래된 자료 — 원문에도 "Note that this data is from 2022"라고 명시됨
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 2022년 점유율 수치를 2025년 현재 수치처럼 쓰지 말 것 — 반드시 "2022년 기준"이라는 caveat와 함께 "참고용 과거 데이터"로만 인용. report-writer는 "2025년 기준으로는 Compare the Market이 non-life 전반 1위, Go.Compare이 생명보험 1위"라는 최신 정성적 서술과, "2022년 기준 자동차보험 한정 점유율"을 명확히 구분해 병기할 것. 영국은 4개 PCW(Compare the Market·Go.Compare·Confused.com·MoneySuperMarket)가 시장을 사실상 과점하는 구조로, 국내 "네카토+해빗팩토리" 구도와 유사한 소수 플랫폼 과점 패턴을 보임 — 카카오페이 전략 시사점으로 활용 가능.
+
+### 중국 — 알리페이 계열 蚂蚁保(Ant Insurance, 앤트그룹 보험대리 플랫폼)
+
+- **수치/핵심 사실**: 蚂蚁保(앤트그룹의 보험대리 플랫폼, 알리페이 내 서비스)는 전국 90개 이상 보험사와 제휴해 누적 서비스 이용자(보민) 6억명을 서비스 중이며, 이 중 55% 이상이 3선 이하 도시(중소도시) 거주자. 2025년 한 해 동안 90여개 제휴 보험사가 건강보험·상해보험·재산보험(장면보험 제외) 분야에서 총 178.7억위안을 배상 처리했고, 이 중 건강보험 영역 이론(배상) 서비스 이용자는 999만명 이상(전년 대비 +37%). 2019년 온라인 이론(배상) 서비스 출시 이후 누적 배상액 619억위안, 누적 서비스 이용자 3,575만명. 2025년 반려동물보험 배상 처리 건수는 200만건 돌파.
+- **원문 발췌**: "2025年，90多家合作保险公司在蚂蚁保平台完成健康险、意外险及财产险（不含场景险）赔付178.7亿元，其中在健康险领域，理赔服务用户超过999万人次，同比增长37%。" / "蚂蚁保自2019年上线在线理赔功能以来，累计赔付超619亿元，服务理赔用户超3575万人次。" / "蚂蚁保已经和全国超过90家保险机构合作，共同服务超6亿保民，超过55%的在保用户来自三线以下城市。" / "2025年，蚂蚁保宠物险累计完成理赔案件超过200万次。"
+- **출처명**: 신랑재경(finance.sina.com.cn) "蚂蚁保公布2025年理赔年报：合作保险公司共理赔178.7亿元"(2026-02-03) / 中国日报(chinadaily.com.cn) 동일 취지 보도
+- **출처 URL**: https://finance.sina.com.cn/roll/2026-02-03/doc-inhkpkrf0229280.shtml , http://ex.chinadaily.com.cn/exchange/partners/114/rss/channel/cn/columns/07pz5d/stories/WS69818a46a310942cc499dfd7.html (WebFetch 미시도, WebSearch 결과 기반)
+- **기준 시점**: 2025년 연간(1~12월) 이론(배상) 실적, 발표일 2026년 2월 3일 / 누적 이용자 6억명은 발표 시점(2026년 초) 기준 최신 수치
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 蚂蚁保는 알리페이(즈푸바오) 슈퍼앱 내 보험 서비스로, 카카오페이의 보험 서비스와 플랫폼 구조상 가장 유사한 해외 사례 — "슈퍼앱 내 보험 비교·중개"라는 비즈니스모델 시사점으로 유용. 다만 蚂蚁保는 정확한 연간 보험료(매출) 규모를 이번 세션에서 확인하지 못했고(배상액·이용자 수만 확인), 정확한 매출/거래액 규모는 "확인 필요". 참고로 알리페이는 카카오페이의 2대 주주(payments 도메인 evidence 참고)로, 그룹 차원의 보험 비즈니스 전략을 참고할 만한 관계사임.
+
+### 중국 — 인터넷보험 시장 전체 규모 및 규제 프레임워크
+
+- **수치/핵심 사실**: 중국 인터넷보험 시장 규모는 2013년 290억위안에서 2022년 4,782.5억위안으로 성장(연평균 복합성장률 32.3%). 세부적으로 2023년 인터넷 재산보험 보험료 1,210억위안(전년 대비 +5.5%, 70여개 재산보험사가 인터넷 사업 영위), 인터넷 인신보험(생명·건강 등) 보험료 3,739억위안(전년 대비 +2.8%, 57개사 영위). 업계 전망 기준(자료 발표사의 예측치) 2025~2029년 연평균 15~20% 성장해 2029년 총보험료 규모 1.1조~1.4조위안 돌파 전망. 규제는 2015년 「인터넷보험업무감독관리 임시방법」, 2020년 「인터넷보험업무감독관리방법」에 이어 2024년 인터넷재산보험 신규정이 시행되며 프레임워크가 점진적으로 강화됨.
+- **원문 발췌**: "从2013年到2022年，互联网保险保费规模从290亿元增长到4782.5亿元，年均复合增长率达到32.3%。" / "2023年，70余家财产险公司布局互联网业务，推动互联网财产险保费规模达1210亿元，同比增长5.5%；人身险领域则有57家公司开展互联网业务，互联网人身险保费达3739亿元，同比增长2.8%。" / "据预计，到2025年，互联网保险市场规模将进一步扩大，到2029年，互联网保险的总保费规模有望突破万亿大关，达到1.1万亿至1.4万亿元... 未来五年互联网保险将以15%-20%的年均增速稳健增长。" / "自2009年起，监管机构陆续出台政策，2015年《互联网保险业务监管暂行办法》和2020年《互联网保险业务监管办法》等，不断明确监管范围、规范经营要求... 随着2024年互联网财产险新规的出台，互联网保险领域的监管框架愈发完善。"
+- **출처명**: 챠오르바오(chinabgao.com, 报告大厅) "2025年互联网保险市场规模分析：互联网保险市场规模有望达到1.4万亿元" / "2025年互联网保险行业政策分析：稳定市场秩序提升个体保险风险控制力"
+- **출처 URL**: https://m.chinabgao.com/info/1269216.html , https://m.chinabgao.com/freereport/102760.html (WebFetch 미시도, WebSearch 결과 기반)
+- **기준 시점**: 실적치(4,782.5억위안·1,210억위안·3,739억위안)는 각각 2022년·2023년 기준으로, 2026-08 현재로는 2~3년 지난 자료. 2025~2029년 성장 전망치는 시장조사기관의 예측(추정)치이며 확정 실적이 아님. 더 최신 실적(2024·2025년 실제 보험료 규모)은 이번 세션에서 확인하지 못함 — **확인 필요**
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 이 자료는 민간 시장조사기관(chinabgao.com)의 유료 보고서 홍보성 요약이라 방법론·원출처(중국은행보험감독관리위원회 등 공식 통계) 검증이 어려움 — report-writer는 "업계 추정치"라는 caveat를 반드시 명시할 것. 더 최신(2024·2025년 실적)이나 1차 관영 통계(国家金融监督管理总局 등)를 찾는 추가 조사가 바람직함.
+
+### 일본 — 保険市場(호켄이치바) 등 보험상담/비교 플랫폼
+
+- **수치/핵심 사실**: 일본의 대표적 보험 상담·비교 플랫폼 중 하나인 「保険市場」(호켄이치바)는 2025년 6월 2일 기준 전국 749개 매장(이 중 직영점 11개) 운영, 93개 보험사 상품을 취급(일반적인 보험 대리점의 취급사 수 20~30개사 대비 2배 이상). 누적 상담 실적 76만건 돌파. 야노경제연구소(矢野経済研究所)는 2025년 「생명보험 판매채널 전략과 전망」 보고서를 발표해 내점형(来店型) 보험숍 시장 규모 등을 다룸(구체적 시장규모 수치는 이번 세션에서 원문 확인 못함).
+- **원문 발췌**: "保険市場とは、700以上の店舗を展開する無料保険相談窓口で、2025年6月2日現在、直営店11店舗含む合計749店舗があります。" / "保険市場は90社以上の保険会社の商品を取り扱っており、一般的な取扱保険会社20〜30社程度と比較して、その倍以上の選択肢を提供しています。" / "保険市場の累計相談実績は76万件を突破し、取扱保険会社数も93社と国内最大級の実績と豊富な商品ラインナップを誇っています。"
+- **출처명**: ほけんのぜんぶ "保険市場の口コミ・評判は？独自の徹底調査をもとに紹介" / 야노경제연구소(yano.co.jp) "생명보험의 판매채널에 관한 조사를 실시（2025年）"
+- **출처 URL**: https://hoken-all.co.jp/article-4561/ , https://www.yano.co.jp/press-release/show/press_id/3987 (WebFetch 미시도, WebSearch 결과 기반)
+- **기준 시점**: 매장 수·취급사 수는 2025년 6월 2일 기준. 야노경제연구소 보고서는 2025년 발표
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 일본의 "保険市場"·"保険の窓口" 등은 온라인 비교보다 대면 상담(내점형 숍) 중심 모델로, 카카오페이·토스 등 한국의 100% 비대면 앱 내 비교추천 서비스와는 사업모델이 상이함 — 단순 비교보다는 "일본은 여전히 대면 상담 채널이 보험 판매의 중심"이라는 시사점으로 활용. 일본의 순수 온라인 보험비교 플랫폼(価格.com保険 등)에 대한 정량 데이터는 이번 세션에서 확보하지 못함 — **확인 필요 (추가 조사 여지 있음)**.
+
+### (참고, 신뢰도 낮음) 미국 보험 애그리게이터 시장 전체 규모 — 리서치사별 추정치 편차 매우 큼
+
+- **수치/핵심 사실**: "US Insurance Aggregators Market" 관련 여러 민간 시장조사기관의 2025년 시장규모 추정치를 검색한 결과, Market Research Future는 2025년 89.7억달러(2035년까지 CAGR 기반 성장 전망이나 다른 페이지에서는 2025년 579.6억달러→2035년 1,792.6억달러라는 상충 수치도 확인), 타 리서치사는 2025년 281.2억달러 또는 443.6억달러 등 기관별로 최대 6배 이상 차이 나는 추정치를 제시.
+- **원문 발췌**: "The United States Insurance Aggregators Market size is projected at USD 8.97 Billion in 2025" / "USD 28.12 billion (2025) according to another source" / "$44.36 billion in 2025 according to additional analysis" / "the Insurance Aggregator industry projected to grow from 57.96 USD Billion in 2025 to 179.26 USD Billion by 2035"
+- **출처명**: Market Research Future "Insurance Aggregator Market Size, Global Report" (동일 사이트 내에서도 페이지별 수치 상이) / GlobalGrowthInsights / 기타 리서치사 복수
+- **출처 URL**: https://www.marketresearchfuture.com/reports/insurance-aggregator-market-26614 , https://www.globalgrowthinsights.com/market-reports/insurance-aggregators-market-123359 (WebFetch 미시도, WebSearch 결과 기반)
+- **기준 시점**: 2025년 추정치(발표 시점·조사 방법론 불명확)
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: **이 수치들은 report-writer가 리포트에 채택하지 말 것을 강력히 권고.** 동일 리서치사 내에서도 페이지에 따라 6배 이상 차이가 나는 등 방법론 신뢰성이 매우 낮은 유료 보고서 마케팅 자료로 판단됨(정의 범위가 "보험 애그리게이터"인지 "보험 유통 전체"인지 등이 기관마다 다를 가능성). 미국 시장 규모를 인용해야 한다면 위 EverQuote/SelectQuote 등 상장사의 실제 공시 매출(1차 출처)을 사용하고, 이런 사설 리서치사의 "시장 규모 전망치"는 배제하거나 반드시 "기관별 추정치가 상충하여 신뢰도가 낮음"이라는 caveat와 함께만 인용할 것.
+
+### 종합 시사점 메모 (해외 사례 → 카카오페이 시사점)
+
+- **수치/핵심 사실 (정성적 종합, 조사자 메모)**: (1) 미국(EverQuote·SelectQuote)과 영국(Compare the Market·Go.Compare)은 보험비교 플랫폼 산업이 이미 성숙 단계로, 개별 기업 매출이 수천억~1조원대 규모에 달하며 자동차보험 중심에서 비자동차보험(홈·펫·생명 등)으로 다각화하는 추세가 뚜렷함(Go.Compare 사례). (2) 영국은 4개 PCW가 사실상 과점하는 구조로 국내 "네카토+해빗팩토리" 구도와 유사하며, 보험사가 CM 채널과 비교플랫폼 채널 간 가격을 일원화하는 방향(국내 '비교·추천서비스 2.0'과 유사한 규제 흐름)이 이미 자리잡음. (3) 중국 알리페이 계열 蚂蚁保는 슈퍼앱 내 보험 서비스로 카카오페이와 구조적으로 가장 유사하며, 6억명 이용자·90개+ 보험사 제휴라는 압도적 규모의 플랫폼 비즈니스를 보유 — 카카오페이의 최대주주 그룹사(알리페이) 차원의 참고 사례로 유용. (4) 일본은 대면 상담형 보험숍이 여전히 강세로, 100% 비대면 비교추천 서비스가 아직 지배적이지 않은 시장 — 한국·미국·영국·중국과는 다른 채널 구조를 보임.
+- **원문 발췌**: (해당 없음 — 위 개별 항목들의 사실관계를 종합한 조사자 자체 분석 메모이며, 직접 인용 가능한 단일 원문은 없음)
+- **출처명**: (해당 없음, 위 항목들 종합)
+- **출처 URL**: (해당 없음)
+- **기준 시점**: 2026-08-10 조사 시점 종합
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 이 항목은 사실(fact)이 아니라 조사자의 종합 해석이므로, report-writer는 이를 "출처가 있는 사실"처럼 각주를 달지 말고, 리포트의 "종합 인사이트" 섹션에서 위에 개별적으로 각주가 달린 사실들을 근거로 삼아 유사한 논지를 직접 구성할 것 — 이 메모 자체를 인용하지 말 것.
