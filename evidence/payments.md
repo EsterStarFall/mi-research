@@ -114,8 +114,114 @@ report-writer는 이 파일에 있는 근거만 사용해 리포트를 작성합
 
 ## 경쟁 동향
 
-(아직 조사 전)
+### 네이버페이 — 2026년 2분기 결제액 25조 2,000억원(+21.0%), 오프라인 확장(Npay 커넥트)
+
+- **수치/핵심 사실**: 네이버페이의 2026년 2분기(4~6월) 전체 결제액은 25조 2,000억원으로 전년동기 대비 21.0% 증가. 이 중 외부 결제액은 14조 1,000억원(+26.2%)으로 전체 결제액의 56%를 차지. 네이버는 2025년 11월 출시한 오프라인 통합 단말기 'Npay 커넥트'의 활성 가맹점 확보 속도가 당초 예상을 웃돈다고 밝혔으며, 네이버 ID 기반 오프라인 결제 규모를 5년 안에 130조원까지 확대한다는 목표를 제시. 네이버 전체 실적은 2026년 2분기 매출 3조 3,888억원(분기 기준 역대 최대), 영업이익 5,203억원(전년동기 대비 0.2%↓, AI 인프라 투자 영향).
+- **원문 발췌**: "2분기 Npay 전체 결제액은 25조2000억원으로 전년 동기보다 21.0% 늘었다." / 외부 결제액 "14조1000억원으로 26.2% 증가"했고 "전체 결제액의 56%를 차지했다." / (Npay 커넥트 관련) "정식 출시 7개월 만에 활성 가맹점 확보 속도가 당초 예상을 웃돌고 있다." / "네이버 ID 기반 오프라인 결제 규모는 5년 안에 130조원까지 확대한다는 계획이다."
+- **출처명**: 디지털데일리(ddaily), "25조 결제액 넘긴 네이버페이…'Npay 커넥트'로 오프라인 AI 영토 확장"(WebFetch 원문 직접 확인) / 전자신문, "네이버, 2분기 매출 3조3888억원…분기 기준 역대 최대"(네이버 전체 실적, WebSearch 확인)
+- **출처 URL**: https://www.ddaily.co.kr/page/view/2026080713171863427 (WebFetch로 직접 확인) / https://www.etnews.com/20260807000008
+- **기준 시점**: 2026년 2분기(4~6월) 실적, 기사 게재일 2026년 8월 7일
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 이 수치는 백업 evidence(재조사 이력)에서 "2026년 2분기 결제액 25조원, +21%"로 잠정 기록됐던 것을 이번 조사에서 WebFetch로 원문 직접 재확인해 정확한 수치(25조 2,000억원, 외부결제액 14조 1,000억원/+26.2%/비중 56%)로 확정함. 2025년 2분기 수치(20조 8,000억원, +18.7%, 이투데이 보도)와는 서로 다른 분기이므로 비교 시 반드시 연도·분기를 구분 표기할 것.
+
+### 카카오페이 — 오프라인 결제 확장 전략, 2027년까지 이용자 1,000만명·카드사 4위 목표
+
+- **수치/핵심 사실**: 카카오페이는 현재(2026년 상반기 기준) 월간 오프라인 결제 이용자(MAU) 600만명 이상이며, 내년(2027년)까지 1,000만명으로 확대해 신용카드사를 포함한 오프라인 결제 시장 4위(현대카드를 제침)에 오르겠다는 목표를 제시. 결제 건수는 5억건을 돌파했고, 온오프라인 100대 브랜드 중 95%에서 카카오페이 결제가 도입됨. QR오더 서비스 '춘식이QR' 적용 매장 약 3,000개, 삼성페이·제로페이 제휴 포함 결제처 300만개 이상 확보. 자체 단말기 대규모 보급 대신 기존 POS·VAN 사업자와 협력하는 '자산경량화' 전략을 채택.
+- **원문 발췌**: "카카오페이가 월간 이용자 수 1000만명을 기록한다면 현대카드를 제치고 4위에 등극하는 셈이다." / "카카오페이는 현재 결제 건수 5억건을 돌파했으며, 온오프라인 100대 브랜드 중 95%에서 카카오페이 결제가 도입된 상태" / (오프라인 사용자) "현재 월간 600만 명... 내년까지 1,000만 명" 목표 / QR오더 적용 매장 "약 3,000개 매장", 범용 결제 사용처 "300만 개 이상"
+- **출처명**: 머니투데이, "카카오페이 내년 주요 카드사 누르고 '4위 오르겠다' 포부"(WebFetch 원문 직접 확인) / 전자신문, "카카오페이, 오프라인 결제 드라이브…간편결제 경쟁, 오프라인서 2라운드"(WebFetch 원문 직접 확인)
+- **출처 URL**: https://www.mt.co.kr/finance/2026/05/12/2026051211473328256 (WebFetch로 직접 확인) / https://www.etnews.com/20260512000285 (WebFetch로 직접 확인)
+- **기준 시점**: 기사 게재일 2026년 5월 12일, 목표 시점 2027년(기사상 "내년")
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 굿딜 프로그램 관련 "출시 초기 대비 사용자 372% 증가, 입점 브랜드 90개 확대"라는 부수 수치도 확인되었으나 원 기사 문맥(구체 기준 시점)이 명확하지 않아 참고용으로만 병기. 월 최대 3만원 적립 혜택 제공 등 사용자 리텐션 전략도 함께 보도됨.
+
+### 토스페이 — 오프라인 단말기(토스 프론트2) 37만 가맹점, 페이스페이 가입자 600만명
+
+- **수치/핵심 사실**: 토스의 오프라인 통합 단말기 '토스 프론트2'는 2026년 6월 기준 전국 37만개 이상 가맹점에 설치(이후 시점 별도 보도에서는 약 40만개로 확대). 같은 시점 네이버페이의 'Npay 커넥트'는 6월 기준 가맹점 10만개를 돌파(2025년 11월 출시, 3월 이후 신규 설치 가맹점 5만 2,000개 증가)해 두 서비스가 오프라인 가맹점 확보 경쟁 중. 토스의 얼굴인식 결제 서비스 '페이스페이' 누적 가입자는 600만명을 돌파(이후 별도 보도에서 700만명 돌파). 참고로 한국은행 '2025년중 국내 지급결제동향'에 따르면 대면결제 일평균 약 1조 7,860억원, 비대면결제 일평균 약 1조 2,870억원이며, 실물카드 없는 대면결제(모바일 결제 등)는 전년대비 10.4% 증가.
+- **원문 발췌**: "토스 프론트2 [가맹점 수는] 올해 6월 기준 전국 37만개 이상 가맹점에 설치" / "토스 페이스페이 가입자가 600만명을 돌파" / "Npay 커넥트 가맹점 수 6월 기준으로 10만개를 돌파", "2025년 11월 출시했다는 점을 감안하면 빠른 성장세" / "지난 3월부터 네이버페이 커넥트 신규 설치 가맹점이 5만2000개로 늘어났다" / 대면결제 일평균 "약 1조7860억원", 비대면결제 일평균 "약 1조2870억원", 실물카드 없는 대면결제 "10.4% 증가"
+- **출처명**: ZDNet Korea, "오프라인서 단말기 가맹점 수로 격돌하는 토스vs네이버페이"(WebFetch 원문 직접 확인) / 뉴데일리, "37만 가맹점 확보한 토스…페이스페이 키울수록 커지는 안정성 시험대"(WebSearch 확인, 700만명 별도 수치)
+- **출처 URL**: https://zdnet.co.kr/view/?no=20260702084049 (WebFetch로 직접 확인) / https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900118.html
+- **기준 시점**: 2026년 6월 기준(토스 프론트2 가맹점 수), 페이스페이 가입자 600만명(기사 게재일 2026년 7월 2일경), 700만명(별도 기사, 2026년 7월 9일)
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 페이스페이 가입자 수는 2026년 1월 말 200만명(백업 evidence 기록) → 2026년 7월 초 600만명 → 7월 9일경 700만명으로 빠르게 증가하는 추세로 확인됨(각 시점별로 명확히 구분 표기 필요). "토스페이 신규 가맹점 기준 점유율 25%" 등 개인 SNS 재인용 수치(백업 evidence 참고)는 이번 조사에서도 공식 출처를 재확인하지 못해 채택하지 않음.
+
+### PG(전자지급결제대행)사 경쟁 동향 — NHN KCP·KG이니시스 2026년 실적
+
+- **수치/핵심 사실**: NHN KCP는 2026년 1분기 연결 매출 3,448억 6,000만원(전년동기 대비 +22.7%), 영업이익 137억 8,000만원(+26.4%). 1분기 총거래액은 전년동기 대비 약 22% 증가한 14.4조원이며, 이 중 해외 거래액이 2조 6,000억원으로 전년대비 68.3% 급증. KG이니시스는 2026년 2분기 연결 매출 3,718억원(+15.0%), 영업이익 286억원(+15.1%), 순이익 197억원(+18.9%). 별도 기준 매출 1,976억원(+18.4%), 영업이익 118억원(+8.9%). PG 사업이 대형 가맹점을 중심으로 거래액을 견인했고, 렌탈 사업도 동반 성장. NHN KCP의 2026년 2분기 실적은 확인일(2026-08-10) 기준 아직 미발표(2026년 8월 18일 발표 예정으로 확인됨).
+- **원문 발췌**: (NHN KCP 1분기) "NHN KCP는 2026년 1분기 연결 기준 매출액 3,448억6,000만원, 영업이익 137억8,000만원을 기록했습니다. 전년 동기 대비 매출액은 22.7%, 영업이익은 26.4% 증가한 수치입니다." / "1분기 총거래액은 전년 동기 대비 약 22% 증가한 14.4조원을 기록했습니다. 특히 해외 거래액이 2.6조원을 기록, 전년 대비 68.3% 증가" / (KG이니시스 2분기, WebFetch 확인) "매출액: 3,718억원 / 영업이익: 286억원 / 전년동기대비 매출액 성장률: 15% / 전년동기대비 영업이익 성장률: 15.1%" / "PG 사업이 대형 가맹점을 중심으로 견조한 거래액을 기록하며 1분기에 이어 외형 성장을 지속했다"
+- **출처명**: 뉴스와이어/코리아데일리, "NHN KCP, 1분기 매출 3449억·영업이익 138억… 성장 모멘텀 가속화"(WebSearch 확인) / 전자신문, "KG이니시스, 2분기 영업익 286억원…PG·렌탈 '쌍끌이'"(WebFetch 원문 직접 확인)
+- **출처 URL**: https://www.newswire.co.kr/newsRead.php?no=1034212&sourceType=rss , https://www.seoul.co.kr/news/economy/2026/05/12/20260512500041 / https://www.etnews.com/20260805000180 (WebFetch로 직접 확인)
+- **기준 시점**: NHN KCP 2026년 1분기(1~3월) 실적, 기사 게재일 2026년 5월 12일 / KG이니시스 2026년 2분기(4~6월) 실적, 기사 게재일 2026년 8월 5~6일
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: NHN KCP는 2026년 2분기 실적을 2026년 8월 18일 발표 예정으로 확인됨(확인일 기준 미발표) — 발표 후 재조사 시 KG이니시스와 같은 분기로 비교 가능. "NHN KCP가 PG 거래액 기준 업계 1위"라는 자체 소개 문구(백업 evidence)는 이번 조사에서 제3자 집계로 재검증하지 못함.
+
+### 국내 간편결제 이용 행태 조사 — 오픈서베이 "결제 서비스 트렌드 리포트 2026"
+
+- **수치/핵심 사실**: 오픈서베이가 2026년 6월 15일~21일 전국 만 20~69세 2,000명(1단계) 및 최근 1개월 내 모바일 결제 경험자 1,000명(2단계)을 대상으로 실시한 조사 결과: 온라인 쇼핑에서는 네이버페이가 포인트·할인 혜택을 기반으로 1위, 송금에서는 카카오페이가 "상대방이 쓰는 페이라서"라는 네트워크 효과를 앞세워 1위. 오프라인 결제 10회 중 실물카드 4.62회·모바일 결제 4.54회로 거의 대등, 현금은 0.85회에 그침. 편의점에서는 삼성페이·애플페이(45.0%) 이용률이 일반 카드(54.3%)와 비슷한 수준까지 근접했으나, 카페·식당·대형마트·키오스크 등 대부분 오프라인 상황에서는 여전히 일반 카드가 1순위. 페이스페이(얼굴인식 결제)는 인지도는 높으나 실사용 경험자는 인지자의 절반에도 못 미침.
+- **원문 발췌**: "10회 결제 중 현금 사용은 채 1회에도 못 미치며, 모바일 결제는 실물카드와 거의 같은 수준으로 쓰입니다." / (송금) "카카오페이가 1위이며, '상대방이 쓰는 페이라서'라는 네트워크 효과"가 선택을 좌우 / (페이스페이) "인지도는 높으나, 실제로 써본 사람은 아는 사람의 절반에도 못 미칩니다." / (편의점) "삼성페이·애플페이(45.0%)의 이용률이 일반 카드(54.3%)와 거의 비슷한 수준"
+- **출처명**: 오픈서베이(Opensurvey) 블로그, "결제 서비스 트렌드 리포트 2026" / "네이버·카카오·토스페이 각축전, 다음 승부처는 페이스페이가 될까? — 2026 결제 서비스 트렌드"(WebFetch 원문 직접 확인)
+- **출처 URL**: https://blog.opensurvey.co.kr/trendreport/payment-2026/ (WebFetch로 직접 확인) / https://blog.opensurvey.co.kr/article/payment-2026-2/
+- **기준 시점**: 조사 기간 2026년 6월 15일~21일, 리포트 공개 시점 2026년 상반기
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 이 조사는 거래액 기준 "시장점유율"이 아니라 "이용 경험/선호 행태" 조사이므로, report-writer는 "시장점유율"이 아닌 "이용 행태/선호도 조사(오픈서베이)"로 명확히 구분해서 표기할 것. 별도 WebSearch 요약에서 "네이버페이 사용 경험 83.3%, 최근 1개월 이용률 72.7%"라는 수치가 언급되었으나 오픈서베이 원문(WebFetch)에서 직접 확인되지 않아 이 evidence에는 포함하지 않음(원출처 미확보, 필요 시 재조사 권장).
 
 ## 해외 시장 및 경쟁 동향
 
-(아직 조사 전)
+### Apple Pay — 2026년 글로벌 이용자·거래액 추정치 (민간 리서치 집계)
+
+- **수치/핵심 사실**: 민간 리서치 사이트(CapitalOneShopping) 집계 기준, Apple Pay는 2026년 전세계 이용자 약 9억 100만명으로 추정(미국 내 약 6,980만명). 2025년 전세계 거래액은 약 9조 5,000억 달러(다른 자료는 "연간 7조 6,000억 달러 이상", 또다른 자료는 "약 8조 7,000억 달러"로 표기해 출처 간 수치가 크게 다름). 모바일 지갑 시장점유율(2025년 기준, 동일 사이트 집계)은 Apple Pay 39%, Google Pay 44%, Samsung Pay 9%.
+- **원문 발췌**: "An estimated 901 million people worldwide are Apple Pay users in 2026" / 미국 "69.8 million" (2026년 기준) / "Apple Pay had $9.5 trillion in payments in 2025" / 모바일 지갑 시장점유율 "Apple Pay: 39%, Google Pay: 44%, Samsung Pay: 9%"(2025년 기준)
+- **출처명**: CapitalOneShopping Research, "Apple Pay Statistics (2026): Users, Market Share & Growth Rate"(WebFetch 원문 직접 확인)
+- **출처 URL**: https://capitaloneshopping.com/research/apple-pay-statistics/ (WebFetch로 직접 확인)
+- **기준 시점**: 이용자 수 2026년 추정치, 거래액 2025년 추정치 (2026년 발행 리서치 자료 기준)
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: Apple 공식 발표 수치가 아니라 민간 통계 집계 사이트의 추정치이며, 같은 사이트 내에서도 거래액 수치가 "9조 5,000억 달러"(본문)와 "8조 7,000억 달러"(다른 섹션, 2025년 표기) 등으로 일관되지 않게 나타나 신뢰도가 제한적임. report-writer는 이 수치를 "복수 민간 리서치 추정치이며 정확한 공식 통계는 아님"으로 명시해서 사용하거나, 방향성(수조 달러 규모, 수억명 이용자)만 참고용으로 인용할 것을 권장. Apple은 이용자 수·거래액을 공식 공시하지 않음.
+
+### Stripe — 2025년 연간 총결제액(TPV) 1조 9,000억 달러(+34%), 최초로 PayPal TPV 추월
+
+- **수치/핵심 사실**: Stripe는 2025년 연례 서한에서 자사 플랫폼상 기업들의 총결제액(TPV)이 1조 9,000억 달러로 전년(1조 4,000억 달러) 대비 34% 증가했다고 발표(전세계 GDP의 약 1.6%에 해당). 연도별 추이는 2023년 약 1조 달러 → 2024년 1조 4,000억 달러(+38~40%) → 2025년 1조 9,000억 달러(+34%). 2025년 기준 Stripe의 TPV(1조 9,000억 달러)가 처음으로 같은 해 PayPal의 TPV(1조 7,900억 달러)를 넘어섰다고 보도됨.
+- **원문 발췌**: "businesses on Stripe generated $1.9 trillion in total volume in 2025, up 34% from 2024" / "In 2025, businesses on Stripe generated $1.9 trillion—equivalent to 1.6% of global GDP" / "For the first time, Stripe's total payment volume ($1.9 trillion) exceeded PayPal's total payment volume ($1.79 trillion) on the same calendar year basis."
+- **출처명**: Stripe 공식 연례 서한(stripe.com/annual-updates/2025) / CoinLaw, "Stripe Statistics 2026: TPV & Market Share"(WebFetch로 재인용 수치 확인)
+- **출처 URL**: https://stripe.com/annual-updates/2025 , https://coinlaw.io/stripe-statistics/ (WebFetch로 직접 확인)
+- **기준 시점**: 2025년 연간 실적, 연례 서한 발간 시점 2026년 초
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: TPV 1조 9,000억 달러(+34%) 수치는 Stripe 공식 페이지 기반으로 이전 조사(2026-08-10 이전 백업)에서도 WebFetch 직접 확인된 바 있어 신뢰도 높음. 시장점유율 관련 수치(미국 이커머스 결제기술 68.02%, 글로벌 온라인결제처리 20.8~29%)는 6sense·BuiltWith 등 트래픽 분석 도구 기반 추정치로 공식 재무 지표와 성격이 다르므로 참고용으로만 취급.
+
+### PayPal — 2026년 2분기 TPV 4,864억 달러(+10%), 매출 86억 8,200만 달러(+5%)
+
+- **수치/핵심 사실**: PayPal의 2026년 2분기(4~6월) 순매출은 86억 8,200만 달러(전년동기 대비 +5%), 총결제액(TPV)은 4,864억 달러(+10%, 환율 중립 기준 +9%), 결제 거래건수는 68억건(+8%). GAAP 기준 순이익 11억 400만달러(주당순이익 1.25달러), 비GAAP 주당순이익 1.38달러. 활성계정 수는 4억 3,900만개로 전년동기 대비 거의 변동 없음(횡보). BNPL(후불결제) TPV는 +26%, Venmo 직불카드 월간활성이용자(MAA)는 +50% 이상 성장. PayPal은 2026년 연간 가이던스를 상향 조정.
+- **원문 발췌**: "Net revenues: $8,682 million (2Q'26), up 5% year-over-year" / "Total payment volume (TPV): $486.4 billion in 2Q'26, up 10% year-over-year" (환율 중립 기준 9%) / "payment transactions rising 8% to 6.8 billion" / "Active accounts: 439 million (essentially flat year-over-year)" / "Buy now, pay later TPV increased 26%... Venmo Debit Card MAA grew more than 50%"
+- **출처명**: TradingView News, "PayPal reports Q2 2026: revenue $8.68B, TPV $486.4B, non-GAAP EPS $1.38"(WebFetch 원문 직접 확인, PayPal 공식 실적발표 인용)
+- **출처 URL**: https://www.tradingview.com/news/tradingview:3918348c7949c:0-paypal-reports-q2-2026-revenue-8-68b-tpv-486-4b-non-gaap-eps-1-38/ (WebFetch로 직접 확인)
+- **기준 시점**: 2026년 2분기(4~6월) 실적
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: 2025년 전체(Full Year) TPV 1조 7,900억 달러(+7%), 활성계정 4억 3,900만개(백업 evidence 기록)와 비교하면 2026년 2분기에도 활성계정 수는 정체(4억 3,900만개로 거의 동일)된 반면 TPV 성장률은 유지되는 추세. 성장세는 BNPL·Venmo 등 신사업 부문이 견인하는 것으로 보도됨.
+
+### 중국 — Alipay·WeChat Pay 듀오폴리 시장 구조 지속 (OECD 2025년 6월 기준)
+
+- **수치/핵심 사실**: 2024년 기준 Alipay가 중국 모바일결제 시장의 약 53~54%, WeChat Pay가 약 42%를 차지(합산 90% 이상)한다고 OECD의 2025년 6월 경쟁 배경노트(Competition in Mobile Payment Services)가 추정. 이 구도는 2026년 현재까지도 유지되는 것으로 재확인됨(2019년 합산 94% → 2024년 합산 약 95~96%로 거의 변동 없음). Alipay는 전세계 10억명 이상 이용자를 연결하며(Ant Group 기업 개요 기준), Weixin/WeChat MAU는 2025년 9월 30일 기준 14억 1,400만명(전년대비 +2%, Tencent 2025년 3분기 실적발표 기준).
+- **원문 발췌**: "Alipay and WeChat Pay were estimated to hold around 54% and 42% of the mobile payments market share in China, according to the OECD's June 2025 competition background note." / "Alipay currently holds around 53% market share, while WeChat Pay accounts for roughly 42%, according to recent 2026 data." / "Alipay connects over 1 billion users" / Weixin/WeChat MAU "1,414 million as of September 30, 2025"
+- **출처명**: OECD, "Competition in Mobile Payment Services"(Background Note, 2025년 6월) — CoinLaw, "Alipay vs WeChat Pay in 2026"(WebFetch로 재인용 수치 확인, 1차 출처로 OECD·Ant Group·Tencent·PBOC 명시)
+- **출처 URL**: https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/competition-in-mobile-payment-services_026eec4d/0ce6b5d3-en.pdf (원문, 이전 조사에서 텍스트 추출 실패 확인됨) / https://coinlaw.io/alipay-vs-wechat-pay-statistics/ (WebFetch로 직접 확인)
+- **기준 시점**: 시장점유율은 2024년 기준(OECD 노트 발행 2025년 6월), MAU는 2025년 9월 30일 기준
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: OECD 공식 PDF는 이번에도 직접 텍스트 추출에 실패해 2차 출처(CoinLaw)로 확인함. CoinLaw가 명시한 1차 출처(OECD, Ant Group, Tencent, PBOC)를 근거로 재인용 신뢰도는 있다고 판단하나, 가능하면 추후 사람이 OECD 원문 PDF를 직접 열어 재확인 권장. 국내 시사점: 알리페이는 카카오페이의 2대 주주로서, 알리페이·위챗페이의 듀오폴리 구조·해외결제 노하우가 카카오페이의 해외결제(Alipay+) 제휴 전략에 참고 사례가 될 수 있음.
+
+### 동남아시아 — 디지털결제 시장 거래액 1조 달러 돌파, 전자지갑 이용자 4억명대 진입 전망
+
+- **수치/핵심 사실**: 동남아시아 디지털결제 시장의 총 거래액(transaction value)이 처음으로 1조 달러(1,000 billion)를 돌파했다고 보도됨(정확한 기준연도·1차 출처는 기사 내 명시되지 않음, 재인용 주의). IDC 추정치 기준 2026년 동남아 전자지갑 이용자는 4억 2,600만명으로 전망(전체 인구의 62%), 인도네시아·말레이시아·베트남은 약 70% 수준으로 더 높음. Google·Temasek·Bain의 "e-Conomy SEA 2025" 보고서(2025년 11월 발간)에 따르면 동남아 디지털경제 GMV는 10년 전 400억 달러에서 2025년 3,000억 달러 이상으로 성장했고 거래의 60% 이상이 디지털 방식. 국가별 정부 주도 QR/실시간결제 인프라 사례 — 태국 PromptPay 일평균 7,400만건(등록 9,000만건), 인도네시아 QRIS 분기 26억건 거래(2025년 초 기준, 가맹점 4,000만개·이용자 5,700만명, 한국은행 인도네시아 자료 아님·Bank Indonesia 출처), 필리핀 GCash 이용자 9,400만명, 싱가포르는 2025년 디지털지갑이 체크카드를 제치고 오프라인 결제수단 1위로 등극(Worldpay Global Payments Report 2026 인용).
+- **원문 발췌**: "Southeast Asia's digital payments market has crossed the $1 trillion threshold in total transaction value." / "IDC estimate of 426 million digital wallet users in Southeast Asia by 2026, representing 62% of the population; Indonesia, Malaysia, and Vietnam are expected to be around 70%" / "Southeast Asia's digital economy grew from $40 billion GMV a decade ago to more than $300 billion in 2025, with over 60% of transactions now digital"(Bain e-Conomy SEA 2025 인용) / 태국 PromptPay "74 million transactions daily"(등록 9,000만건) / 인도네시아 QRIS "2.6 billion transactions in a single quarter"(가맹점 4,000만개, 이용자 5,700만명, 출처: Bank Indonesia) / 필리핀 GCash "94 million users" / 싱가포르 디지털지갑이 2025년 "overtook debit cards as the leading point-of-sale payment method"(출처: Worldpay Global Payments Report, 2026)
+- **출처명**: Digital in Asia, "How Do Digital Payments Work in Southeast Asia in 2026? QR, Wallets, and Cross-Border Rails"(WebFetch 원문 직접 확인) / Antom(앤트그룹 계열), "Southeast Asia Payment Trends 2026"(WebFetch 확인, IDC 전자지갑 이용자 수치 출처) / Bain & Company, "e-Conomy SEA 2025" 인사이트 페이지
+- **출처 URL**: https://digitalinasia.com/how-digital-payments-work-in-southeast-asia/ (WebFetch로 직접 확인) / https://knowledge.antom.com/southeast-asia-payment-trends-2026 (WebFetch로 직접 확인) / https://www.bain.com/insights/e-conomy-sea-2025/
+- **기준 시점**: "$1조 달러 돌파"는 기준연도 불명(기사 게재 시점 2026년 기준 최근 상황 서술로 추정) / 전자지갑 이용자 4억 2,600만명은 2026년 전망치(IDC) / 디지털경제 GMV 3,000억 달러는 2025년 기준(2025.11 발간) / 태국·인도네시아·필리핀·싱가포르 개별 수치는 각기 다른 시점(기사 내 정확한 일자 불명확, 대체로 2025년 하반기~2026년 초로 추정)
+- **확인일**: 2026-08-10
+- **조사자**: market-researcher
+- **비고**: "디지털결제 시장 1조 달러 돌파"는 출처가 명확히 밝혀지지 않은 언론(Digital in Asia)의 서술로, 정확한 기준연도·1차 통계기관을 특정하지 못함 — report-writer는 이 수치 사용 시 "정확한 기준시점 확인 필요"로 표기하거나 사용을 자제할 것. 반면 IDC 전자지갑 이용자 전망(4억 2,600만명, 62%)과 e-Conomy SEA GMV(3,000억 달러, 2025년)는 출처가 비교적 명확해 우선 활용 권장. "동남아 디지털결제 시장이 2026년 7,890억 달러 규모, CAGR 16.78%(~2030)"라는 수치가 별도 WebSearch 요약(1차 검색)에서 나왔으나 이번 WebFetch 재확인 과정에서 원문을 직접 찾지 못해(2차 재인용 사이트로 추정) 이 evidence에는 포함하지 않음 — 필요 시 별도 재조사 권장.
