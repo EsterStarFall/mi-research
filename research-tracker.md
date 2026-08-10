@@ -30,7 +30,7 @@
 
 | 도메인 | 초안 | 검수 | 전사 공유 |
 |---|---|---|---|
-| 결제 | ☑ | ☐ | ☐ |
+| 결제 | ☑ | ☑ | ☐ |
 | 대출 | ☐ | ☐ | ☐ |
 | 보험 | ☐ | ☐ | ☐ |
 | 투자&증권 | ☐ | ☐ | ☐ |
@@ -98,3 +98,13 @@
 > 사람이 `reports/payments.md`와 [review/payments-checklist.md](review/payments-checklist.md)를
 > 최종 확인하고 "리포트 완료 현황" 표의 검수/전사 공유 칸을 체크한 뒤에야 나머지 10개 도메인으로
 > 확장합니다.
+
+> **[사람 승인, 2026-08-10] 나머지 10개 도메인으로 확장 승인됨.** 사람이 payments 파일럿 결과를
+> 확인하고 "전체를 다 돌려달라"고 명시적으로 승인했습니다. "리포트 완료 현황" 표의 결제 "검수" 칸을
+> 체크했습니다("전사 공유"는 실제 배포 시점에 별도로 체크). 이제부터 대출(lending) → 보험(insurance)
+> → 투자&증권(investment-securities) → 카드중개(card-brokerage) → 통신중개(telecom-brokerage) →
+> 광고(advertising) → 데이터 기반 비즈니스(data-business) → 머니&송금(money-remittance) →
+> 그로스(growth) → 기술(technology) 순서로, payments와 동일한 파이프라인(market-researcher 축
+> 1-2개씩 → report-writer → fact-checker → 필요시 재조사 루프)을 도메인별로 반복합니다. 더 이상
+> 도메인 확장 전 사람 승인을 기다리지 않고 연속 진행하되, 도메인이 끝날 때마다 이 파일에 진행상황을
+> 기록해 언제든 상태를 파악할 수 있게 합니다.
