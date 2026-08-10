@@ -1,0 +1,11 @@
+# 개인/머신별 로컬 설정 (팀 공유 대상 아님)
+.claude/settings.local.json
+
+# OS
+.DS_Store
+
+# 혹시 data-manager가 파이썬 스크립트를 쓰게 될 경우 대비
+__pycache__/
+*.pyc
+.venv/
+.env
