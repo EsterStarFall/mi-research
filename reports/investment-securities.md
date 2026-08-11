@@ -1,7 +1,7 @@
 # 투자&증권 트렌드 & 인사이트 리포트
 
 > 작성일: 2026-08-11 | 작성: report-writer | 근거: [evidence/investment-securities.md](../evidence/investment-securities.md)
-> 검수 상태: [review/investment-securities-checklist.md](../review/) 참고 — 검수 미완료 리포트는 공유 금지
+> 검수 상태: 재조사 1차 반영 완료(2026-08-11) — fact-checker 재검수 대기. [review/investment-securities-checklist.md](../review/) 참고 — 검수 미완료 리포트는 공유 금지
 > 조사 방법 한계: 이번 조사 세션에서는 금융위·금감원·언론사 등 대부분 도메인에서 WebFetch(원문
 > 직접 열람)가 차단되어, WebSearch(검색엔진의 페이지 종합 결과) 기반으로 조사하고 가능한 한
 > 복수 매체로 교차검증했습니다. 각주 URL은 실제 출처이나 원문 페이지 직접 대조는 되지 않았다는
@@ -9,7 +9,7 @@
 
 ## 1. 시장현황
 
-* 2025년 증권·선물회사 영업실적(금융감독원 확정치) — 2025년 연간, 2026-03-26 발표
+* 2025년 증권·선물회사 영업실적(금융감독원 잠정치) — 2025년 연간, 2026-03-26 발표
    * 국내 증시 호황을 타고 증권업계가 사상 최대 수준의 실적 개선을 보였고, 2026년 1분기에는 그 흐름이 더 가팔라졌다
       * 증권회사(61사) 2025년 당기순이익 9조 6,455억원, 전년대비 +2조 7,014억원(+38.9%)[^1]
       * 자산총액 943.9조원(+25.0% YoY), 자기자본 102.4조원(+11.7% YoY)[^1]
@@ -103,8 +103,8 @@
       * 2025-2026년 갱신치는 이번 조사에서 확인되지 않음 — 확인 필요
 * 증권업계 리테일 유치 경쟁 — 수수료 무료에서 현금성 리워드·세제혜택 연계로 확장
    * 2026년 1월 '국장(국내증시) 복귀' 정책(해외주식 매각 후 국내주식 투자시 1년 한시 양도세 비과세)을 계기로 증권사들의 유치 경쟁이 격화됐고, 카카오페이증권도 유사한 프로모션에 참여했다
-      * 삼성증권 신규계좌 국내주식 거래지원금 2만원, 키움증권 타사주식 이전시 최대 300만원(2026-03-31까지), 우리투자증권 2026-12-31까지 국내주식 온라인 거래수수료 면제[^22]
-      * 카카오페이증권도 신규 고객 첫 주문 체결 시 최대 200만원 랜덤 캐시 리워드, 타사 주식 입고 고객 대상 1000일간 판매수수료 혜택(2025-04) 등으로 대응[^22]
+      * 삼성증권 신규계좌 국내주식 거래지원금 2만원, 키움증권 타사주식 이전시 최대 300만원(2026-03-31까지), 우리투자증권 2027-12-31까지(2026-01-01부터) 국내주식 온라인 거래수수료 면제[^22]
+      * 카카오페이증권도 신규 고객 첫 주문 체결 시 최대 200만원 랜덤 캐시 리워드, 타사 주식 입고 고객 대상 1000일간 판매수수료 혜택(2025-04, 이미 종료된 1회성 이벤트) 등으로 대응[^22]
       * 카카오페이증권 개별 이벤트의 참여자 수·마케팅비 등 규모는 이번 조사에서 확인되지 않음 — 확인 필요
 * 네이버페이 — 비상장주식 거래 플랫폼 인수를 통한 증권업 인접 진출
    * 네이버페이는 카카오페이증권처럼 정식 증권사 라이선스로 상장주식 MTS 시장에 진입한 것이 아니라, 비상장주식 중개라는 인접 틈새시장으로 접근하고 있어 카카오페이증권과 동일 선상의 MTS 경쟁자로 볼 수 없다
@@ -173,7 +173,7 @@
 [^19]: 인사이트코리아, 녹색경제신문, 이뉴스투데이, 네이트뉴스, 서울경제, 와우테일, 전자신문(2026-05-31). https://www.insightkorea.co.kr/news/articleView.html?idxno=250081 , https://www.greened.kr/news/articleView.html?idxno=345044 , https://www.enewstoday.co.kr/news/articleView.html?idxno=2448284 , https://news.nate.com/view/20260713n20304 , https://www.sedaily.com/article/20067035 , https://wowtale.net/2026/07/13/261366/ , https://www.etnews.com/20260531000090 (확인일: 2026-08-11)
 [^20]: 디지털투데이, 인더스트리뉴스, 이코노믹리뷰, 서울경제, 머니투데이, 시장경제 등. https://www.digitaltoday.co.kr/news/articleView.html?idxno=598993 , https://www.industrynews.co.kr/news/articleView.html?idxno=73167 , https://www.econovill.com/news/articleView.html?idxno=715733 , https://www.sedaily.com/NewsView/2GZAFENJGB , https://www.mt.co.kr/stock/2025/10/29/2025102908514085237 , https://www.meconomynews.com/news/articleView.html?idxno=122284 (확인일: 2026-08-11)
 [^21]: 전자신문 「카카오페이證, 펀드·투자랭킹 서비스 강화…시장점유율 확대 속도」(2024-07-15). https://www.etnews.com/20240715000246 (확인일: 2026-08-11)
-[^22]: 알파경제(investing.com 재게재), 다음(2026-01-14), 뉴스웍스, 전자신문. https://kr.investing.com/news/stock-market-news/article-1788234 , https://alphabiz.co.kr/news/view/1065594488404821 , https://v.daum.net/v/20260114143141682 , https://www.newsworks.co.kr/news/articleView.html?idxno=769535 , https://www.etnews.com/20250428000240 (확인일: 2026-08-11)
+[^22]: 알파경제(investing.com 재게재), 다음(2026-01-14), 뉴스웍스, 전자신문. https://kr.investing.com/news/stock-market-news/article-1788234 , https://alphabiz.co.kr/news/view/1065594488404821 , https://v.daum.net/v/20260114143141682 , https://www.newsworks.co.kr/news/articleView.html?idxno=769535 , https://www.etnews.com/20250428000240 (확인일: 2026-08-11) / 재조사 1차(2026-08-11) 반영 — 우리투자증권 수수료 면제 기간(2026-01-01~2027-12-31) 정정: 인더스트리뉴스, CEO스코어데일리, 한국금융신문, 이데일리(marketin), 인사이트코리아 등 10개 이상 매체 교차확인. https://www.industrynews.co.kr/news/articleView.html?idxno=76404 , https://www.ceoscoredaily.com/page/view/2026010512084482669 , https://www.fntimes.com/html/view.php?ud=2026010511141167510f4390e77d_18 , https://marketin.edaily.co.kr/News/ReadE?newsId=02492806645314768 , https://www.insightkorea.co.kr/news/articleView.html?idxno=238560 / 카카오페이증권 "1000일간" 판매수수료 혜택 원문 확인: 이투데이, 한국일보, 뉴스후플러스. https://www.etoday.co.kr/news/view/2465967 , https://www.hankooki.com/news/articleView.html?idxno=250475 , https://www.newswhoplus.com/news/articleView.html?idxno=25873
 [^23]: 네이버 공식 뉴스룸 보도자료(2025-09-11). https://www.navercorp.com/media/pressReleasesDetail?seq=33282 (확인일: 2026-08-11)
 [^24]: Robinhood Markets, Inc. 공식 IR 보도자료 「Robinhood Reports Fourth Quarter and Full Year 2025 Results」(2026-02-10). https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-fourth-quarter-and-full-year-2025-results / 교차확인: https://www.barchart.com/story/news/140750/robinhood-reports-fourth-quarter-and-full-year-2025-results , https://www.investmentnews.com/equities/robinhood-caps-record-2025-with-q4-revenue-surge-but-shares-fall-on-investor-concerns/265225 (확인일: 2026-08-11)
 [^25]: The Charles Schwab Corporation 공식 IR 보도자료 「Schwab Reports Record 4Q and Full Year 2025 Results」(2026-01-21). https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Reports-Record-4Q-and-Full-Year-2025-Results/default.aspx / 교차확인: https://fintool.com/news/schwab-record-earnings-12-trillion-assets , https://markets.financialcontent.com/stocks/article/marketminute-2026-1-23-schwabs-paradox-record-assets-and-strong-earnings-shadowed-by-sluggish-cash-recovery-as-2026-begins (확인일: 2026-08-11)
