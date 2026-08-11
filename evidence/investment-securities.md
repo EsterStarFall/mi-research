@@ -216,8 +216,145 @@
 
 ## 경쟁 동향
 
-(아직 근거 없음)
+> **조사 방법 관련 비고 (2026-08-11)**: 이번 세션도 네트워크 egress 프록시가 v.daum.net,
+> investors.robinhood.com, pressroom.aboutschwab.com 등 거의 모든 대상 도메인에서 WebFetch를
+> 차단해(`EGRESS_BLOCKED`) WebSearch 교차검증 기반으로 조사했습니다.
+
+### 카카오페이증권 vs 토스증권 — 2026년 1분기 순이익 격차 및 수익구조 비교
+
+- **수치/핵심 사실**: 2026년 1분기 토스증권 당기순이익 844억원(전년동기대비 +32%), 카카오페이증권 당기순이익 235억원대(전년동기대비 +532%) — 절대금액 기준 약 3.6배 격차. 수익구조: 토스증권은 외화증권(해외주식) 수탁수수료 비중이 2023년 약 80%에서 2025년 94.5%로 상승, 카카오페이증권도 수수료수익의 약 89.1%가 해외주식 수수료에서 발생 — 양사 모두 해외주식 중심 수익구조로 수렴. 2025년 3분기 기준 커뮤니티(주식 커뮤니티) MAU는 토스증권 220만명으로 카카오페이(71만명)의 3배 이상(단, 이 수치는 2025년 3분기 기준으로 다소 시점이 다름 — 아래 비고 참고).
+- **원문 발췌**: "토스증권의 2026년 1분기 당기순이익은 844억원으로 전년 동기보다 32% 증가했고, 카카오페이증권의 1분기 당기순이익은 235억원대로 532% 급증했습니다." / "외화증권 수탁수수료 비중은 2023년 약 80%에서 2025년 94.5%로 높아졌습니다. 반면 카카오페이증권은 수수료수익 중 약 89.1%가 해외주식 수수료에서 발생했습니다." / "3분기 토스증권의 커뮤니티 MAU는 220만명으로, 카카오페이(71만명)보다 3배 이상 많다." (2021~2023년 영업손실 비교: "토스증권의 영업손실은 2021년 780억원에서 2023년 약 9억원으로 줄었고... 카카오페이증권의 손실은 2021년 178억원에서 2023년 515억원으로 확대됐다")
+- **출처명**: 딜사이트(dealsite.co.kr) 「토스·카카오페이증권, 격차 더 벌어진 이유는」, 다음(v.daum.net, 원출처 매체 재배포) 「해외주식 타고 실적 뛴 토스·카카오페이증권…점유율 격차는 확대」(2026-03-13), 인더스트리뉴스 「분기 최대 실적에도 실적 차이는 8배…토스·카카오페이증권 희비 교차」, 네이트뉴스(2025-11-18 게재, "형보다 나은 아우…카카오증권, 토스증권 영업익 못따라가는 이유")
+- **출처 URL**: https://dealsite.co.kr/articles/123201 , https://v.daum.net/v/20260313193656597 (모두 WebFetch 차단, WebSearch 종합 결과 기준) , https://www.industrynews.co.kr/news/articleView.html?idxno=74589 , https://news.nate.com/view/20251118n33907
+- **기준 시점**: 2026년 1분기 순이익 비교(844억원 vs 235억원대) / 외화증권 수탁수수료 비중 2023년 vs 2025년(연간 기준으로 추정, 정확한 분기 미상) / 커뮤니티 MAU 격차는 2025년 3분기 기준(다른 시점이므로 순이익 비교와 병기 시 주의) / 2021~2023년 영업손익 추이는 오래된 자료(참고용)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **report-writer 주의**: 순이익 규모(2026년 1분기)와 커뮤니티 MAU(2025년 3분기)는 기준 시점이 다른 별개 지표이므로 절대 같은 문장에서 시점 표기 없이 병기하지 말 것. "형보다 나은 아우"(2025-11-18 네이트뉴스 제목)라는 표현에서 알 수 있듯, 카카오페이증권은 모회사(카카오페이) 대비 상대적으로 존재감이 작다는 업계 평가가 있음 — 다만 이는 매체의 주관적 프레이밍이므로 리포트에 그대로 인용하기보다 정량 수치(순이익 격차, MAU 격차) 중심으로 서술 권고.
+
+### 카카오페이증권 투자매매업 인가 이후 — 토스증권과의 차별화 전략(IB 진출)
+
+- **수치/핵심 사실**: 카카오페이증권은 2025년 8월 1일(연도 추정, 시장현황 섹션 참고) 투자매매업(증권) 인가를 획득한 데 이어, 2026년 7월 13일경 이를 IPO 주관·인수, 공모주 청약, 회사채 등 채권 인수 업무로 구체화한다고 공식 발표. 기존 위탁중개(브로커리지) 중심 구조에서 자기자본을 활용한 유가증권 인수·매매·판매가 가능해짐. 반면 토스증권은 2026년 5월경 "해외주식 소수점 거래 안정성 확보"를 위해 투자매매업(집합투자증권 등) 신청을 진행 중(카카오페이증권보다 약 9개월~1년 늦은 시점에 신청 단계 — 인가 완료 여부는 이번 세션에서 미확인). 즉 두 회사가 투자매매업 확장이라는 같은 방향으로 움직이되, 카카오페이증권은 IPO·채권 등 IB 영역, 토스증권은 해외주식 소수점거래 인프라 안정화라는 서로 다른 목적을 표방.
+- **원문 발췌**: "금융당국이 지난 1일 카카오페이증권의 금융투자업 업무 단위 추가등록(1-1-1 투자매매업·증권) 신청을 의결했으며... IPO 주관·인수와 공모주 청약 서비스를 비롯해 회사채 등 채권 인수 업무도 가능해졌다." / "카카오페이증권, 투자매매업 인가 영토 확장...토스증권과 차별화 행보" (녹색경제신문 제목) / "토스증권이 해외주식 소수점 거래 안정성을 확보하기 위해 투자매매업 인가에 신청했으며, 금융위원회에 신청 업무 '집합투자증권'에 대해 투자매매업을 신청했다." (전자신문, 2026-05-31)
+- **출처명**: 인사이트코리아, 녹색경제신문, 이뉴스투데이, 네이트뉴스, 서울경제, 와우테일, 전자신문(토스증권 투자매매업 신청 관련) 등 복수 매체 종합
+- **출처 URL**: https://www.insightkorea.co.kr/news/articleView.html?idxno=250081 , https://www.greened.kr/news/articleView.html?idxno=345044 , https://www.enewstoday.co.kr/news/articleView.html?idxno=2448284 , https://news.nate.com/view/20260713n20304 , https://www.sedaily.com/article/20067035 , https://wowtale.net/2026/07/13/261366/ , https://www.etnews.com/20260531000090 (모두 WebFetch 차단, WebSearch 종합 결과 기준)
+- **기준 시점**: 카카오페이증권 투자매매업 인가 획득 2025-08-01(연도 추정)·IB 진출 계획 공식화 2026-07-13 / 토스증권 투자매매업 신청 2026-05-31 보도 기준(신청 단계, 인가 완료 여부 미확인)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: 토스증권의 투자매매업 "신청"과 카카오페이증권의 "인가 획득·공식 사업화"는 진행 단계가 다르므로 report-writer는 "토스증권도 투자매매업 인가를 받았다"는 식으로 단정하지 말고 "신청 단계(2026-05월 기준)"로 명확히 구분해서 서술할 것. 카카오페이증권이 이 영역에서 시간상 앞서 있다는 점이 시사점이 될 수 있음.
+
+### 카카오페이증권 신규 서비스 — '수익률 모으기·팔기' 자동매매 기능 및 사모펀드 소액투자
+
+- **수치/핵심 사실**: 카카오페이증권이 2025년 10월 23일 '주식 모으기' 서비스에 목표수익률 기반 자동매매 기능인 '수익률 모으기'(수익률 하락 시 자동 추가매수)·'수익률 팔기'(목표수익률 도달 시 자동매도)를 신규 도입(각 최대 100개까지 설정 가능). 또한 2025년 10월 29일경 국내 주식형 펀드 등 3종을 추가해 사모펀드 소액투자가 가능한 펀드 라인업을 확대.
+- **원문 발췌**: "카카오페이증권은 '주식 모으기' 서비스에 '수익률 모으기'와 '수익률 팔기' 기능을 새롭게 도입했다고 23일 밝혔다." / "수익률 모으기는 사용자의 개별 종목 수익률이 일정 수준 이하로 떨어질 때마다 자동으로 추가 구매하는 기능... 수익률 팔기는 설정한 목표 수익률에 도달하면 자동으로 판매가 이루어지는 기능... 수익률 모으기와 팔기는 각각 최대 100개까지 설정할 수 있다." / "카카오페이증권, 펀드 3종 판매...사모펀드 소액투자 가능" (머니투데이, 2025-10-29)
+- **출처명**: 디지털투데이, 인더스트리뉴스, 이코노믹리뷰(econovill), 서울경제, 머니투데이, 시장경제(meconomynews) 등 복수 매체 종합
+- **출처 URL**: https://www.digitaltoday.co.kr/news/articleView.html?idxno=598993 , https://www.industrynews.co.kr/news/articleView.html?idxno=73167 , https://www.econovill.com/news/articleView.html?idxno=715733 , https://www.sedaily.com/NewsView/2GZAFENJGB , https://www.mt.co.kr/stock/2025/10/29/2025102908514085237 , https://www.meconomynews.com/news/articleView.html?idxno=122284 (모두 WebFetch 차단, WebSearch 종합 결과 기준)
+- **기준 시점**: 2025년 10월 23일(수익률 모으기·팔기) / 2025년 10월 29일(펀드 3종 추가·사모펀드 소액투자)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: 자동화·개인화된 리테일 투자 UX 강화 사례로, 토스증권·미래에셋 M-스톡 등 경쟁사의 유사 자동매매·목표수익률 기능과 비교 서술 가능(단, 경쟁사의 동일 기능 유무는 이번 세션에서 별도 확인하지 않음 — 확인 필요).
+
+### 카카오페이증권 펀드 계좌 수 — 국내 1위(2024년 5월 기준, 오래된 자료 주의)
+
+- **수치/핵심 사실**: 카카오페이증권은 2024년 5월 말 금융투자협회 공시 기준 펀드 계좌 수 177만여개를 넘어서며 국내 1위 펀드 계좌수 보유 증권사로 집계. '투자왕 랭킹' 서비스를 통해 실현손익 수익률 기준 상위 50명 투자자의 포트폴리오·거래내역을 공개하는 경쟁 서비스도 운영.
+- **원문 발췌**: "카카오페이증권은 2024년 5월 말 금융투자협회 공시 기준 펀드 계좌 수 177만여개를 넘어서며 국내 1위 펀드 계좌수 보유 증권사로 자리잡았습니다." / "카카오페이증권은 '투자왕 랭킹' 서비스를 선보였으며, 현재 실현 손익 수익률 기준 상위 50명 투자자와 이들의 일별 거래내역, 포트폴리오 등을 공개합니다."
+- **출처명**: 전자신문 「카카오페이證, 펀드·투자랭킹 서비스 강화…시장점유율 확대 속도」(2024-07-15)
+- **출처 URL**: https://www.etnews.com/20240715000246 (WebFetch 차단, WebSearch 종합 결과 기준)
+- **기준 시점**: 2024년 5월 말 기준(계좌 수), 보도 시점 2024년 7월 15일
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **오래된 자료 주의** — 확인 시점(2026-08-11) 기준 약 2년 3개월 전 수치. "펀드 계좌 수" 기준 1위이지 "펀드 판매잔액"이나 "증권업 전체 리테일 점유율" 1위가 아님을 report-writer는 명확히 구분해서 서술할 것(펀드는 소액·다건 특성상 계좌 수가 많아지기 쉬운 상품). 2025~2026년 갱신치는 이번 세션에서 찾지 못함(확인 필요).
+
+### 증권업계 수수료·유치 경쟁 — '국장 복귀' 지원금 이벤트 및 카카오페이증권 자체 프로모션
+
+- **수치/핵심 사실**: 2026년 1월 정부의 '국장(국내증시) 복귀' 정책 드라이브(해외주식 매각 후 국내주식 투자 시 양도소득세 1년 한시 비과세하는 '국내시장 복귀계좌'(RIA) 제도)에 맞춰 증권사들이 지원금·수수료 경쟁을 벌임 — 삼성증권 신규계좌 국내주식 거래지원금 2만원, 하나증권 신규·휴면계좌 3개월 수수료 우대, 키움증권 타사주식 이전시 최대 300만원 현금(2026-03-31까지), 우리투자증권 2026년 12월 31일까지 국내주식 온라인 거래수수료 면제. 카카오페이증권도 자체적으로 '주식 모으기' 리뉴얼 1주년 기념 수수료 면제 이벤트(2025년 1월), 신규 고객 첫 주문 체결 시 최대 200만원 랜덤 캐시 리워드, 타사 주식 입고 고객 대상 1000일간 판매수수료 혜택(2025년 4월) 등 유사한 유치 경쟁에 참여.
+- **원문 발췌**: "삼성증권은 이달 말까지 신규로 계좌 개설한 고객을 대상으로 국내 주식 거래에 사용할 수 있는 지원금 2만원을 지급하는 이벤트를 진행합니다." / "키움증권은 타사 계좌에 있는 국내 주식을 자사로 옮기면 순입고액과 거래액에 따라 현금을 최대 300만원 주는 이벤트를 3월 31일까지 진행합니다." / "보유 해외 주식을 매각한 뒤 자금을 '국내시장 복귀계좌'(RIA)를 통해 국내 주식에 1년간 투자하면 해외주식 양도소득세(20%)를 1년간 한시적으로 부과하지 않으며..." / "카카오페이증권 계좌를 보유하고 '주식 모으기' 주문 체결 이력이 없는 만 19세 이상 사용자라면 첫 주문 체결 시 최대 200만원의 현금을 무작위로 받을 수 있습니다." / "카카오페이증권, 주식 입고 시 '판매 수수료 혜택' 이벤트 진행" (전자신문, 2025-04-28)
+- **출처명**: 알파경제(investing.com 재게재), 다음(v.daum.net, 2026-01-14), 뉴스웍스, 전자신문 등 복수 매체 종합
+- **출처 URL**: https://kr.investing.com/news/stock-market-news/article-1788234 , https://alphabiz.co.kr/news/view/1065594488404821 , https://v.daum.net/v/20260114143141682 , https://www.newsworks.co.kr/news/articleView.html?idxno=769535 , https://www.etnews.com/20250428000240 (모두 WebFetch 차단, WebSearch 종합 결과 기준)
+- **기준 시점**: '국장 복귀' 지원금 경쟁 보도 2026년 1월 14일 / 카카오페이증권 자체 이벤트는 2025년 1월(수수료 면제), 2025년 4월 28일(입고 수수료 혜택)
+- **확인일**: 2026-08-11
+- **비고**: 증권업계 전반의 리테일 고객 유치 경쟁이 '수수료 무료'에서 '현금성 리워드·정부 세제혜택 연계'로 확장되는 추세를 보여줌. 카카오페이증권의 개별 이벤트 규모(참여자 수, 마케팅비 등)는 이번 세션에서 확인하지 못함(확인 필요).
+- **조사자**: market-researcher
+
+### 네이버페이 — 비상장주식 거래 플랫폼 인수를 통한 증권업 인접 진출
+
+- **수치/핵심 사실**: 네이버페이가 2025년 9월 11일 공시 기준 비상장주식 거래 플랫폼 '증권플러스 비상장'의 지분 70%를 약 686억원에 인수. 금융당국이 도입 예정인 '장외거래중개업' 인가 절차를 진행해 비상장주식 거래 시장 제도화를 선도할 계획이라고 발표. 네이버페이는 별도의 정식 증권사 라이선스(카카오페이증권과 같은 투자매매·중개업 인가)는 보유하지 않은 것으로 확인(이번 세션 기준) — 비상장주식 중개라는 인접 영역으로 진출하는 방식.
+- **원문 발췌**: "네이버페이(Npay), 비상장주식 거래 플랫폼 '증권플러스 비상장' 인수…비상장주식 시장 제도화에 발맞춰 중소기업 성장·벤처 생태계 활성화 기여" / "네이버페이와 증권플러스 비상장은 금융당국이 도입 예정인 '장외거래중개업' 인가 절차를 진행해 비상장주식 거래 시장의 제도적 안착을 선도할 예정입니다."
+- **출처명**: 네이버 공식 뉴스룸(navercorp.com 보도자료)
+- **출처 URL**: https://www.navercorp.com/media/pressReleasesDetail?seq=33282 (WebFetch 차단, WebSearch 종합 결과 기준)
+- **기준 시점**: 공시일 2025년 9월 11일
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: 네이버페이는 카카오페이증권처럼 정식 증권 자회사를 통한 상장주식 브로커리지(MTS) 경쟁에는 아직 본격 진입하지 않고, "비상장주식 중개"라는 인접 틈새시장을 통해 증권업에 접근하는 전략적 차이가 있음 — report-writer는 "네이버페이도 카카오페이증권과 동일한 MTS 경쟁자"로 단순화하지 말고 이 차이를 명시할 것. 정확한 인수 지분율(70%)·금액(686억원)의 원출처는 네이버 공식 보도자료로 신뢰도 높음.
 
 ## 해외 시장 및 경쟁 동향
 
-(아직 근거 없음)
+> **조사 방법 관련 비고 (2026-08-11)**: 이번 세션도 네트워크 egress 프록시가 investors.robinhood.com,
+> pressroom.aboutschwab.com 등 해외 IR 페이지를 포함해 대부분 도메인에서 WebFetch를 차단해
+> WebSearch 교차검증 기반으로 조사했습니다. 다만 미국 상장사 실적은 공식 보도자료(IR)가
+> 검색 스니펫에 원문 수치와 함께 인용되는 경우가 많아 신뢰도가 비교적 높습니다.
+
+### 미국 Robinhood — 2025년 사상 최대 실적, 로보어드바이저 성격의 구독형 서비스 확장
+
+- **수치/핵심 사실**: Robinhood 2025년 연간 매출 45억달러(사상 최대, 4Q 매출 12.8억달러도 분기 사상 최대), 순이익 19억달러(2024년 14억달러 대비 증가), 희석주당순이익(EPS) 2.05달러(사상 최대). 2025년 순예탁금(net deposits) 680억달러(사상 최대, 4Q에만 160억달러). Robinhood Gold(유료 구독) 가입자는 전년대비 +58%(+150만명) 증가해 420만명(사상 최대) 기록. 1분기 매출은 전년동기대비 +50%(9.27억달러), 순이익 +114%(3.36억달러); 3분기 매출은 전년동기대비 +100%(12.7억달러, 당시 사상 최대).
+- **원문 발췌**: "Robinhood reported record revenues of $4.5 billion in 2025, including a record $1.28 billion in Q4... net income of $1.9 billion, compared to $1.4 billion in 2024... Record diluted EPS of $2.05 in 2025, including $0.66 in Q4... Record net deposits of $68 billion in 2025, including $16 billion in Q4... Robinhood Gold subscribers increased by 1.5 million, or 58%, year-over-year to 4.2 million." / "Revenues increased 50% year-over-year to $927 million [Q1 2025], with net income up 114% year-over-year to $336 million and diluted EPS up 106% to $0.37." / "Revenues were up 100% year-over-year to a record $1.27 billion [Q3 2025]"
+- **출처명**: Robinhood Markets, Inc. 공식 IR 보도자료 「Robinhood Reports Fourth Quarter and Full Year 2025 Results」(2026-02-10 발표) — Barchart, Seeking Alpha, InvestmentNews 등 복수 매체 재인용으로 교차확인
+- **출처 URL**: https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-fourth-quarter-and-full-year-2025-results (WebFetch 차단, WebSearch 종합 결과 기준) / 교차확인: https://www.barchart.com/story/news/140750/robinhood-reports-fourth-quarter-and-full-year-2025-results , https://www.investmentnews.com/equities/robinhood-caps-record-2025-with-q4-revenue-surge-but-shares-fall-on-investor-concerns/265225
+- **기준 시점**: 2025년 연간(2026-02-10 발표) / 분기별 수치는 각 2025년 1분기·3분기·4분기 기준
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: 카카오페이증권·토스증권과 마찬가지로 리테일 브로커리지가 구독형 유료서비스(Gold)·해외자산 확대를 통해 수익구조를 다각화하는 트렌드가 미국에서도 동일하게 나타남을 시사. 다만 Robinhood는 규모(연매출 4.5조원 상당의 원화 환산치 아님, 45억달러=약 6조원대)가 국내 리테일 증권사 대비 훨씬 큼 — 절대 규모 비교 시 반드시 통화·시점 명시할 것.
+
+### 미국 Charles Schwab — 대형 종합증권사, 사상 최대 고객자산 11.9조달러
+
+- **수치/핵심 사실**: Charles Schwab 2025년 12월 31일 기준 총 고객자산(total client assets) 11조 9,000억달러(사상 최대, 전년대비 +18%). 2025년 핵심 순신규자산(core net new assets) 5,194억달러(전년대비 +42%, 연환산 유기적 성장률 5.1%). 2025년 신규 브로커리지 계좌 470만개 개설(전년대비 +13%), 2025년말 활성 브로커리지 계좌 3,850만개(전년말대비 +6%). 실적 발표일 2026년 1월 21일.
+- **원문 발췌**: "Schwab's total client assets reached $11.90 trillion at December 31, 2025, up 18% on the year." / "Core net new assets for 2025 totaled $519.4 billion, increasing 42% from the prior year, and resulting in an annualized organic growth rate of 5.1%." / "In 2025, clients opened 4.7 million new brokerage accounts, an increase of 13% from the prior year, and active brokerage accounts totaled 38.5 million as of December 31, 2025, up 6% from year-end 2024."
+- **출처명**: The Charles Schwab Corporation 공식 IR 보도자료 「Schwab Reports Record 4Q and Full Year 2025 Results」(2026-01-21 발표) — Fintool News, FinancialContent 등 복수 매체 재인용으로 교차확인
+- **출처 URL**: https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Reports-Record-4Q-and-Full-Year-2025-Results/default.aspx (WebFetch 차단, WebSearch 종합 결과 기준) / 교차확인: https://fintool.com/news/schwab-record-earnings-12-trillion-assets , https://markets.financialcontent.com/stocks/article/marketminute-2026-1-23-schwabs-paradox-record-assets-and-strong-earnings-shadowed-by-sluggish-cash-recovery-as-2026-begins
+- **기준 시점**: 2025년 12월 31일 기준(연간 실적), 발표 2026-01-21
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: Schwab는 전통 종합증권사(대면+디지털) 모델로, 카카오페이증권·토스증권 같은 모바일 전업 핀테크 브로커리지와는 사업모델이 다름 — 시사점은 "규모의 경제"와 "종합 자산관리(로보어드바이저 Schwab Intelligent Portfolios 포함)로의 수익 다각화" 측면에서 참고할 것을 권고. Schwab Intelligent Portfolios 자체의 AUM은 이번 세션에서 별도 확인하지 못함(확인 필요).
+
+### 미국 로보어드바이저 — Wealthfront 2025년 12월 IPO(나스닥), Betterment 업계 1위 AUM
+
+- **수치/핵심 사실**: (A) Wealthfront는 2025년 7월 31일 종료 회계연도 기준 매출 3억 3,900만달러(전년대비 +26%), 순이익 1억 2,300만달러. 2025년 9월 SEC에 비공개 IPO 서류 제출 시점 자산관리규모(AUM) 850억달러 이상, 고객 100만명 이상. 2025년 12월 나스닥에 'WLTH' 티커로 상장 완료, 상장 시 밸류에이션 약 20억 5,000만달러. (B) Betterment는 SEC Form ADV 자진신고(2025-07-15 기준) 기준 "독립계(비은행·비증권사 계열) 온라인 자산관리업체 중 AUM 최대" 지위를 자체 주장. AUM은 2025년 2월 550억달러+ → 2025년 6월 560억달러(고객 100만명) → 2025년 10월 630억달러(고객 100만명 이상, SEC 자료 기준) → 2026년 5월 650억달러+로 증가 추세.
+- **원문 발췌**: "In 2025, Wealthfront took a major step by privately filing for an initial public offering with the SEC... the company now manages over $85 billion in assets and serves more than a million clients." / "In December 2025, Wealthfront completed its IPO on NASDAQ under the ticker WLTH, pricing at a valuation of approximately $2.05 billion." / "In the year ending July 31, 2025, Wealthfront's revenue grew 26% to $339 million, and its net profit reached $123 million." / "Betterment is the largest independent online financial advisor based on assets under management (AUM) self-reported in SEC Form ADV filings for independent robo advisors as of 7/15/25." / "As of May 2026, Betterment's AUM has grown to more than $65 billion." / "over 1,000,000 accounts with $63 billion in assets under management" (2025년 10월 기준)
+- **출처명**: (A) Forbes 「After 17 Years, Fintech Wealthfront Files For An IPO, Disclosing Fat Profits」(2025-09-29), investingintheweb.com·capital.com 등 IPO 후속보도 종합 (B) Betterment 공식 법인 소개 페이지(betterment.com/legal/company-description), investingintheweb.com·coinlaw.io 등 통계 정리 사이트 교차확인
+- **출처 URL**: https://www.forbes.com/sites/jeffkauflin/2025/09/29/after-17-years-fintech-wealthfront-files-for-an-ipo-disclosing-fat-profits/ , https://investingintheweb.com/brokers/wealthfront-statistics/ , https://capital.com/en-int/learn/ipo/wealthfront-ipo (모두 WebFetch 차단, WebSearch 종합 결과 기준) / (B) https://www.betterment.com/legal/company-description , https://investingintheweb.com/brokers/betterment-statistics/
+- **기준 시점**: (A) 회계연도 2025년(2025-07-31 종료) 매출·순이익 / IPO 완료 2025년 12월 / 자산·고객수는 2025년 9월(IPO 서류 제출 시점) 기준 (B) AUM 추이는 2025년 2월~2026년 5월까지 여러 시점 혼재 — report-writer는 반드시 각 수치 옆에 시점을 명시할 것
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **report-writer 주의**: (B) Betterment AUM 수치의 1차 출처는 SEC Form ADV(규제 신고자료)이나, 구체적 금액(550억~650억달러)은 통계 큐레이션 사이트(investingintheweb.com, coinlaw.io)를 경유해 확인한 것으로 완전한 1차 출처 대조는 아님 — 대략적 범위(약 550억~650억달러, 2025년초~2026년중 사이 증가 추세)로만 인용 권고. Wealthfront의 IPO는 로보어드바이저가 독자적으로 흑자 상장까지 가능함을 보여주는 사례로, 카카오페이증권의 최근 흑자전환과 비교해 "국내는 이제 흑자 진입, 미국 선도업체는 이미 상장 단계"라는 시사점 도출 가능.
+
+### 영국/유럽 Trading 212 — 2025년 매출 72% 급증, 자산 4.5백만 고객·300억유로 돌파
+
+- **수치/핵심 사실**: Trading 212 UK Limited(영국법인) 2025년(2025년 12월 31일 종료) 매출 2억 7,760만파운드(전년 1억 6,170만파운드 대비 +72%), 순이익은 약 2배(전년대비) 증가해 9,200만파운드 상회. 2025년 5월 21일 기준 전세계 고객 450만명, 고객자산(client assets under administration) 250억파운드(영국법인 기준)·300억유로(유럽 전체 기준) 돌파 발표. 2025년 한 해 동안 월간활성이용자(MAU) +84%, 펀딩계좌(funded accounts) 수 +69% 증가. 2025년 고객예탁금+자산 합계(combined client money and assets) 전년대비 +140% 성장.
+- **원문 발췌**: "Trading 212 UK Limited posted revenue of £277.6 million for the year ended 31 December 2025, up 72% from £161.7 million in 2024." / "Trading 212 announced on May 21, 2025, that it had surpassed £25 billion in client assets under administration and 4.5 million clients globally... the same announcement, denominated for the euro market, recorded over €30 billion in client assets under administration and 4.5 million clients globally on the same date." / "the average number of monthly active users on Trading 212 UK Limited rose 84% in 2025, and the number of funded accounts on the platform jumped by 69 per cent last year." / "Combined client money and assets on Trading 212 UK Limited grew 140% in 2025."
+- **출처명**: Finance Magnates 「Trading 212 Continues to Grow in the UK: 2025 Revenue Jumps 72%, Profit Doubles」, FinanceFeeds, FX News Group, Yahoo Finance UK(Trading 212 보도자료 인용) 등 복수 매체 종합
+- **출처 URL**: https://www.financemagnates.com/forex/trading-212-continues-to-grow-in-the-uk-2025-revenue-jumps-72-profit-doubles/ , https://financefeeds.com/trading-212-revenue-jumps-to-277-6m-in-2025-as-profit-nearly-triples/ , https://fxnewsgroup.com/forex-news/retail-forex/trading-212-uk-revenues-soar-72-in-2025-to-277m-profit-tops-92m/ , https://uk.finance.yahoo.com/news/trading-212-surpasses-30-billion-110400608.html (모두 WebFetch 차단, WebSearch 종합 결과 기준)
+- **기준 시점**: 매출·순이익은 2025년 연간(2025-12-31 종료 회계연도) / 고객수·자산 250억파운드·300억유로는 2025년 5월 21일 발표 기준(연말 수치와는 별개 — 병기 시 구분 필요)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: Trading 212는 수수료 무료(commission-free) 모델로 영국·유럽 시장에서 급성장 중인 사례로, 국내 토스증권·카카오페이증권의 수수료 경쟁 전략과 비교할 만한 해외 유사 사례. "300억유로"와 "250억파운드"는 각각 유로존 전체 vs 영국 법인 기준으로 모수가 다르므로 report-writer는 혼동 없이 구분해서 인용할 것.
+
+### 홍콩/아시아 Futu Holdings(富途) — 2025년 매출·순이익 급증, 아시아 온라인 브로커리지 대표 사례
+
+- **수치/핵심 사실**: Futu Holdings(나스닥 상장, 홍콩 기반 텐센트 계열 온라인 브로커리지) 2025년말(2025-12-31) 기준 총 이용자 2,920만명(전년대비 +16.0%), 총 증권계좌수 594만 8,093개(전년대비 +29.8%), 자금이 입금된 펀디드계좌(funded accounts) 336만 5,414개(전년대비 +39.6%). 총 고객자산(total client assets) 1조 2,300억홍콩달러(전년대비 +65.9%), 4분기 일평균 고객자산 1조 2,400억홍콩달러(전년동기대비 +71.0%). 2025년 연간 총매출 228억홍콩달러(약 29억달러, 2023년 100억홍콩달러→2024년 136억홍콩달러→2025년 228억홍콩달러로 2년 연속 급성장), 보통주주 귀속 순이익 113억홍콩달러.
+- **원문 발췌**: "Total number of users increased 16.0% year-over-year to 29.2 million as of December 31, 2025... Total number of brokerage accounts increased 29.8% year-over-year to 5,948,093... Total number of funded accounts increased 39.6% year-over-year to 3,365,414." / "Total client assets increased 65.9% year-over-year to HK$1.23 trillion as of December 31, 2025. Daily average client assets were HK$1.24 trillion in the fourth quarter of 2025, an increase of 71.0% from the same period in 2024." / "Total revenues rose from HK$10.0 billion in 2023 to HK$13.6 billion in 2024 and HK$22.8 billion (US$2.9 billion) in 2025... Net income attributable to ordinary shareholders was HK$11.3 billion."
+- **출처명**: Futu Holdings Limited 공식 IR 보도자료 「Futu Announces Fourth Quarter and Full Year 2025 Unaudited Financial Results」 — StockTitan(SEC 20-F 공시 기반 보도) 등 교차확인
+- **출처 URL**: https://ir.futuholdings.com/news-releases/news-release-details/futu-announces-fourth-quarter-and-full-year-2025-unaudited/ (WebFetch 차단, WebSearch 종합 결과 기준) / 교차확인: https://www.stocktitan.net/sec-filings/FUTU/20-f-futu-holdings-ltd-files-annual-report-foreign-issuer-ef746d6f5708.html
+- **기준 시점**: 2025년 연간(2025-12-31 기준)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: Futu는 홍콩·싱가포르·미국·중국 본토(간접) 등 범아시아권 고객을 대상으로 한 기술 기반(모바일 앱 중심) 온라인 브로커리지로, 카카오페이증권·토스증권과 사업모델(모바일 앱 중심, 해외주식 거래 강점)이 유사한 아시아 사례로 참고 가치가 높음. 다만 Futu는 홍콩 상장 중국계 자금(중국 본토 고객의 역외 투자수요) 성장에 크게 의존하는 구조라는 점에서 국내 시장과 배경이 다름을 caveat로 남길 것.
+
+### 종합 시사점 메모 (해외 비교 관점)
+
+- **수치/핵심 사실 요약**: (1) 미국·홍콩 대형 온라인 브로커리지(Robinhood, Futu)는 모두 2025년 사상 최대 실적(매출·순이익 두 자릿수~세 자릿수 % 성장)을 기록 중 — 글로벌 증시 호황(2025년 S&P500 +16%, 나스닥 +20%)이 국내(코스피 활황·투자자예탁금 사상최대)와 유사하게 리테일 브로커리지 실적에 긍정적으로 작용한 공통 패턴. (2) 미국 로보어드바이저(Wealthfront)는 2025년말 IPO까지 성공하며 "독자 흑자 모델→상장"의 성숙 단계에 진입한 반면, 국내 로보어드바이저 시장은 아직 코스콤 RA테스트베드 기준 1조원대 초반 규모(시장현황 섹션 참고)로 격차가 큼. (3) 유럽 Trading 212의 수수료 무료 모델 기반 급성장은 국내 증권사들의 '수수료 무료·현금리워드' 경쟁과 유사한 패턴이나, Trading 212는 이미 유럽 전역 450만 고객·300억유로 규모로 국내 어느 증권사 단일 서비스보다 큰 규모에 도달. (4) 아시아 Futu Holdings는 모바일 중심·해외투자 특화라는 점에서 토스증권·카카오페이증권과 사업모델이 가장 유사한 비교 대상.
+- **원문 발췌**: (위 각 항목의 원문 발췌 종합 — 별도 신규 인용 없음, S&P500·나스닥 상승률은 Schwab 항목의 "Equity markets finished 2025 with significant full-year gains, as the S&P 500® rose 16% in 2025, and the NASDAQ Composite® rose 20% during the year" 문장 재인용)
+- **출처명**: 위 각 항목의 출처 종합
+- **출처 URL**: 위 각 항목 참고
+- **기준 시점**: 2025년 연간~2026년 상반기 종합
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: 이 항목은 개별 사실이 아니라 위에 기록된 여러 사실을 조합한 조사자의 종합 해석이므로, report-writer는 이를 그대로 "사실"로 인용하지 말고 "종합 인사이트" 섹션에서 조사자 관점의 시사점으로 활용하되 각 개별 수치는 반드시 원 항목의 각주를 달 것.
