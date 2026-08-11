@@ -208,8 +208,115 @@
 
 ## 경쟁 동향
 
-(아직 근거 없음)
+### 마이데이터 가입자 수 경쟁 — 토스·카카오페이·네이버페이 (2023.9 출범 2년 시점, 최신 3사 비교 데이터는 미확보)
+
+- **수치/핵심 사실**: 마이데이터 출범(2022.1) 2년 시점인 2023년 9월 말 기준, 마이데이터 가입자 수는 토스 1,485만 5,750명(1위) > 카카오페이 1,029만 9,088명(2위) > 네이버페이 922만 8,737명(3위) 순. 실제 자산을 연동한 '실 자산 등록자 수'는 토스 977만 7,527명 > 카카오페이 481만 830명 > 네이버페이 454만 25명 순으로, 가입자 수 대비 실제 자산 등록 전환율은 토스가 가장 높았음(약 66%).
+- **원문 발췌**: "마이데이터 서비스 출범 2년을 맞아 가입자가 가장 많은 곳은 토스이며, 이어 카카오페이, 네이버페이 순이었다. 구체적인 가입자 수는 2023년 9월 말 기준으로 토스(1천485만5천750명), 카카오페이(1천29만9천88명), 네이버페이(922만8천737명) 순이다. 실제 자산 등록 현황을 보면, 마이데이터 이용 동의 이후 실제 본인의 은행계좌 등을 지정한 실 자산 등록자 수는 토스(977만7천527명), 카카오페이(481만830명), 네이버페이(454만25명) 순이었다." (WebSearch가 조세일보/뉴스천지 기사를 종합한 요약, 원문 그대로 인용된 부분)
+- **출처명**: 조세일보 "출범 2년 마이데이터, 가입자 1위는 토스...카카오·네이버페이 순" / 뉴스천지 "마이데이터 출범 2년, 가입자 1위는 토스… 가입자만 1500만명 달해"
+- **출처 URL**: https://m.joseilbo.com/news/view.htm?newsid=501020 , https://www.newscj.com/news/articleView.html?idxno=3075818
+- **기준 시점**: 2023년 9월 말
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **12개월 이상 경과한 자료(2023.9월 기준)**로, 시장현황 섹션의 카카오페이 최신 수치(2025.4 2,000만명→2026.3 2,200만명)와 직접 비교하면 시점 격차가 2년 이상 벌어져 오해를 부를 수 있음. 2025~2026년 시점의 토스·네이버페이 마이데이터 가입자 수를 여러 검색어로 재시도했으나(아래 항목 참고) 3사를 동일 시점으로 비교할 수 있는 최신 공식 자료를 확보하지 못했다. report-writer는 반드시 각 수치 옆에 정확한 기준 시점(2023.9 vs 2025.4/2026.3)을 병기하고, "카카오페이가 마이데이터 가입자 1위"라는 식의 표현은 최신 3사 비교 데이터 없이는 사용하지 말 것.
+
+### 네이버페이 마이데이터 MAU 목표치 (2024.4 시점, 2025년 목표 1,000만)
+
+- **수치/핵심 사실**: 네이버페이는 마이데이터 가입자가 2023년 9월 말 약 923만명에서 2024년 4월 기준 1,000만명을 넘어섰다고 보도됨. 네이버파이낸셜은 마이데이터 서비스 월간활성사용자수(MAU)를 2025년까지 1,000만명으로 확대하겠다는 목표를 제시(2024.4 시점 보도).
+- **원문 발췌**: "네이버페이 마이데이터 가입자는 2024년 4월 기준 최근 1000만명을 넘어섰으며, 지난해 9월 말 기준 약 923만명에서 상승세를 이어가 1000만 고지를 넘었다." / "목표는 1000만 이용자...네이버파이낸셜, 마이데이터 사업 '속도'" (기사 제목 자체가 목표치를 요약)
+- **출처명**: 전자신문 "네이버페이, 마이데이터 MAU 1000만 속도…자산관리 강화" (2024.4.1) / 테크M "목표는 1000만 이용자...네이버파이낸셜, 마이데이터 사업 '속도'"
+- **출처 URL**: https://www.etnews.com/20240401000304 , https://www.techm.kr/news/articleView.html?idxno=98841
+- **기준 시점**: 2024년 4월(가입자 1,000만 돌파), 2025년(MAU 1,000만 목표 제시 시점은 2024.4 기사 기준)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: "가입자 1,000만"과 "MAU(월간활성사용자) 1,000만 목표"는 서로 다른 지표(누적 가입자 vs 활성 이용자)이므로 혼동하지 않도록 주의. 2025~2026년 실제 MAU 달성 여부를 확인하는 후속 보도는 검색했으나 확보하지 못함 — "확인 필요"로 남김.
+
+### 마이데이터·대안신용평가 3사 비교 최신 데이터 — 확인 필요
+
+- **상태**: 확인 필요 (2025~2026년 동일 시점 기준 토스·카카오페이·네이버페이 마이데이터 가입자 수 비교 자료 미확보)
+- **시도한 검색**: "마이데이터 가입자 순위 2026 카카오페이 토스 네이버페이 비교", "네이버페이 마이데이터 MAU 1000만 돌파 2025", "토스 마이데이터 가입자 수 2025 2026" 등 다수 검색. 결과는 모두 2023년 9월(3사 비교) 또는 2024년 4월(네이버페이 단독) 수치로 회귀되었고, 3사를 동일 시점(2025~2026년)으로 비교할 수 있는 기사는 찾지 못함.
+- **비고**: 카카오페이는 2026.3 시점 2,200만명(시장현황 섹션 참고)이라는 최신 자체 수치가 있으나, 경쟁사(토스·네이버페이)의 동일 시점 수치가 없어 "카카오페이가 업계 1위"라는 주장을 뒷받침할 근거가 부족하다. report-writer는 이 비교를 리포트에 넣을 경우 "카카오페이 자체 발표 수치(2026.3)이며, 경쟁사 최신 수치는 확인되지 않음"이라는 caveat을 반드시 명시할 것.
+
+### 대안신용평가 경쟁 구도 — 인터넷은행 3사(카카오뱅크·토스뱅크·케이뱅크) 비교
+
+- **수치/핵심 사실**: 인터넷은행 3사가 각기 다른 대안신용평가모형으로 경쟁 중. ① **카카오뱅크**: 2022년 하반기 업계 최초로 카카오 공동체 데이터와 롯데멤버스·교보문고·금융결제원 등의 가명결합 데이터를 융합한 '카카오뱅크스코어' 개발, 2023년부터 대출 심사에 도입. 도입 이후(2023~2026.6 누적) 기존 모형으로는 거절됐을 중·저신용자·개인사업자에게 추가로 1조 2,000억원 규모 대출 공급(2026.6 기준), 이는 취급된 중저신용대출의 약 12%(건수 기준)에 해당. 2025년 6월 NICE평가정보와 업무협약 체결 후 2026년부터 일부 저축은행·캐피털사에 대안신용평가 점수 제공 개시. 별도 자료에서는 카카오뱅크 대안신용평가 누적 공급액이 "16조원"(KCB 신용점수 870점 이하 차주 및 KCB SOHO 4등급 이하 개인사업자 기준)이라는 수치도 확인됨. ② **토스뱅크**: 자체 개발한 AI 기반 신용평가모형 'TSS(Toss Scoring System)'가 2,900만 토스 앱 이용자의 금융·비금융 데이터(생활요금 자동이체, 소비 성향, 납부 일관성 등)를 학습, 실질 상환능력을 평가. 2026년 1분기 기준 토스뱅크 중저신용자 대출 중 35%가 TSS 대안정보모형을 통해 가점을 받았고, 35세 미만 청년층은 72%가 가점 혜택. 별도로 비바리퍼블리카는 한국평가데이터(KoDATA)와 공동 개발한 '토스스코어'를 고려저축은행·PFCT와 협력해 저축은행 대출 심사(2026년 하반기부터 단계적 도입)로 영역을 확장 중(2026.8.11 시점 보도). ③ **케이뱅크**: 기존 '네이버페이스코어'와 카드가맹점 정보 등 비금융 데이터를 활용한 대안신용평가체계를 단계적으로 확대 중이며, 통신데이터를 반영한 신용평가모형도 도입(전년 도입, 2026.6 기사 기준 "지난해").
+- **원문 발췌**: "카카오뱅크는 비금융 정보로만 구성된 독자적 대안신용평가모형을 통해 총 1조 2,000억 원 규모의 중·저신용 대출을 시장에 추가 공급했다. 2023년 대안신용평가모형 도입 이후 기존 신용평가모형으로는 대출이 거절됐던 중·저신용자와 개인사업자를 추가 선별해 총 1조2000억원 규모의 대출을 공급했다. 카카오뱅크는 2022년 하반기 업계 최초로 카카오 공동체 데이터와 롯데멤버스, 교보문고, 금융결제원 등의 가명 결합 데이터를 융합한 '카카오뱅크스코어'를 개발했다. 2023년 대안신용평가모형 도입 이후 취급한 중·저신용 대출 가운데 약 12%(건수 기준)는 기존 모형으로는 거절 대상이었으나, 대안정보 기반 평가를 통해 추가 승인된 사례다. 지난해 6월 NICE평가정보와 업무협약을 체결한 뒤, 올해부터 일부 저축은행과 캐피털사에 대안신용평가 점수를 제공하고 있다." (WebSearch가 이투데이/아주경제/전자신문 등 2026.6.11 보도를 종합) / "토스뱅크의 신용 대출은 자체 개발한 신용평가모형(TSS, Toss Scoring System)을 통해 고객의 '실질 소득'을 분석하는데 주력... TSS는 2900만 토스 앱 이용자의 금융·비금융 데이터를 학습한 AI 모형이며, 생활요금 자동이체·소비 성향·납부 일관성 등 실질 현금흐름을 분석해 차주의 '성실 신호'를 포착한다. 1분기 토스뱅크 중저신용자 가운데 35%는 TSS 대안정보모형을 통해 가점을 받았으며, 35세 미만 청년층은 72%가 가점 혜택을 받았다." / "토스스코어는 토스가 한국평가데이터(KoDATA)와 함께 개발한 대안신용평가 스코어다... 토스 운영사 비바리퍼블리카는 고려저축은행, 금융기술기업 PFCT와 토스스코어를 활용한 신용평가 체계 고도화 업무협약(MOU)을 체결했다. 고려저축은행은 올해 하반기부터 토스스코어를 단계적으로 도입하고 적용 범위를 넓혀갈 예정이다." / "케이뱅크는 기존 네이버페이 스코어와 카드가맹점 정보 등 비금융 데이터를 활용한 대안신용평가체계를 단계적으로 확대하고 있으며, 지난해 통신데이터를 반영한 신용평가모형을 도입했다." (WebSearch가 파이낸셜뉴스 2026.6.22 기사를 요약)
+- **출처명**: 이투데이 "비금융 정보가 신용 됐다…카카오뱅크, 중저신용자에 1.2조원 공급" / 아주경제 "카카오뱅크, 비금융 정보로 중·저신용 대출 1.2조 공급…'포용금융 확대'" / 전자신문 "카카오뱅크, 대안신용평가로 중·저신용대출 1.2조 추가 공급" / KCB 비즈그라운드(16조원 수치 언급 페이지) / 파이낸셜뉴스 "중저신용자 품는 인뱅… 대안신용평가로 부실 막는다" (2026.6.22) / SR타임스·인사이트·아주경제 (토스·고려저축은행·PFCT 협력, 2026.8.11 보도)
+- **출처 URL**: https://www.etoday.co.kr/news/view/2592568 , https://www.ajunews.com/view/20260611092751918 , https://www.etnews.com/20260611000053 , https://www.bizground.co.kr/sp/etc/sp070117m.do , https://www.fnnews.com/news/202606221853157522 , http://www.srtimes.kr/news/articleView.html?idxno=209656 , https://www.insight.co.kr/news/567564 , https://www.ajunews.com/view/20260811083132455
+- **기준 시점**: 카카오뱅크스코어 도입 2022년 하반기~2023년, 성과 수치 2026년 6월 기준 / 토스뱅크 TSS 성과 2026년 1분기 기준 / 토스스코어-저축은행 확대 2026년 8월 11일 보도(하반기 도입 예정) / 케이뱅크 통신데이터 모형 도입 "지난해"(2026.6 기사 기준이므로 2025년으로 추정)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **상충 수치** — 카카오뱅크 대안신용평가 누적 공급액이 자료에 따라 "1조 2,000억원(2026.6 기준, 추가 공급분)"과 "16조원(KCB 신용점수 870점 이하·SOHO 4등급 이하 기준 누적)"으로 크게 다르게 나타남. 두 수치는 산정 기준(추가 승인분만 집계 vs 저신용 전체 대출 취급액 누적)이 다를 가능성이 높으나 원문 대조(WebFetch 차단)로 명확히 구분하지 못했다 — report-writer는 반드시 두 수치를 구분해 표기하거나, 더 상세한 산정 기준을 파악하기 전까지는 "1조 2,000억원(2026.6 기준, 대안신용평가로 추가 승인된 대출 규모)"만 사용할 것을 권고. 이 항목은 카카오페이(개인신용정보 마이데이터 기반 '카카오페이 스코어')와는 별도 계열사인 카카오뱅크의 자체 여신 심사용 모형으로, 카카오 공동체 내에서도 사업모델이 분리되어 있다는 점을 리포트에서 명확히 구분해 서술할 필요.
+
+### 네이버파이낸셜-두나무(업비트) 합병 — 데이터·핀테크 플랫폼 초대형화
+
+- **수치/핵심 사실**: 네이버 금융 계열사 네이버파이낸셜과 국내 최대 가상자산거래소 업비트 운영사 두나무가 포괄적 주식교환 방식으로 합병 절차 진행 중(2025.11.26 합병비율 확정 발표). 두나무 기업가치 약 15조 1,000억원, 네이버파이낸셜 기업가치 약 4조 9,000억원으로 책정, 교환비율은 네이버파이낸셜 1주 : 두나무 2.54주. 합병 후 두나무는 네이버파이낸셜의 100% 자회사가 되며, 네이버는 지분 17%에 두나무 대주주(송치형 회장 19.5%, 김형년 부회장 10.0%) 의결권을 위임받아 총 46.5% 의결권 확보 예정. 합병 후 기업가치 합산 약 20조원 규모. 2031년(또는 최대 7년 내) 상장 목표. 2026년 5~7월 시점 특정금융정보법(특금법)상 '대주주 적격성' 이슈가 합병 변수로 부상 — 네이버가 공정거래법 위반 혐의로 1심 벌금형을 선고받아(2025.9), 8월 20일 시행 특금법 기준 대주주 적격성 문제 소지가 있었으나, 2026년 7월 대통령 직속 규제합리화위원회가 대주주 적격성 심사에 사안별 재량을 허용하는 예외 규정 마련을 권고하며 합병에 '청신호'.
+- **원문 발췌**: "두나무와 네이버파이낸셜의 기업 가치는 각각 15조1000억원과 4조9000억원으로 책정됐다. 양사는 26일 교환비율을 네이버파이낸셜 1 : 두나무 2.54로 결정했으며, 두나무 1주를 네이버파이낸셜 2.54주로 교환하는 방식이다." / "포괄적 주식 교환이 진행된 후 네이버는 네이버파이낸셜에 대한 지분 17%에, 두나무의 송치형 회장, 김형년 부회장이 보유하게 되는 네이버파이낸셜 지분의 의결권(각각 19.5%, 10.0%)을 위임받아 총 46.5%의 의결권을 확보할 예정이다." / "네이버파이낸셜은 마이데이터 사업자(본인신용정보관리업)로 신용정보법상 대주주 심사를 받아야 한다." / "8월 20일 시행되는 특정금융정보법(특금법)을 적용하면 공정거래법 위반 혐의로 유죄 판결을 받은 네이버는 합병 법인의 대주주가 될 수 없다... 대통령 직속 규제합리화위원회가 특정금융정보법 시행령 개정안에 대주주 적격성 심사 예외 규정을 마련하라고 권고했다."
+- **출처명**: ZDNet Korea "네이버-두나무, 한 식구 된다...'차세대 결제 생태계 주도'" (2025.11.26) / 인베스트조선 "네이버파이낸셜·두나무, 합병비율 확정…20조 핀테크공룡 출범 초읽기" (2025.11.26) / 한국경제 "네이버-두나무 합병…대주주 적격성 암초" (2026.5) / 굿모닝경제 "네이버·두나무 결합 '숨통'…규합위, 대주주 적격심사 예외 규정 권고" (2026.7 무렵)
+- **출처 URL**: https://zdnet.co.kr/view/?no=20251126164344 , https://www.investchosun.com/site/data/html_dir/2025/11/26/2025112680187.html , https://www.hankyung.com/article/2026050568481 , https://www.goodkyung.com/news/articleView.html?idxno=289560
+- **기준 시점**: 2025년 11월 26일(합병비율 확정) ~ 2026년 7월(대주주 적격성 규제 이슈 진전)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: 이 건은 가상자산(업비트) 중심 이슈이나, 네이버파이낸셜이 마이데이터 사업자라는 점에서 합병 후 "검색·커머스·결제·AI(네이버) + 블록체인·가상자산 거래 인프라(두나무)"가 결합되는 초대형 데이터 생태계가 카카오페이 대비 경쟁 구도에 미칠 영향(데이터 자산 규모 확대 가능성)을 시사하는 사례로 시장현황/경쟁동향에서 참고할 가치가 있음. 다만 마이데이터·신용평가 데이터 결합에 직접 관련된 구체적 발표(예: 통합 신용평가모형 개발 계획)는 확인되지 않아, report-writer는 "합병이 데이터 사업에 미치는 직접적 영향"을 단정적으로 서술하지 말고 "잠재적 경쟁 구도 변화 요인"으로만 언급할 것을 권고.
+
+### 핀다(Finda) — 대출비교 플랫폼의 데이터 사업 실적
+
+- **수치/핵심 사실**: 핀다는 2021년 1월 마이데이터 사업자 본허가를 취득해 사업을 지속 중(2025년 하반기 통신 3사 등 마이데이터 이탈 러시 속에서도 유지). 매출은 2022년 434억원 → 2023년 283억원(감소) → 2024년 298억원(소폭 반등) → 2025년 240억원 수준(재감소)으로 등락. 다만 2024년 4분기 당기순이익 2억 4,000만원을 기록하며 분기 기준 흑자 전환. 누적 제휴 금융사 96개(1금융권 12개사 포함), 300개 이상 상품 비교 가능, 누적 중개대출 12조원 돌파.
+- **원문 발췌**: "매출은 2022년 434억원에서 2023년 283억원으로 감소한 뒤 2024년 298억원으로 소폭 증가했으며, 2025년에는 240억원 수준으로 다시 감소했다. 다만 2024년 4분기에는 당기순이익 2억4000만원을 기록하며 분기 기준 흑자 전환을 기록했다." / "누적 제휴 금융사는 96개, 1금융권 12개사 포함, 300개 이상 상품을 비교할 수 있으며, 누적 중개 대출은 12조 돌파했다." (WebSearch가 THE VC 기업정보 페이지 등을 종합)
+- **출처명**: THE VC "핀다 - 기업정보 | 투자, 매출, 기업가치" / 바이라인네트워크 "대출비교 플랫폼 핀다, 작년 영업적자 52% 줄였다" (2025.4.10) / 디지털데일리 "핀다, 흑자전환 자신감…'비용 효율화, 대출비교 서비스 주효'"
+- **출처 URL**: https://thevc.kr/finda , https://byline.network/2025/04/10-464/ , https://m.ddaily.co.kr/page/view/2024100709271343846
+- **기준 시점**: 2022~2025년 연간 매출 추이(2025년은 추정/잠정치로 추정), 2024년 4분기 흑자전환
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: 핀다는 카카오페이와 달리 마이데이터를 자체 신용평가모형(대안신용평가) 개발보다는 '대출비교·중개' 서비스 고도화(맞춤 추천 알고리즘)에 주로 활용하는 것으로 파악되나, 핀다 고유의 대안신용평가 모델명이나 구체적 데이터 판매·결합 사업 성과를 뒷받침하는 출처는 확보하지 못함(아래 "확인 필요" 항목 참고). 매출 규모(연 240~430억원)는 카카오페이 데이터 사업 규모와 직접 비교할 수 있는 세그먼트 매출이 아니라 핀다 전사 매출이라는 점에 유의.
+
+### 핀다 자체 대안신용평가 모델 및 데이터 판매/결합 사업 — 확인 필요
+
+- **상태**: 확인 필요 (출처 미확보)
+- **시도한 검색**: "핀다 대안신용평가 데이터 사업 2025", "핀다 대안신용평가 KCB 데이터 사업 매출", "핀다 신용평가 모델 자체 개발 대안 데이터" 등. 핀다가 "대안신용평가 모델링·리스크 모델링 역량을 핵심 기술로 보유"한다는 일반적 소개 문구는 확인했으나, 카카오페이 스코어·토스스코어·카카오뱅크스코어처럼 구체적 모델명, 금융권 심사 적용 사례, 성과 수치(대출 공급액 등)를 제시하는 보도는 찾지 못함.
+- **비고**: report-writer는 핀다의 대안신용평가 사업을 리포트에서 다룰 경우 "일반적 사업 소개 수준이며, 카카오페이·토스·카카오뱅크 대비 구체적 성과 공개 사례는 확인되지 않음"이라고 명시할 것.
 
 ## 해외 시장 및 경쟁 동향
 
-(아직 근거 없음)
+### 미국 Plaid — 오픈뱅킹 데이터 API 사업 성장 및 상장 추진
+
+- **수치/핵심 사실**: 미국 오픈뱅킹 데이터 API 기업 Plaid는 2025년 연환산매출(ARR) 5억 4,600만달러(전년 2024년 3억 9,000만달러 대비 40% 성장)를 기록. 이는 2024년 27% 성장, 2022~2023년의 둔화된 성장세에서 재가속화된 수치. 성장은 결제(payments)·이상거래탐지(anti-fraud)·언더라이팅(underwriting) 등 신규 제품 라인이 2025년 매출 2배 이상 성장한 데 기인. 2025년 연간 기준 조정 EBITDA 흑자 전환. 밸류에이션은 2016년 2억달러 → 2018년 26억 5,000만달러 → 2021년 정점 134억달러 → 2025년 61억달러로 재조정 → 2026년 2월 텐더오퍼 기준 80억달러. 2026년 7월 1일 블룸버그 보도에 따르면 Plaid가 미국 증시 상장을 위해 주관사들과 초기 협의 중이며, 애널리스트들은 IPO 밸류에이션을 85억~100억달러로 추정.
+- **원문 발췌**: "Plaid hit $546M in annual recurring revenue (ARR) in 2025, up 40% from $390M in 2024. This marks a reacceleration from 27% growth in 2024 and slower expansion in 2022–2023 as fintech demand normalized. Growth has been driven by newer product lines—including payments, anti-fraud, and underwriting—which more than doubled in 2025." / "Plaid's valuation moved from $200M in 2016 to $2.65B in 2018, peaked at $13.4B in 2021, reset to $6.1B in 2025, and reached $8B in the February 2026 tender." / "Bloomberg reported on July 1, 2026 that Plaid is holding preliminary talks with banks about a US listing, with analysts estimating a possible IPO valuation of $8.5B–$10B." (WebSearch가 Sacra 리서치 페이지를 요약)
+- **출처명**: Sacra "Plaid at $546M ARR growing 40% YoY" / Sacra "Plaid: $8.00B valuation [2026]"
+- **출처 URL**: https://sacra.com/research/plaid-at-546m-arr-growing-40-yoy/ , https://sacra.com/c/plaid/valuation/
+- **기준 시점**: 2025년 연간(ARR), 2026년 2월(밸류에이션 텐더오퍼), 2026년 7월 1일(IPO 협의 보도)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **상충 수치** — 다른 출처(getlatka)는 "Plaid Inc Revenue 2025: $575M ARR, $6.1B Valuation"로 Sacra의 "$546M ARR, $8B(2026.2)"와 ARR·밸류에이션 모두 다르게 제시. WebFetch가 sacra.com·getlatka.com 등에 모두 차단되어(EGRESS_BLOCKED) 원문 페이지 직접 대조는 하지 못했고, WebSearch 요약문을 근거로 기록했다. report-writer는 두 수치를 병기하거나, "약 5.5억달러 안팎"으로 범위를 표현하고 출처 상충을 명시할 것을 권고.
+
+### 유럽 오픈뱅킹(PSD2) — 인가 TPP 수, EU FIDA(오픈파이낸스 확장 규정) 추진 현황
+
+- **수치/핵심 사실**: 유럽 오픈뱅킹 생태계의 인가된 제3자 제공자(TPP, Third Party Provider) 수는 Konsentus 트래커 기준 2025년 3분기 537개(EEA 346개+UK 191개)에서 2026년 1분기 552개(EEA 359개+UK 193개)로 소폭 증가. 국가별로는 프랑스가 자국 인가 TPP 31개로 독일(30개)을 제치고 최다, 스웨덴 28개로 뒤를 이음. EU는 PSD2(결제서비스 지침)의 오픈뱅킹(계좌정보) 범위를 넘어, 투자·보험·연금 등 全 금융데이터로 공유 범위를 확장하는 「금융데이터접근규정(FIDA, Financial Data Access Regulation)」을 추진 중 — 2025년 삼자협상(trilogue)이 재개(2025.6.17)됐고, 2026년 EU 집행위 업무계획(Pending proposals, 41번 항목)에 여전히 계류. 예상 시행 시기는 2026년 중반(mid-2026) 공식 채택 전망이나, EU 의회·이사회는 데이터 유형별 전환기간을 원안 18~24개월에서 36~48개월로 연장하는 방향으로 논의 중. 최근 개정 방향은 빅테크·대기업을 적용대상에서 제외하고 개인·중소기업(SME) 중심으로 범위를 축소, 10년 이상 과거 거래 데이터는 제외하는 등 컴플라이언스 부담 완화 쪽으로 이동.
+- **원문 발췌**: "By the end of September 2025, the Konsentus Q3 TPP Open Banking Tracker reported 537 authorised TPPs across the UK and EEA." / "The total number of authorised Third Party Providers (TPPs) now stands at 552, a modest decrease of two from the end of Q4[2025]. This total comprises 359 TPPs in the EEA and 193 in the UK." / "France now has the highest number of home-regulated TPPs (31), overtaking Germany following the withdrawal of two German-regulated providers. Germany (30) and Sweden (28) remain close behind." (Konsentus Q1 2026 TPP Open Banking Tracker 요약) / "The Financial Data Access Regulation (FIDA) was considered for withdrawal in a leaked draft version of the EU Commission work programme for 2025 but is now back in 'pending' status in the published version. As of October 20, 2025, the Financial Data Access Regulation (FiDA) proposal appears in Annex III, Pending proposals, item 41 of the Commission work programme 2026." / "FiDA is expected to be formally adopted in mid-2026. However, the EU Parliament and the Council are looking to extend the original 18/24-month transitional period to transitional periods ranging from 36 to 48 months for different types of customer data." / "The EU Commission is amending FiDA regulation to exclude Big Tech companies and large corporations while focusing on individuals and SMEs, with new proposals significantly reducing compliance costs by limiting data scope and excluding transaction data older than ten years."
+- **출처명**: Konsentus "Q3 2025 Third Party Provider Open Banking Tracker" / Konsentus "Q1 2026 Third Party Provider Open Banking Tracker" / finAPI "FIDA Regulation: Status 'Pending'" / Axway Blog "EU FiDA Regulation Changes Target Big Tech Exclusion in 2025"
+- **출처 URL**: https://www.konsentus.com/tpp-trackers/q3-2025/ , https://www.konsentus.com/tpp-trackers/q1-2026 , https://www.finapi.io/en/fida-regulation-status-pending/ , https://blog.axway.com/industry-insights/banking-finance/fida-amendments-update
+- **기준 시점**: 2025년 3분기(537개) / 2026년 1분기(552개) TPP 수, FIDA 추진 현황은 2025년 10월~2026년 기준
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: WebFetch가 konsentus.com·finapi.io·taylorwessing.com 등에 모두 차단되어(EGRESS_BLOCKED) WebSearch 요약을 근거로 기록했다는 한계가 있음. FIDA는 한국의 "전분야 마이데이터"(개인정보보호법 개정, 2025.3.13 시행 — 규제변화 섹션 참고)와 유사한 취지(금융을 넘어선 데이터 공유 확장)의 EU판 제도로, 두 제도를 비교 서술할 때 한국은 이미 시행(2025.3) 단계인 반면 EU FIDA는 아직 입법 계류 중(2026년 중반 채택 목표)이라는 시차를 명확히 표기할 것.
+
+### 영국 오픈뱅킹 — 이용자·API 호출 실적 (2025년 연간)
+
+- **수치/핵심 사실**: 영국 오픈뱅킹(Open Banking Limited, OBL 집계)은 2025년 한 해 급성장. 2025년 3월 기준 활성 이용자 1,330만명(전년동기대비 40% 증가)에서 2025년 7월 1,500만명(월 API 호출 20억건 돌파)을 거쳐 2025년 12월 기준 이용자 연결 수 1,650만명(전년 1,210만명 대비 증가)까지 확대. API 호출 건수는 2025년 7월까지 최근 12개월간 220억건 초과(전년대비 36% 증가, 2년 전 22% 증가에서 가속화)를 기록했고, 2025년 연간 전체로는 240억건의 성공 API 호출(2024년 대비 27% 증가)을 기록. 오픈뱅킹 결제 건수는 연간 3억 5,100만건으로 57% 증가(스위핑 VRP 및 단건 국내결제 모두 성장).
+- **원문 발췌**: "Active UK open banking users reached 13.3 million in March 2025, a 40% YoY increase." / "Open Banking Limited (OBL) recording more than 2 billion API calls in a single month and 15 million active users across the UK in July 2025." / "By year-end, user connections reached 16.5 million by December up from 12.1 million a year earlier." / "In the 12 months leading up to July 2025, the number of API calls made across the open banking ecosystem exceeded 22 billion—a clear sign of growing momentum, representing a 36% increase compared to the previous year, up from 22% growth two years earlier." / "For the full year 2025, the ecosystem recorded 24.0 billion successful API calls in 2025, up 27% on 2024." / "Across the year, payments climbed to 351 million, a 57% increase with growth across both sweeping VRP and single domestic payments." (WebSearch가 Open Banking Limited 및 관련 2차 매체 — sqmagazine, finexer 등 — 보도를 종합)
+- **출처명**: Open Banking Limited(OBL) "Open Banking in 2025: Now Part of the UK's Everyday Financial Life" / Open Banking Limited "2 Billion API calls and 15 Million users - a landmark month for open banking in the UK" / Open Banking Limited "OBL Impact Report 7"
+- **출처 URL**: https://www.openbanking.org.uk/insights/open-banking-in-2025-now-part-of-the-uks-everyday-financial-life/ , https://www.openbanking.org.uk/insights/2-billion-api-calls-and-15-million-users-a-landmark-month-for-open-banking-in-the-uk/ , https://www.openbanking.org.uk/insights/obl-impact-report-7-open-banking-delivers-real-world-impact-as-adoption-accelerates-year-on-year/
+- **기준 시점**: 2025년 3월(1,330만명) / 2025년 7월(1,500만명, 월 API 20억건) / 2025년 12월(1,650만명) / 2025년 연간(API 240억건, 결제 3.51억건)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: WebFetch가 openbanking.org.uk에 차단되어(EGRESS_BLOCKED) 1차 출처 페이지 직접 대조는 하지 못하고 WebSearch 요약(원문 영어 인용 포함)으로 기록했다. "활성 이용자"와 "이용자 연결 수(user connections)"가 동일 지표인지 다른 지표인지 원문상 명확히 구분되지 않아, report-writer는 "약 1,500만~1,650만명(2025년)"으로 범위를 표현하거나 정확한 지표명을 재확인 후 사용할 것을 권고. 한국 마이데이터 이용자 수(중복포함 1억 6,531만명, 2025.5 기준 — 시장현황 섹션 참고)와는 집계 방식(영국은 순수 활성 이용자 vs 한국은 서비스별 중복 포함)이 달라 단순 비교 시 반드시 caveat 필요.
+
+### 중국 즈마신용(芝麻信用, Ant Group 산하) — 대안신용평가 선구 사례 및 최근 동향
+
+- **수치/핵심 사실**: 즈마신용(Zhima Credit, 세서미 크레딧)은 알리바바 계열 앤트그룹(옛 앤트파이낸셜) 산하 개인신용평가기관으로 2015년 1월 28일 출범(중국 인민은행이 개인신용조회업 시범사업자로 선정한 8개사 중 하나). 알리바바 B2B·B2C 전자상거래 플랫폼 이용자 10억명 이상의 온라인 거래, SNS 인맥, 학력·경력, 공과금 납부, 대중교통 이용 행태 등 비금융 대안데이터를 활용해 350~950점 사이의 신용점수를 산정. 고득점자에게 보증금 없는 호텔 예약, 자전거 대여, 대출 우대 등 혜택 제공. 2025년에는 800점 이상 고득점자 전용 서브 브랜드 '즈마 800(芝麻800)'을 출시해 '선치료 후결제', '사용 후 구매' 등 15종 전용 서비스를 제공하며 아마프(Amap)·비보(vivo) 등 플랫폼과 신용 생태계 협력을 개시.
+- **원문 발췌**: "Zhima Credit is a private company-run credit scoring and loyalty program system developed by Ant Group, an affiliate of Alibaba Group. It was launched on January 28, 2015, by Alibaba's Ant Financial, after receiving permission from the People's Bank of China to be one of eight Chinese companies to experiment with personal credit reporting." / "Zhima Credit uses alternative data sources, such as online transactions, social interactions, and behavioral patterns, to assess the creditworthiness of over 1 billion users in China and abroad." / "Zhima Credit provides users with a credit score ranging from 350 to 950." / "In 2025, it launched the 'Zhima 800' sub-brand, providing 15 exclusive services such as 'treatment first, payment later' and 'try before you buy' for users with scores above 800, and initiated credit ecosystem cooperation with platforms [like Amap and vivo]." / "즈마신용의 신용평가 비결은 알리바바의 B2B, B2C 전자상거래 플랫폼을 이용하는 10억 명 넘는 고객과 수천만 곳의 기업으로부터 수집한 데이터다. 즈마신용은 SNS를 통한 인맥 정보, 학력, 경력, 공과금 납부, 벌금 이력, 대중교통 이용 행태 등까지 모아 신용평가에 활용했다."
+- **출처명**: Wikipedia "Zhima Credit"(영문판, WebSearch 요약 인용) / 플래텀(Platum) "알리바바-텐센트, 기술로 대륙의 신용을 만들다" / 이코노미조선 "혁신 선봉 중국 대표 대안 신용평가사 대륙의 신용 만든 '즈마신용(芝麻信用)', 정부 칼날에 주춤"
+- **출처 URL**: https://en.wikipedia.org/wiki/Zhima_Credit , https://platum.kr/archives/122809 , http://economychosun.com/client/news/view.php?boardName=C00&t_num=13611413
+- **기준 시점**: 2015년 1월(출범) / "10억명 이상" 이용자 규모는 정확한 기준연도 불명확(위키피디아 서술 시점 기준으로 추정) / 즈마 800 서브브랜드는 2025년 출시
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: WebFetch가 en.wikipedia.org·baike.baidu.com에 모두 차단되어(EGRESS_BLOCKED) 원문 직접 대조를 하지 못했고, WebSearch 요약(영어 원문 인용 포함)을 근거로 기록했다. 이코노미조선 기사 제목의 "정부 칼날에 주춤"이 시사하듯, 즈마신용은 과거 중국 정부의 개인신용정보 국가 통제 강화 기조(신용조회업 라이선스 정식 발급 지연·중단 등) 속에서 규제 리스크를 겪은 바 있다는 맥락이 있으나, 이 세션에서는 그 규제 이력의 구체적 시점·내용까지는 확인하지 못함(규제변화 축이 아닌 경쟁동향/해외 축 조사 범위이므로 참고만). "10억명 이상"이라는 이용자 규모는 한국 마이데이터 시장(2,200만명, 카카오페이 단일 사업자 기준) 대비 극단적으로 큰 스케일 차이를 보여주는 참고 지표로만 사용 권고 — 알리바바 생태계 전체(전자상거래 포함) 이용자 기반이라는 점에서 산정 기준이 카카오페이 마이데이터 가입자 수와 근본적으로 다름.
