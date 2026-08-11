@@ -676,3 +676,148 @@
 - **조사자**: market-researcher
 - **비고**: 이 항목은 해석·종합 메모이므로 report-writer는 그대로 인용하지 말고, 리포트의
   "종합 인사이트" 섹션에서 위에 각주로 연결된 개별 근거를 재구성해 서술할 것.
+
+## 재조사 1차 반영 (2026-08-11)
+
+> review/card-brokerage-checklist.md의 "재조사 요청 (A형 1건 + B형 2건, 재조사 1차)" 절에
+> 지목된 3건에 대한 타겟 재조사 결과. 각 항목은 원 flagged 항목(위 본문의 해당 섹션)을
+> 대체/보완하는 정식 근거이며, 원 항목은 삭제하지 않고 그대로 둔다.
+
+### [재조사 1차 / A형] WalletHub "1,500개 이상 카드 비교" — 원 출처 재확인
+
+- **수치/핵심 사실**: WalletHub는 자사 신용카드 비교 페이지에서 "1,500개 이상(1,500+)"의
+  신용카드 상품을 상시 비교·평가한다고 명시하고 있음(카테고리별 페이지 제목·본문에 반복
+  등장). WalletHub의 "Market Comparison"(WalletHub Rating 구성요소 중 하나)은 개별 카드를
+  WalletHub가 모니터링하는 1,500개 이상의 카드 풀(pool)과 비교해 산정된다고 서술됨.
+- **원문 발췌**: 페이지 제목 자체가 정량 수치를 담고 있음 — "Best Credit Cards for Bad Credit
+  From 1,500+ Offers" / "Best Credit Cards for Excellent Credit From 1,500+ Offers"
+  (wallethub.com 실제 페이지 타이틀, 검색엔진 색인 결과로 확인). WebSearch 종합 결과:
+  "WalletHub's editors regularly compare more than 1,500 credit card offers based on their
+  rewards, fees, interest rates, special features... The Market Comparison component measures
+  how appealing the fees, rewards, cost, APR and other features of a card are compared to a
+  pool of over 1,500 credit card offers monitored by WalletHub." — 두 차례 독립된 검색
+  쿼리("WalletHub compares over 1,500 credit card products", "wallethub.com '1,500+' credit
+  card offers 'Market Comparison' WalletHub Rating")에서 동일하게 "1,500+" 수치가 반복
+  확인됨.
+- **출처명**: WalletHub, Inc. 공식 웹사이트 — 「Best Credit Cards for Bad Credit From 1,500+
+  Offers」, 「Best Credit Cards for Excellent Credit From 1,500+ Offers」, 「Compare Credit
+  Cards: Compare & Apply Online Instantly」 등 카드 비교 페이지 (검색엔진 색인 기준)
+- **출처 URL**: https://wallethub.com/credit-cards/bad-credit/ , https://wallethub.com/credit-cards/excellent-credit/ ,
+  https://wallethub.com/credit-cards/compare/ (전부 WebFetch 시도 시 `EGRESS_BLOCKED` —
+  wallethub.com 도메인 자체가 프록시에서 차단돼 원문 페이지 직접 렌더링 대조는 못했음.
+  WebSearch가 실제 페이지를 크롤링해 색인한 제목·발췌만으로 확인)
+- **기준 시점**: 확인 시점(2026-08-11) 기준 WalletHub 웹사이트 현재 게시 내용(페이지 제목에
+  "August 2026" 표기가 포함된 카드 목록도 검색 결과에 함께 노출돼, 이 페이지들이 상시
+  갱신되는 라이브 페이지임을 시사)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **재조사 1차 결과 — 원 출처(원문) 확인 성공.** WebFetch가 wallethub.com 도메인을
+  전면 차단해 페이지를 직접 열람하지는 못했으나, 서로 다른 두 차례 WebSearch 쿼리에서
+  독립적으로 "1,500+" 수치가 페이지 제목·본문 발췌 형태로 일관되게 재현됨(단순 uncorroborated
+  요약이 아니라 실제 페이지 타이틀 문자열이라는 점에서 신뢰도가 상대적으로 높음). 다만
+  WebFetch 직접 대조가 아니므로, report-writer는 각주에 "WalletHub 공식 웹사이트 게시 문구
+  (WebSearch 색인 확인, 직접 페이지 렌더링 대조는 네트워크 제약으로 못함)"라는 caveat를
+  유지할 것을 권장.
+
+### [재조사 1차 / A형] MoneySavingExpert "16개 이상 카드·대출 제공사 검색" — 원 출처 재확인
+
+- **수치/핵심 사실**: MoneySavingExpert의 신용카드/대출 Eligibility Calculator(승인가능성
+  계산기)는 "16개 이상(more than 16)"의 카드·대출 제공사(providers)를 검색(soft search)하며,
+  아직 시장 전체(whole market)를 커버하지는 못하지만 제공사를 계속 추가 중이라고 명시함.
+- **원문 발췌**: WebSearch 종합 결과(서로 다른 두 차례 독립 검색 쿼리에서 동일 문구 재현):
+  "MoneySavingExpert searches more than 16 providers for credit cards and loans. However,
+  they don't cover the whole market yet, but are working hard to add new providers all the
+  time." / "The calculator searches many of the top cards, though sadly it doesn't cover
+  every card." — moneysavingexpert.com의 「Credit cards eligibility calculator」,
+  「Loans eligibility calculator」 페이지 색인 결과 기준.
+- **출처명**: MoneySavingExpert.com 공식 웹사이트 — 「Credit cards eligibility calculator」,
+  「Loans eligibility calculator」 페이지 (검색엔진 색인 기준)
+- **출처 URL**: https://www.moneysavingexpert.com/eligibility/credit-cards/ ,
+  https://www.moneysavingexpert.com/eligibility/loans-calculator/search/ (전부 WebFetch
+  시도 시 `EGRESS_BLOCKED` — moneysavingexpert.com 도메인 자체가 프록시에서 차단돼 원문
+  페이지 직접 렌더링 대조는 못했음. WebSearch가 실제 페이지를 크롤링해 색인한 발췌만으로
+  확인)
+- **기준 시점**: 확인 시점(2026-08-11) 기준 MoneySavingExpert 웹사이트 현재 게시 내용(제공사
+  수는 상시 추가된다고 페이지 자체에 명시돼 있어 변동 가능성이 있는 라이브 수치)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **재조사 1차 결과 — 원 출처(원문) 확인 성공.** WalletHub 항목과 동일하게 WebFetch
+  직접 대조는 못했으나, "16 providers... don't cover the whole market yet"라는 동일 문구가
+  서로 다른 검색 쿼리에서 반복 재현돼 실제 페이지 문구일 가능성이 높음. report-writer는
+  이 수치도 "WebSearch 색인 확인, 직접 페이지 렌더링 대조는 네트워크 제약으로 못함" caveat와
+  함께 인용할 것을 권장. → 결론: A형 2건(WalletHub, MoneySavingExpert) 모두 원 출처를
+  찾았으므로 report-writer는 리포트 본문에 정식 각주(위 출처 URL)를 달아 반영 가능.
+
+### [재조사 1차 / B형] [^13] "7년 만의 비관료 출신" — 원 출처 재확인
+
+- **수치/핵심 사실**: 2026년 6월 여신금융협회 회장후보추천위원회가 이동철 전 KB금융 부회장을
+  제14대 여신금융협회장 단독 후보로 추천한 것은 "7년 만의 비관료(민간) 출신" 협회장 선임임.
+  마지막 민간 출신 협회장은 2016년 취임~2019년 퇴임한 김덕수 전 KB국민카드 대표였음(이후
+  2019년부터 2026년까지는 관료 출신이 협회장을 역임). 협회장 후보 경선 단계(2026년 5월,
+  단독후보 확정 이전)에서도 박경훈 전 우리금융캐피탈 대표, 윤창환 전 국회의장 정책수석,
+  이동철 전 KB국민카드 대표 등 비관료 출신 후보 3인이 압축된 것으로 "7년 만의 비관료 출신
+  수장" 구도가 형성됐다고 보도됨.
+- **원문 발췌**: "7년 만의 민간 출신 여신협회장…이동철, 업권 균형·대관 역량 시험대" (다음뉴스
+  제목 직접 인용) / "여신금융협회, 7년 만에 비관료 출신 수장…민간·정치권·학계 '혼전'"
+  (헤럴드경제 제목 직접 인용) / "7년 만에 비관료 수장…여신금융협회장, 민간·정치·학계
+  '경쟁'" (디지털타임스 제목 직접 인용) / "여신협, 7년만에 비관료 출신 수장 박경훈·윤창환·
+  이동철 3인 압축" (헤럴드경제 제목 직접 인용) / WebSearch 종합: "Kim Duk-soo, who served as
+  association chairman from 2016-2019, was the last private-sector president before a new
+  non-bureaucrat chairman was appointed after about 7 years." / "The Credit Finance
+  Association chairmanship has traditionally been held by former government officials...
+  the next chairman will be filled by a non-bureaucrat for the first time in 7 years."
+- **출처명**: 다음뉴스(제휴 매체 미상) 「7년 만의 민간 출신 여신협회장…이동철, 업권 균형·
+  대관 역량 시험대」(2026-06-08), 헤럴드경제 「여신금융협회, 7년 만에 비관료 출신 수장…
+  민간·정치권·학계 '혼전'」, 헤럴드경제 「여신협, 7년만에 비관료 출신 수장 박경훈·윤창환·
+  이동철 3인 압축」, 디지털타임스 「7년 만에 비관료 수장…여신금융협회장, 민간·정치·학계
+  '경쟁'」 — 총 4개 매체가 독립적으로 "7년 만" 표현을 제목에 사용해 교차검증됨
+- **출처 URL**: https://v.daum.net/v/20260608125535237 , https://biz.heraldcorp.com/article/10754832 ,
+  https://biz.heraldcorp.com/article/10756962 , https://www.dt.co.kr/article/12064094
+  (전부 WebFetch 시도 시 `EGRESS_BLOCKED` — daum.net, heraldcorp.com, dt.co.kr 도메인이
+  프록시에서 차단돼 원문 페이지 직접 렌더링 대조는 못했음. WebSearch가 실제 기사 제목·
+  본문 요약을 크롤링해 확인)
+- **기준 시점**: 2026년 5~6월(협회장 선임 절차 진행 기간) 보도 기준
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **재조사 1차 결과 — 원 출처(원문) 확인 성공.** "7년 만"이라는 기간이 단독 기사의
+  요약 문구가 아니라 4개 서로 다른 매체(다음뉴스·헤럴드경제 2건·디지털타임스)의 **기사
+  제목 자체**에 반복 등장해 신뢰도가 높음. 근거가 되는 배경 사실("마지막 민간 출신은
+  2016~2019년 재임한 김덕수 전 KB국민카드 대표")도 WebSearch 종합에서 확인됨(단, 이 배경
+  설명 문장 자체는 검색엔진의 종합 요약이라 원문 그대로의 인용은 아니므로 report-writer는
+  "7년 만의 비관료 출신"까지만 각주로 뒷받침하고, "마지막 민간 출신은 김덕수 전 대표"라는
+  세부까지는 별도 caveat 없이 단정하지 않는 것을 권장). → report-writer는 [^13]에 위 4개
+  URL 중 1~2개를 각주로 추가해 "7년 만의 비관료 출신" 표현을 그대로 유지 가능.
+
+### [재조사 1차 / B형] [^14] "마이데이터 2.0... 2025년 6월 19일 개시" — investment-securities
+  evidence의 1차 출처 재사용
+
+- **수치/핵심 사실**: `evidence/investment-securities.md`의 "마이데이터 2.0 시행 — 금융자산
+  통합조회 확대(증권 포함)" 항목에 이미 1차 출처(금융위원회 보도자료)가 정식으로 기록돼
+  있음을 확인. 「마이데이터 2.0 추진방안」은 2024년 4월 4일 발표, 실제 서비스는 2025년 6월
+  19일부터 27개 금융 사업자가 개시(금융위 보도자료 게재일은 2025-06-18로, 서비스 개시일
+  2025-06-19 하루 전 배포된 보도자료로 추정 — 두 날짜가 다르므로 병기 시 구분 필요).
+- **원문 발췌**: (investment-securities.md에서 재인용) "2025년 6월 19일부터 27개 금융
+  사업자가 한층 개선된 '마이데이터 2.0' 서비스를 시작했다." / "마이데이터 2.0에서는 개별
+  금융회사를 선택하지 않고도 은행, 보험, 증권 등 업권만 선택하면 금융업권별로 흩어진 자신의
+  보유 자산을 한 번에 조회할 수 있게 됐다." / "기존에는 한 번에 최대 50개의 기관을 연결할
+  수 있었지만, 마이데이터 2.0에서는 401개까지 한 번에 연결이 가능하다."
+- **출처명**: 금융위원회 보도자료 「흩어진 보유 자산 한 번에···'마이데이터 2.0' 개시」
+  (2025-06-18), 아시아경제 「[관련 보도]」(2025-06-23) 등 복수 매체 종합
+  (investment-securities.md 원 항목과 동일 출처)
+- **출처 URL**: https://www.fsc.go.kr/no010107/84785 (금융위원회 공식 보도자료, WebFetch
+  시도 시 `EGRESS_BLOCKED`로 직접 열람은 못했으나 investment-securities 도메인 조사
+  세션에서 WebSearch로 이미 확인된 1차 출처), https://core.asiae.co.kr/article/2025062310031098441
+- **기준 시점**: 추진방안 발표 2024-04-04 / 실제 서비스(2.0) 개시 2025-06-19(보도자료
+  게재일 2025-06-18)
+- **확인일**: 2026-08-11 (원 확인은 investment-securities 도메인 조사 세션, 이번 세션에서
+  재사용 확인)
+- **조사자**: market-researcher
+- **비고**: **재조사 1차 결과 — 대체 근거로 논리 보완(사실상 원 출처 확인 성공).** 카드중개
+  리포트 [^14]가 가리켰던 KDI 「내 카드 한눈에」 URL은 여전히 "마이데이터 2.0 개시일"과는
+  무관한 별개 서비스 출처이므로 그대로 유지하되, "마이데이터 2.0... 2025년 6월 19일 개시"
+  문장에는 위 금융위원회 보도자료 URL(https://www.fsc.go.kr/no010107/84785)을 **새 각주**로
+  달아야 함(기존 [^14]를 이 URL로 교체하거나, [^14]-1처럼 별도 각주를 신설해 "내 카드
+  한눈에"(KDI)와 "마이데이터 2.0 개시일"(금융위)을 각각 다른 각주로 분리하는 것을 권장).
+  두 날짜(보도자료 게재일 2025-06-18 vs 서비스 개시일 2025-06-19)가 하루 차이 나므로,
+  report-writer는 "2025년 6월 19일 개시(금융위 보도자료는 전일인 6월 18일 배포)"처럼
+  병기하거나, 간단히 "2025년 6월 19일 개시"만 쓰고 출처만 금융위 URL로 달아도 무방.
