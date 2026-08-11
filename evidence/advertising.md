@@ -412,8 +412,382 @@
 
 ## 경쟁 동향
 
-(아직 근거 없음)
+### 카카오페이 자체 광고 상품 구성 — 팝업배너·전면배너·리워드배너, MAU 2,400만 기반 타겟팅
+
+- **수치/핵심 사실**: 카카오페이 광고사업팀이 배포하는 "카카오페이 광고 상품 소개서" PDF는
+  기존 t1.kakaocdn.net에서 2025년 하반기 이후 common.kakaopaycdn.com 도메인으로 이전되어
+  2026년 2월·3월·5월판이 계속 갱신 발행되고 있음이 검색으로 확인됨(문서 존재 자체가 근거이며,
+  두 도메인 모두 이번 세션 네트워크 egress 프록시가 차단해 PDF 원문 직접 열람은 여전히
+  불가능). 검색엔진이 색인한 PDF 제목·요약 기준으로, 카카오페이의 대표 디스플레이 광고
+  상품은 3종: ① 팝업 배너(월간 카카오페이 이용자 약 2,410만명에게 자동 노출), ② 전면배너
+  (송금·결제·충전·응모 등 핵심 금융 행위 완료 시점에 전면 노출), ③ 리워드배너(클릭 시
+  소액 포인트 지급으로 높은 클릭전환 유도). 별도로 외부 광고주 전용 사이트(ads.kakaopay.com,
+  "외부 광고주를 위한 카카오페이 배너 광고 가이드")가 존재함도 확인. 2026년 소개서 기준
+  카카오페이는 MAU 2,400만명, 누적 가입자 4,200만명, 연간 거래액 185조 6,000억원, 국내
+  최다 수준의 마이데이터 가입자(약 2,000만명)를 광고 타겟팅 자산으로 내세우고 있음(단,
+  "20-40대 평균 92% 사용" 등 세부 문구는 검색엔진 요약이며 PDF 원문 직접 대조는 못함).
+- **원문 발췌**: "카카오페이의 팝업 배너는 매달 카카오페이를 사용하는 2,410만에게 자동
+  노출되는 주목도 높은 광고 상품입니다. 전면 배너는 송금, 결제, 충전, 응모 등 카카오페이의
+  핵심 금융 행위를 완료한 시점에 전면으로 노출되어 브랜드 메시지를 효과적으로 전달합니다.
+  리워드성 배너는 클릭 시 사용자에게 소액의 포인트를 제공하여 높은 클릭 전환을 일으킵니다.";
+  "카카오페이는 월간 활성 사용자수(MAU) 2,400만명이며, 연간 거래액 185.6조 원, 누적 가입자
+  4,200만명이며, 전 연령이 골고루 사용하는 국민앱으로 특히 20-40대의 평균 92%가 사용하고
+  있습니다... 카카오페이는 2,000만 마이데이터 유저를 보유하고 있으며, 국내 대표 마이데이터
+  사업자로서 업계 최다 수준의 마이데이터 가입자/연결자를 보유하고 있습니다."
+- **출처명**: 카카오페이 광고사업팀 "카카오페이 광고 상품 소개서"(2026.02/2026.03/2026.05판,
+  common.kakaopaycdn.com 호스팅) — WebSearch 색인 요약으로만 확인, 원문 PDF는
+  t1.kakaocdn.net·common.kakaopaycdn.com·ads.kakaopay.com 모두 WebFetch 차단
+- **출처 URL**: https://common.kakaopaycdn.com/kakaopay-ad-adbiz/AD_PRODUCT_BROCHURE/2605_kakaopay_AD_product.pdf ,
+  https://common.kakaopaycdn.com/kakaopay-ad-adbiz/AD_PRODUCT_BROCHURE/2603_kakaopay_AD_product.pdf ,
+  https://common.kakaopaycdn.com/kakaopay-ad-adbiz/AD_PRODUCT_BROCHURE/2602_kakaopay_AD_product.pdf ,
+  https://ads.kakaopay.com/ (외부 광고주 가이드, 접근 불가)
+- **기준 시점**: 2026년 2~5월 소개서 기준(정확한 발행일은 파일명의 "2602/2603/2605"로
+  추정, 원문 대조 못함)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **PDF 원문 직접 열람은 이번 세션에서도 계속 차단됨(EGRESS_BLOCKED, 이전 세션과
+  동일)** — 검색엔진이 색인한 페이지 제목·스니펫으로만 확인했으므로, report-writer는 이
+  수치들을 "카카오페이가 공개한 자료에 따르면(검색 색인 기준, 원문 직접 대조 못함)"이라는
+  caveat와 함께 사용할 것을 권고. 특히 "MAU 2,400만명·마이데이터 유저 2,000만명" 수치는
+  위 시장현황 섹션의 카카오페이 실적발표(IR) 보도와도 대체로 정합적이나 정확히 일치하는
+  공식 수치인지는 확인 못함. 다음 세션에서 네트워크 제약이 없는 환경이라면 PDF 직접
+  다운로드를 강력 권장.
+
+### 카카오 톡비즈(비즈보드 등) 광고 매출 — 카카오페이 광고 사업의 모(母) 생태계 규모 비교
+
+- **수치/핵심 사실**: 카카오(모회사)의 "톡비즈" 사업부(카카오톡 채팅탭 상단 비즈보드 배너,
+  카카오톡 채널, 오픈채팅 광고 등 포함)는 카카오페이 광고 사업과는 별도 사업부이지만 같은
+  카카오 생태계 광고 인벤토리를 사용한다는 점에서 비교 참고가 됨. 카카오 2025년 4분기
+  연결 매출액은 전년동기 대비 9% 증가한 2조 1,332억원, 연결 영업이익은 136% 증가한 2,034억원.
+  이 중 플랫폼 부문 톡비즈 매출액은 전년동기 대비 13% 증가한 6,271억원을 기록했고(2025년
+  4분기), 별도 인용된 수치로는 "톡비즈 광고 매출액 3,734억원(전년동기 대비 +16%)"도 확인됨
+  (두 수치의 관계 — 톡비즈 매출 6,271억원 vs 톡비즈 "광고" 매출 3,734억원 — 은 톡비즈
+  매출이 광고+커머스(선물하기 등)로 구성돼 광고가 그 중 일부라는 뜻으로 추정되나, 원문에서
+  명확한 세부 구성 정의는 확인 못함). 카카오 2025년 연간 매출액은 8조 991억원(+3%), 영업이익
+  7,320억원(+48%)으로 역대 최대 실적. 참고로 카카오페이의 "플랫폼서비스"(광고+통신중개+
+  카드추천) 매출은 분기당 160~185억원 수준(위 시장현황 섹션)으로, 카카오 톡비즈 광고
+  매출(분기당 3,700억원대)과는 규모 자체가 약 20배 이상 차이 나며 완전히 별개 사업부·
+  별개 광고상품군임을 report-writer는 명확히 구분해 서술할 것.
+- **원문 발췌**: "2025년 4분기 연결 매출액은 전년 동기보다 9% 증가한 2조 1,332억 원이며,
+  연결 영업이익은 2,034억 원으로 136% 늘었습니다. 플랫폼 부문 중 톡비즈 매출액은 전년
+  동기 대비 13% 증가한 6,271억 원을 기록했습니다."; "카카오의 톡비즈(TalkBiz) 광고
+  매출액은 3,734억 원으로 전년 동기 대비 16% 성장했습니다."; "카카오의 2025년 연간
+  매출액은 전년 동기보다 3% 증가한 8조 991억 원을 기록했고, 연간 영업이익은 7,320억
+  원으로 48% 늘었습니다."
+- **출처명**: 카카오 실적발표(IR) 보도 — kt나스미디어 블로그, 카카오 공식 보도자료
+  (kakaocorp.com, WebFetch 차단으로 직접 대조 못함) 인용 매체 종합
+- **출처 URL**: https://blog.nasmedia.co.kr/entry/2602mediaissue-kakao254q ,
+  https://www.kakaocorp.com/page/detail/11931 (WebFetch 차단, WebSearch로만 확인)
+- **기준 시점**: 2025년 4분기·연간 실적(2026년 2월 발표 추정)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: 카카오 공식 IR 원자료(kakaocorp.com)는 이번 세션 네트워크 차단으로 직접 대조
+  못함. "톡비즈 매출 6,271억원"과 "톡비즈 광고 매출 3,734억원"이 서로 다른 매체 인용에서
+  나온 수치라 정확한 관계(포함관계인지, 별도 집계인지)를 확정 못함 — report-writer는 두
+  수치를 "톡비즈 부문 전체 매출"과 "톡비즈 부문 내 광고 매출로 인용된 수치"로 구분해
+  병기하고 단순 비교·합산하지 말 것. 이 항목은 카카오페이 광고 사업의 "생태계 규모감"을
+  보여주는 참고 자료로, 카카오페이 자체 실적과 직접 합산 대상은 아님.
+
+### 토스(비바리퍼블리카) — Google AdMob 사례로 확인된 광고 수익 891% 성장(2024.4~2025.4) 및 자체 ML 타겟팅
+
+- **수치/핵심 사실**: 토스는 2024년 4월부터 2025년 4월까지 1년간 Google AdMob을 통해
+  광고 수익이 전년 대비 891% 증가했다고 Google AdMob 공식 사례 연구(케이스 스터디)에서
+  밝힘. 같은 사례에서 이전 미디에이션 플랫폼 대비 eCPM이 34% 증가, 유효노출률 95%, 일일
+  광고 노출수 2억회 이상을 기록했다고 소개됨. 토스는 자체 MAU 약 2,480만명 기반의 타겟팅
+  광고(금융상품 배너·네이티브·리워드형)를 운영하며, 누적 카드 등록 9,700만건·계좌 등록
+  2억 5,000만건의 금융 데이터를 활용해 실제 구매 내역·금액·빈도까지 반영한 타겟팅을
+  한다고 알려짐. 자체 개발한 "토스애즈(Toss Ads)" 조직은 Two-tower 모델 등 자체 머신러닝
+  모델로 유저 임베딩을 생성해 잠재고객을 선별하며, 2025년 12월에는 세밀한 세그먼트 설정
+  없이도 전환 가능성이 높은 유저에게 자동으로 타겟이 구성되는 "자동 타겟팅" 기능을
+  신규 출시함.
+- **원문 발췌**: "토스는 2024년 4월부터 2025년 4월까지 AdMob을 통해 전년 대비 광고
+  수익이 891% 증가했습니다. 이전 미디에이션 플랫폼 대비 eCPM이 34% 증가했으며, 95%의
+  유효노출률과 일일 2억 회 이상의 광고 노출수를 기록했습니다. 토스 만보기 기능의 다음
+  날 유지율은 전년 대비 17% 증가했습니다."; "토스의 광고 서비스는 2,480만 MAU 기반의
+  타겟팅 광고(금융상품 배너, 네이티브, 리워드)로 구성되어 있습니다."; "토스는 금융 슈퍼
+  앱으로서 누적 카드 등록 9,700만 건, 계좌 등록 2억 5천만 건이라는 방대한 금융 데이터를
+  보유하고 있으며, 이를 기반으로 유저의 실제 구매 내역, 금액, 빈도까지 확인 가능합니다.";
+  "토스애즈는 전환 가능성이 높은 유저를 중심으로 타겟이 자동 구성되어 예산이 효율적으로
+  소진되고, 세밀한 세그먼트 설정 없이도 모델이 자동으로 학습·최적화해 운영 리소스 절감
+  및 캠페인 관리 효율 향상이 기대되는 자동 타겟팅 기능을 출시했습니다."
+- **출처명**: Google AdMob 공식 사례 연구("AdMob으로 수익을 891% 늘리면서 앱 UX를 유지한
+  토스의 비결"), 토스 기술 블로그(toss.tech), 마케팅 인사이드(inside.ampm.co.kr) 등 종합
+- **출처 URL**: https://admob.google.com/intl/ko/home/resources/how-toss-preserves-its-app-ux-while-boosting-revenue-891-with-admob/
+  (WebFetch 차단, WebSearch로만 확인), https://toss.tech/article/ads-ml (WebFetch 차단),
+  https://tossads.toss.im/insights/product-update-2512 , https://www.thevaluenews.co.kr/news/196174
+- **기준 시점**: 2024년 4월~2025년 4월(AdMob 사례 기간), 2025년 12월(자동 타겟팅 신기능),
+  MAU 2,480만명은 발표 시점 불명확
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: Google AdMob 공식 케이스 스터디이므로 신뢰도는 높으나, "891% 증가"는 AdMob
+  중개(mediation) 채널을 통한 광고 수익 증가율이지 토스 전체 광고 사업 매출(자체 직접
+  판매 광고 포함) 증가율은 아닐 가능성이 있음 — report-writer는 "AdMob 채널 기준"이라는
+  범위를 명시할 것. 원문 페이지(admob.google.com, toss.tech)는 이번 세션 네트워크 차단으로
+  직접 대조하지 못함, WebSearch 요약으로만 확인. 위 시장현황 섹션의 "토스 2023년 11월
+  월 광고매출 100억원 돌파"(오래된 자료)와 이 항목("2024.4-2025.4 AdMob 채널 891%
+  성장")은 서로 다른 지표(절대 매출액 vs 특정 채널 성장률)이므로 단순 연결해 해석하지 말 것.
+
+### 네이버페이 — 광고 사업 단독 지표는 확인 불가, 네이버 전체 커머스·플랫폼 광고 성장만 참고
+
+- **상태**: 확인 필요 (네이버페이 단독 광고 사업 지표 출처 미확보)
+- **시도한 검색**: "네이버페이 광고 사업 매출 2025 2026 스마트스토어 배너", "네이버페이
+  마이데이터 맞춤 혜택 광고 타겟팅 2025 2026", "네이버페이 배너 혜택 알림 광고 매출
+  규모 2025" 등 복수 검색
+- **비고**: 네이버페이 자체의 인앱 배너 광고·마이데이터 타겟팅 광고 사업에 대한 단독
+  수치(매출, 광고주 수, 노출 지면별 상품 구성 등)는 확인하지 못함. 다만 참고로, 네이버
+  전체(네이버페이가 포함된 커머스·핀테크 사업 상위 법인) 2025년 4분기 커머스 매출은
+  1조 540억원(전년동기 대비 +36%), 같은 분기 플랫폼 광고 매출도 전년동기 대비 +6.7%
+  성장했다는 매체 보도가 있음(원문: "네이버는 2025년 4분기 매출 3조 1,951억 원(YoY
+  +10.7%)을 기록했습니다... 4분기에는 플랫폼 광고 매출도 전년 동기 대비 6.7% 성장했습니다.
+  2025년 4분기 커머스 매출이 1조 540억 원이며 전년 동기 대비 36% 성장했습니다." — 출처:
+  kt나스미디어 블로그 https://blog.nasmedia.co.kr/entry/2602mediaissue-naver254q , 확인일
+  2026-08-11). 다만 이는 "네이버페이 광고 사업" 단독 수치가 아니라 네이버 커머스·플랫폼
+  광고 전체 수치이므로, 이 항목만으로는 카카오페이 플랫폼서비스 매출(광고+통신중개+
+  카드추천)과 직접 비교할 수 없음 — report-writer는 "네이버페이 단독 광고 매출은 비공시"
+  임을 명시하고 위 참고 수치를 쓸 경우 "네이버 전체(페이 포함 여부 불분명)" 수준의
+  caveat를 반드시 붙일 것. 다음 세션에서 "네이버파이낸셜 감사보고서", "네이버페이 광고
+  플랫폼 정식 명칭"(예: 있다면) 등으로 재검색을 권장.
+
+### 뱅크샐러드 — 마이데이터 기반 인앱 광고·추천 서비스로 매출 189%~230% 성장(2024~2025년)
+
+- **수치/핵심 사실**: 뱅크샐러드의 2024년 영업수익(매출)은 196억원으로 전년(68억원) 대비
+  약 189% 증가했고, 2025년 매출액은 259억 9,352만원(전년 대비 +32.8%)으로 확인됨(수치
+  출처가 서로 다른 두 매체이며 시점도 다름 — 189%는 2024년 연간, 32.8%는 2025년 사람인
+  기업정보 기준). 별도로 2025년 2분기 실적에서는 첫 분기 흑자(순이익 1억 2,000만원)를
+  기록했고, "건강관리 및 광고 서비스"의 매출액이 늘어 매출 내 비중이 기존 주력이던
+  금융상품 중개 서비스 비중을 넘어섰다는 보도가 있음(단, 광고 서비스 단독 매출액은
+  확인 못함 — "건강관리+광고" 합산 카테고리로만 보도됨). 뱅크샐러드는 마이데이터 기반
+  타겟팅으로 마케팅 비용을 억제하면서 MAU·ARPU를 동시에 올리는 성장 모델을 구축했다고
+  알려짐. 참고로 보험 서비스는 별도로 2025년 2분기 매출이 전년동기 대비 +230% 급증했다는
+  수치도 있으나 이는 "보험" 카테고리이지 "광고" 카테고리가 아님 — report-writer는 혼동
+  없이 구분할 것.
+- **원문 발췌**: "뱅크샐러드의 2024년 영업수익은 196억 원으로, 전년 68억 원 대비 약
+  189% 증가했습니다."; "(주)뱅크샐러드 2025년 재무정보 매출액 259억 9,352만원... 매출액
+  성장률 32.8% 증가"; "뱅크샐러드가 올 2분기 금융과 건강 서비스 전 부문이 고르게 성장해
+  흑자 전환에 성공했으며, 영업비용은 같은 기간 약 14% 감소해 1억2000만원의 분기순이익을
+  기록했습니다."; "건강관리 및 광고 서비스의 매출액이 늘어 매출 내 비중도 금융상품 중개
+  서비스를 넘어섰습니다. 또한 보험 서비스는 출시 1년 만에 이용자 50만 명을 돌파했으며,
+  2025년 2분기 보험 매출은 전년 동기 대비 230% 급증했습니다."; "데이터 타겟팅 기술로
+  마케팅 비용을 억제하면서도 MAU와 ARPU를 동시에 올리는 효율적 성장 모델을 구축했습니다."
+- **출처명**: 플래텀(2024년 매출), 사람인 기업정보(2025년 재무정보), 아웃스탠딩·시사오늘
+  (2025년 2분기 실적), demoday.co.kr(비즈니스모델 분석)
+- **출처 URL**: https://platum.kr/archives/256106 , https://www.saramin.co.kr/zf_user/company-info/view-inner-finance/csn/TWQxR3poQzNwSFZJMUVEVmNNQjlIdz09/company_nm/(%EC%A3%BC)%EB%B1%85%ED%81%AC%EC%83%90%EB%9F%AC%EB%93%9C ,
+  https://outstanding.kr/press/1416/20250814 , https://www.sisaon.co.kr/news/articleView.html?idxno=160608 ,
+  https://demoday.co.kr/bm-analysis/114
+- **기준 시점**: 2024년 연간 실적(+189%), 2025년 연간 재무정보(+32.8%, 발표 시점 불명확
+  — 사람인 페이지는 실시간 갱신형이라 정확한 공시일 특정 어려움), 2025년 2분기 실적
+  (흑자전환·보도일 2025-08-14 추정)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: "2024년 +189%"와 "2025년 +32.8%"는 기준 연도가 다르고 계산 모수(68억→196억
+  vs 196억→259.9억으로 역산 시 32.6%대 근접해 대체로 정합적)도 달라 report-writer는 두
+  수치를 각각 시점을 명시해 병기하되 하나로 통합하지 말 것. "광고 서비스" 단독 매출액·
+  비중은 "건강관리+광고" 합산으로만 보도되어 분리 수치를 확보하지 못함 — "확인 필요"로
+  남김. 뱅크샐러드는 대출/보험 비교 서비스가 본업에 가까워 "광고" 자체보다는 마이데이터
+  기반 상품 추천·중개 성격이 강하다는 점을 report-writer는 서술 시 유의할 것(카카오페이
+  "플랫폼서비스"의 광고 성격과 정확히 같은 카테고리는 아닐 수 있음).
 
 ## 해외 시장 및 경쟁 동향
 
-(아직 근거 없음)
+### PayPal Ads Manager — 2025년 10월 출시 발표, 2026년 초 미국 우선 서비스, 리테일미디어 시장 진출
+
+- **수치/핵심 사실**: PayPal은 2025년 10월 7일 "PayPal Ads Manager"를 공식 발표했다.
+  이는 수천만 개의 중소상공인(SMB)이 자체 리테일미디어 네트워크를 운영해 자사 웹사이트·
+  앱에서 광고 수익을 창출할 수 있게 해주는 플랫폼으로, 초기 비용·최소 집행금액 없이
+  SDK 연동만으로 참여 가능하며 PayPal의 구매 데이터와 AI 기반 타겟팅으로 고관여 쇼핑객과
+  광고를 매칭한다. 서비스는 2026년 초 미국에서 먼저 출시되고 이후 영국·독일로 확장될
+  예정이며, 중소상공인은 대기자 명단(waitlist)에 등록할 수 있는 단계였다(2025-10-07
+  발표 시점 기준). PayPal은 이를 통해 2025년 세계 1,696억달러(약 169.6조원), 2030년
+  3,000억달러 규모로 성장할 것으로 전망되는 디지털 광고 시장에 진출한다고 밝혔다. 애널리스트는
+  2026년 PayPal Ads Manager로부터 1억5,000만~5억달러의 증분 매출을 추정했으나(2024년
+  PayPal 전체 매출 318억달러의 0.5~1.6% 수준), 이는 제3자 애널리스트 추정치이며 PayPal
+  공식 가이던스는 아니다. PayPal은 미국 리테일미디어 점유율 77%를 보유한 아마존 애즈,
+  월마트 커넥트, 타겟 라운델 등 기존 강자들과 경쟁해야 하는 상황으로 지적됨.
+- **원문 발췌**: "PayPal announced the launch of PayPal Ads Manager on October 7, 2025,
+  a platform enabling tens of millions of small businesses to monetize their traffic.
+  The platform enters a digital advertising segment projected to reach $169.6 billion
+  globally in 2025 and $300 billion by 2030."; "Analysts estimate $150-500M in incremental
+  revenue for 2026 from PayPal Ads Manager, representing 0.5-1.6% of the $31.8B in total
+  revenue in 2024. The platform will be available in early 2026 in the United States,
+  with planned expansion to the United Kingdom and Germany."; "Retail media networks have
+  evolved into a multi-billion-dollar sector... However, PayPal faces established giants
+  including Amazon Ads with 77% US retail media share, Walmart Connect, and Target's
+  Roundel."; "Zero Cost: PayPal Ads Manager requires no upfront cost or minimum
+  commitment... AI-Driven Targeting: Ads Manager uses PayPal's purchase data and
+  AI-driven tools to match ads with high-intent shoppers."
+- **출처명**: PayPal 공식 보도자료(newsroom.paypal-corp.com, investor.pypl.com,
+  2025-10-07), Yahoo Finance("Can PayPal's New Ads Manager Drive Top-Line Growth in
+  2026?"), Substack(Grillo Insights 애널리스트 분석), StreetInsider, PR Newswire 종합
+- **출처 URL**: https://newsroom.paypal-corp.com/2025-10-07-PayPal-Unleashes-the-Power-of-Retail-Media-for-Small-Businesses,-Enabling-Them-to-Join-Billion-Dollar-Advertising-Boom ,
+  https://investor.pypl.com/news-and-events/news-details/2025/PayPal-Unleashes-the-Power-of-Retail-Media-for-Small-Businesses-Enabling-Them-to-Join-Billion-Dollar-Advertising-Boom/default.aspx ,
+  https://finance.yahoo.com/news/paypals-ads-manager-drive-top-172800816.html (WebFetch
+  차단), https://grilloinsights.substack.com/p/paypal-ads-manager-analysis-of-the ,
+  https://www.investing.com/analysis/paypal-enters-retail-media-race-how-ads-manager-could-boost-profit-margins-200668142
+  (WebFetch 차단)
+- **기준 시점**: 2025-10-07 발표, 2026년 초 미국 출시 예정(waitlist 단계)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: PayPal 공식 보도자료 원문(newsroom.paypal-corp.com, investor.pypl.com)은
+  이번 세션 네트워크 차단으로 직접 열람하지 못하고 WebSearch 요약과 이를 인용한 2차
+  매체(Yahoo Finance, Substack 등)로 확인함. "2026년 매출 기여 1.5억~5억달러"는 명백히
+  애널리스트 추정치(원출처 불명확, PayPal 공식 수치 아님)이므로 report-writer는 반드시
+  "제3자 추정"임을 명시하고 확정 실적처럼 쓰지 말 것. 실제 2026년 상반기 미국 출시
+  이후 실적(있다면)은 다음 세션에서 "PayPal Ads Manager 2026년 실적" 등으로 재확인
+  권장 — 이번 세션에서는 출시 발표 시점 정보만 확보됨.
+
+### Revolut Ads — 2024년 발표된 2026년 목표 광고매출 약 3억 파운드(약 3.7억달러), 진행 상황은 후속 확인 필요
+
+- **수치/핵심 사실**: 영국 핀테크 슈퍼앱 Revolut은 2024년 4월경 보도를 통해 자체 광고
+  사업("Revolut Ads")을 준비 중이며, 내부적으로 2026년까지 광고 매출 약 3억 파운드(약
+  3억 7,000만달러) 달성을 목표로 하고 있다는 사실이 알려졌다. 이 프로젝트의 매출 잠재력은
+  내부 문건 기준 "2년 내 Revolut의 2022년 매출(9억2,300만파운드)의 최대 3분의 1 수준"으로
+  추정됐다고 보도됨. Revolut은 TikTok UK에서 이커머스 파트너십·수익화를 담당했던 Inam
+  Mahmood를 영입해 약 30명 규모의 광고 영업 조직을 구성했고, 2025년에는 영국에서 먼저
+  광고 솔루션을 출시한 뒤 아일랜드·프랑스·독일·스페인·이탈리아·포르투갈·스웨덴·루마니아·
+  폴란드 등 유럽 9개국으로 순차 확장할 계획이라고 보도됨(광고주가 리워드·쇼핑·여행숙박
+  등 상품에 대해 신규고객 유치·참여를 노리는 상품). Revolut의 Head of Growth인 Antoine
+  Le Nel은 "우리는 미디어 [비즈니스]가 될 수 있다... 오디언스와 오디언스에 대한 데이터를
+  보유한 곳이 되어, 이를 수익화하는 것"이라고 발언한 것으로 인용됨. 참고로 Revolut의
+  2025년 전체(광고 제외 전사) 매출은 전년대비 46% 증가한 52억달러(원문 표기 유로/파운드
+  환산 추정, 2026년 3월 발표)로 보도됐으나 이 안에서 광고 매출이 별도로 얼마인지는
+  확인하지 못함.
+- **원문 발췌**: "Internal company files indicated that expected revenues from the
+  advertising project in just two years could be as much as a third of Revolut's £923m
+  revenues in 2022. Revolut hired Inam Mahmood, former head of ecommerce partnerships at
+  TikTok UK, to lead a sales team of about 30 people with the ambition of hitting an
+  internal target for advertising revenue of about £300 million by 2026."; "Revolut is
+  considering diversifying its income stream by becoming a digital advertising platform
+  similar to Google, Facebook, or even Amazon. Antoine Le Nel, Revolut's Head of Growth,
+  stated: 'We could become a media [business]... a place where you have an audience and
+  data about the audience, and you monetize this.'"; "New advertising solutions were
+  released in the UK, to be followed by nine additional European markets including
+  Ireland, France, Germany, Spain, Italy, Portugal, Sweden, Romania and Poland, in the
+  coming months."
+- **출처명**: Financial Times 원 보도를 인용한 Finance Magnates("Revolut Aims to
+  Generate $370 Million by 2026 from Ads: Report"), Irish Times, Finextra, ffnews 종합
+- **출처 URL**: https://www.financemagnates.com/fintech/revolut-aims-to-generate-370-million-by-2026-from-ads-report/
+  (WebFetch 차단), https://www.finextra.com/newsarticle/44026/revolut-bids-to-boost-revenues-via-targeted-advertising
+  (WebFetch 차단), https://www.irishtimes.com/business/2024/04/23/revolut-plans-advertising-sales-push-as-it-waits-for-uk-banking-licence/
+  (WebFetch 차단), https://ffnews.com/newsarticle/revolut-to-roll-out-new-advertising-solutions-to-help-brands-connect-with-its-growing-customer-base/
+  (WebFetch 차단)
+- **기준 시점**: 보도 시점 2024년 4월(2026년까지의 목표 수치이므로 "미래 목표"이지 실적이
+  아님에 유의), 광고 솔루션 UK 출시는 2024~2025년경(정확한 출시일 특정 못함), Revolut
+  전사 2025년 매출(+46%, 52억달러)은 2026년 3월 발표
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **이 항목의 "3억파운드/2026년" 수치는 2024년 4월 시점의 "목표치"이며 실제
+  2026년 실적이 아님** — report-writer는 반드시 "목표/계획"이라는 시제를 명확히 하고
+  "달성했다"는 식으로 서술하지 말 것. 모든 원문 페이지(financemagnates.com, finextra.com,
+  irishtimes.com, ffnews.com)가 이번 세션 네트워크 차단으로 직접 열람 불가해 WebSearch
+  요약(따옴표 포함 인용문 형태로 제공됨)으로만 확인 — 원 출처는 Financial Times로
+  추정되나 FT 원문은 페이월 및 검색으로 직접 확인 못함. 2025~2026년 실제 광고 매출
+  실적(목표 대비 달성 여부)은 확인하지 못해 "확인 필요"로 남김 — 다음 세션에서 "Revolut
+  advertising revenue 2025 actual results" 등으로 재검색 권장.
+
+### 알리페이(支付宝) "灯火"(등화) 디지털 마케팅 플랫폼 — 2025년 광고주 +45%, 우량 광고트래픽 +70% (YoY)
+
+- **수치/핵심 사실**: 알리페이(앤트그룹 계열)는 2025년 3월 31일 "2025 数智营销峰会"
+  (2025 디지털인텔리전트 마케팅 서밋)를 열고, 직전 1년간(2024년 3월~2025년 3월 추정)
+  활성 광고주 수가 전년동기 대비 45% 증가했고, 우량 광고 트래픽(优质广告流量)은 70%
+  증가했다고 발표했다. 이 자리에서 알리페이의 상시 디지털 추천(마케팅) 플랫폼인
+  "支付宝灯火"(알리페이 등화)가 "오위일체 성장엔진"(五维增长引擎, 브랜드 관리·트래픽
+  최적화·효과 추적·업종별 맞춤·지식 역량강화 5개 축) 전략으로 업그레이드됐다고 밝혔으며,
+  알리페이 AI(자체 대규모언어모델 기반 이미지·영상 생성 AIGC 등)를 상인 대상 스마트
+  마케팅 전 과정에 深度 결합하겠다고 발표했다. 콘텐츠 플랫폼·그린 시나리오(친환경 캠페인
+  등)·생활결제 플랫폼이 트래픽 성장의 주요 동력으로 언급됨. 참고로 2024년 4월 보도
+  기준으로는 "알리페이 상업화 반년"(2023년 하반기~2024년 상반기 추정 시점) 기사에서
+  광고주·대행사(에이전시) 동반 증가, AI 광고 크리에이티브 기능 신규 추가가 보도되어,
+  알리페이의 광고 비즈니스 본격화가 2023~2024년경부터 진행돼온 것으로 추정됨(정확한
+  개시 연도는 확인 못함).
+- **원문 발췌**: "支付宝于2025年3月31日举办数智营销峰会，披露过去一年活跃广告主同比增长
+  45%，优质广告流量同比增长70%。'支付宝灯火'数字推广平台升级了'五维增长引擎'计划，帮
+  商家在品牌经营、流量投放等多方面进一步降本增效。支付宝AI将深度融入商家智能营销全链条，
+  具体包括智能人群推荐、AI广告创意生成、智能诊断工具等功能。"(한글 요약: "알리페이는
+  2025년 3월 31일 디지털인텔리전트 마케팅 서밋을 열어 지난 1년간 활성 광고주가 전년
+  동기 대비 45%, 우량 광고 트래픽은 70% 증가했다고 밝혔다. '알리페이 등화' 디지털 추천
+  플랫폼은 '오위일체 성장엔진' 계획으로 업그레이드돼 상인들의 브랜드 경영·트래픽 투입
+  등에서 비용 절감·효율 제고를 돕는다. 알리페이 AI는 상인의 스마트 마케팅 전 과정에
+  깊이 결합될 예정이며, 구체적으로 스마트 타겟팅, AI 광고 크리에이티브 생성, 스마트
+  진단 도구 등의 기능을 포함한다.")
+- **출처명**: 신랑재경(新浪财经/finance.sina.com.cn), 36氪(36kr.com) — 알리페이 2025
+  数智营销峰会(디지털인텔리전트 마케팅 서밋) 보도
+- **출처 URL**: https://finance.sina.com.cn/roll/2025-03-31/doc-inerpywk7006259.shtml
+  (WebFetch 차단), https://finance.sina.com.cn/tech/2025-03-31/doc-inerpywk7050897.shtml
+  (WebFetch 차단), https://36kr.com/newsflashes/3229974292937862 (WebFetch 차단),
+  https://finance.sina.com.cn/jjxw/2025-04-02/doc-inertwet9551749.shtml (WebFetch 차단)
+- **기준 시점**: 2025-03-31 발표(직전 1년, 즉 2024년 3월~2025년 3월 실적 추정)
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: 모든 원문(신랑재경, 36氪)이 이번 세션 네트워크 차단으로 직접 열람 불가해
+  WebSearch 요약(중국어 원문 포함)으로만 확인. 위 시장현황 섹션에서 이미 언급된 "글로벌
+  리테일미디어 시장 262조원" 수치와는 무관한 별개 기업 사례이며, 알리페이의 광고 매출
+  절대액(위안화·달러 환산 규모)은 이번 세션에서 확인하지 못함 — "확인 필요"로 남김.
+  다음 세션에서 "蚂蚁集团 广告收入" 또는 "Ant Group advertising revenue annual report"
+  등으로 앤트그룹 연차보고서상 광고 매출 규모 재검색을 권장.
+
+### 위챗페이/텐센트 — 미니프로그램 광고·검색광고 경매시스템, 정량 최신 실적은 확인 못함 (참고, 오래된 자료 포함)
+
+- **수치/핵심 사실**: 텐센트는 위챗(WeChat, 국내 위챗페이 포함 슈퍼앱) 생태계 내에서
+  ① 모멘츠(Moments) 피드 광고, 배너 광고, 공식계정 프로모션 등 전통적 광고 상품과 ②
+  미니프로그램(小程序) 개발자 대상 보상형 동영상·배너·전면 광고 등을 통한 광고 수익
+  배분 모델, ③ 위챗 검색 결과 내 브랜드·상인 대상 유료 광고 및 경매(옥션) 시스템을
+  운영 중이다. 다만 위챗 검색광고 경매시스템 도입은 2022년 11월 보도(당시 위챗 MAU
+  약 13억명)로 오래된 자료이며, 2025~2026년 시점의 최신 매출 규모나 광고 사업 성장률은
+  이번 세션에서 확인하지 못했다. 텐센트의 위챗페이(결제) 자체와 광고 사업의 관계
+  (예: 결제 데이터를 활용한 타겟팅 여부)에 대한 구체적 수치도 확인하지 못함.
+- **원문 발췌**: "Developers create and operate WeChat mini programs to attract user
+  visits, and the platform pays developers corresponding ad shares based on user
+  interactions with ads. Tencent Ads serves as the main advertising platform within the
+  WeChat ecosystem providing complete ad integration solutions for mini program
+  developers."; "Tencent will allow brands and merchants to pay for advertising in
+  search results within its ubiquitous WeChat super app, which has nearly 1.3 billion
+  monthly active users, and will introduce an auction system for better page rankings."
+- **출처명**: South China Morning Post("Tencent accelerates monetisation of its WeChat
+  super app with search engine advertising", 2022년 보도로 확인됨), Oreate AI Blog,
+  MarketingtoChina 등 종합(모두 1차 출처 아님, 업계 해설 성격)
+- **출처 URL**: https://www.scmp.com/tech/tech-trends/article/3198565/tencent-accelerates-monetisation-its-wechat-super-app-search-engine-advertising
+  (WebFetch 차단), https://www.oreateai.com/blog/guide-to-earning-revenue-from-wechat-mini-program-ads-a-comprehensive-analysis-for-beginners/ab5416a764b44f6266b117de2e3787a4
+  (WebFetch 차단)
+- **기준 시점**: 위챗 검색광고 경매시스템 보도는 2022년 11월(오래된 자료), 미니프로그램
+  광고 수익 배분 모델은 발표 시점 특정 못함
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
+- **비고**: **이 항목은 확인 시점 기준 가장 최신 공식 자료를 찾지 못해 2022년 자료를
+  참고로만 포함함** — report-writer는 "2022년 기준"이라는 시점을 반드시 명시하고,
+  "위챗페이" 결제 사업과 직접 연결된 광고 매출 수치가 아니라 "위챗(WeChat) 슈퍼앱
+  전반"의 광고 생태계 설명임을 명확히 구분할 것. 2025~2026년 텐센트 광고 사업 최신
+  실적(텐센트는 분기 실적발표에서 "온라인 광고" 매출을 별도 공시함)은 다음 세션에서
+  "Tencent 2025 Q4 online advertising revenue" 등으로 재검색해 갱신할 것을 권장.
+
+### Cash App(Block Inc.) — 자체 인앱 광고 사업(리테일미디어) 관련 근거 확인 불가
+
+- **상태**: 확인 필요 (출처 미확보)
+- **시도한 검색**: "Cash App Block advertising ads revenue 2025", "Cash App retail media
+  monetization" 계열 검색
+- **비고**: Cash App(Block Inc. 산하)이 2025년 진행한 것으로 확인된 활동은 "Cash In"이라는
+  전국 단위 브랜드 마케팅 캠페인(TV·라디오·시네마·소셜·스트리밍 광고 집행, 2025년 2월
+  개시)뿐이며, 이는 Cash App이 스스로 자사 브랜드를 알리기 위해 "광고를 구매하는" 마케팅
+  활동으로, 카카오페이·PayPal·Revolut·알리페이처럼 "자사 앱 지면에 제3자 광고를 유치해
+  수익화하는" 인앱 광고 사업(리테일미디어)과는 성격이 다름. Block/Cash App이 PayPal
+  Ads Manager나 Revolut Ads에 해당하는 자체 광고 플랫폼·상품을 운영한다는 근거는 이번
+  세션에서 찾지 못했다. report-writer는 이 항목을 "Cash App은 검색된 범위 내에서 인앱
+  광고 수익화 사업을 확인하지 못함(사례 목록에서 제외 또는 명시적으로 '확인 안 됨'
+  표기)"으로 처리할 것을 권고. 다음 세션에서 "Block Inc. advertising revenue segment
+  10-K", "Cash App App Ads" 등으로 재검색 가능.
+
+### 종합 시사점 메모 — 해외 핀테크 슈퍼앱 인앱 광고 사업 비교 (조사자 정리, 해석 포함)
+
+- **수치/핵심 사실 (해석/정리)**: 이번 조사에서 확인된 해외 핀테크 슈퍼앱의 인앱 광고
+  사업화 패턴은 대체로 (1) 결제/거래 데이터를 활용한 퍼스트파티 타겟팅을 핵심 차별화
+  요소로 내세우고(PayPal의 "purchase data" 기반 AI 타겟팅, Revolut의 "오디언스 데이터
+  수익화" 발언, 알리페이의 "AI 스마트 타겟팅"), (2) 상대적으로 최근(2024~2025년)에
+  본격적으로 사업을 확장·공식화하고 있다는 공통점이 있다(PayPal Ads Manager 2025-10
+  발표, Revolut Ads 2024년 목표 설정 후 2025년 순차 확장, 알리페이 灯火 2025-03 실적
+  공개). 카카오페이의 "플랫폼서비스"(광고+통신중개+카드추천, 분기 160~185억원, 위
+  시장현황 참고)는 이들 해외 사례와 비교할 때 절대 규모는 작으나, 방향성(마이데이터/
+  결제데이터 기반 타겟팅)은 유사한 궤적으로 해석 가능함.
+- **비고**: 이 항목은 원문 인용이 아니라 조사자의 종합 해석이므로, report-writer는
+  반드시 "조사자 해석"임을 밝히고, 각 개별 수치는 위 개별 항목의 출처를 각주로 사용할
+  것(이 메모 자체를 각주 근거로 쓰지 말 것).
+- **확인일**: 2026-08-11
+- **조사자**: market-researcher
