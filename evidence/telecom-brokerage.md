@@ -172,8 +172,140 @@
 
 ## 경쟁 동향
 
-(아직 근거 없음)
+### 토스모바일 — 'CU 제휴 요금제' 누적 가입자 2만 명 돌파(2026년 6월)
+
+- **수치/핵심 사실**: 비바리퍼블리카(토스) 자체 MVNO '토스모바일'의 'CU 제휴 요금제'(편의점 CU 결제 할인 결합 상품)가 통신 3사망(SKT·KT·LG U+) 합산 누적 가입자 2만 명을 돌파(LG유플러스망 기반 CU 요금제 출시 후 약 1년 만). CU 매장 결제금액의 20%(월 최대 5,000원) 할인 + 최대 5% 포인트 적립 혜택 결합. 최근 3개월(2026년 3~5월) 월평균 신규가입 약 3,700건, 최근 6개월 가입자 중 20대 26.7%·30대 41.1%로 2030 비중 약 68%.
+- **원문 발췭**: "토스모바일의 'CU 제휴 요금제'의 3사망 합산 누적 가입자가 2만 명을 넘어섰습니다. 이는 지난해 6월 주력 상품인 LG유플러스(LGU+)망 'CU 요금제'를 출시한 지 약 1년 만의 성과입니다." / "월 신규 가입은 최근 3개월(2026년 3~5월) 기준 월평균 약 3,700건으로, 출시 초기와 비교해 안정적인 우상향 흐름을 이어가고 있습니다." / "최근 6개월 동안 집계된 3사망 합산 가입 건을 분석한 결과, 20대 비중이 약 26.7%, 30대 비중이 약 41.1%로 두 연령대 합산이 전체의 약 68%에 달했습니다." (WebSearch 종합, 이데일리·아주경제·인더스트리뉴스·hbnpress 등 복수 매체 및 토스피드(toss.im/tossfeed) 교차확인)
+- **출처명**: 이데일리, 아주경제, 토스피드(비바리퍼블리카 공식 블로그)
+- **출처 URL**: https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02184486645479752 ; https://www.ajunews.com/view/20260608085712669 ; https://toss.im/tossfeed/article/50353
+- **기준 시점**: 보도 2026년 6월 8일 (CU요금제 출시는 2025년 6월경, 3사망 확대 후 약 1년 시점)
+- **확인일**: 2026-08-11
+- **비고**: toss.im(tossfeed)은 WebFetch 차단으로 직접 열람 못하고 WebSearch 요약으로 교차확인. 이 상품은 "카드/편의점 제휴형 알뜰폰"이라는 점에서 카카오페이의 "요금제 비교·중개" 모델과 사업 방식이 다름(토스는 자체 MVNO 직접 운영) — evidence 시장현황 섹션의 "토스모바일 — 비바리퍼블리카의 자체 알뜰폰(MVNO) 사업" 항목과 연결해 서술할 것.
+
+### 토스모바일 — 2023~2024년 재무 실적 및 가입자 순위
+
+- **수치/핵심 사실**: 토스모바일의 영업수익(매출)은 2023년 241억원에서 2024년 482억원(정확히는 481억6,092만원, 사람인 기업정보 기준)으로 급증했으나, 2024년 영업비용 493억원을 지출해 2024년 순손실 16억원을 기록(2023년은 순이익 약 2억원). 2024년 말 기준 가입자 수는 19만2,000명으로 국내 알뜰폰 업계 15위 수준(2022년 10월 인수 당시 추정 가입자 10만명 안팎에서 2년여 만에 증가). 일부 자료(THE VC 등 스타트업 DB)는 "출범 이후 5년 연속 적자, 누적 영업손실 600억원 초과"로 소개하나 토스모바일의 알뜰폰 사업 개시(2023년 1월)와 5년 연속 적자라는 서술 시점이 정확히 맞물리는지는 원문 미확인.
+- **원문 발췭**: "2024년 토스모바일의 영업수익(매출)은 2023년 241억원에서 482억원으로 급증했습니다. 그러나 2024년 한 해 동안 영업비용으로만 493억원을 쓰면서 적자를 냈습니다." / "2023년에는 2억원에 가까운 순이익을 냈으나 2024년에는 순손실 16억원을 내며 적자로 전환했습니다." / "지난해 말 기준 토스모바일 가입자 수는 19만2000명으로 집계되며, 업계 순위는 15위입니다." / "처음 토스가 머천드코리아를 인수할 당시 가입자 수가 10만명 안팎으로 추정됐다는 점을 고려하면 2년여 만에 꽤 눈에 띄는 성과를 거둔 셈입니다." (WebSearch 종합, 더벨(thebell.co.kr) "[은행권 알뜰폰 사업 점검]토스모바일 3년차, 성적표는" 기사 요약 인용 + 사람인 기업정보(saramin.co.kr) 2024년 재무정보 페이지 교차확인)
+- **출처명**: 더벨(thebell.co.kr), 사람인(saramin.co.kr) 기업 재무정보 페이지
+- **출처 URL**: https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504301704254120103681 ; https://www.saramin.co.kr/zf_user/company-info/view-inner-finance/csn/MlZsUmg4anZQSkJhRlFLTnk2MXp6QT09/company_nm/%ED%86%A0%EC%8A%A4%EB%AA%A8%EB%B0%94%EC%9D%BC(%EC%A3%BC)
+- **기준 시점**: 2023~2024년 결산 기준(2024년 말 가입자 수), 보도 2025년 4월 30일
+- **확인일**: 2026-08-11
+- **비고**: thebell.co.kr 원문은 WebFetch 차단으로 직접 열람하지 못하고 WebSearch 요약으로만 확인. "5년 연속 적자·누적 손실 600억원" 서술은 별도 스타트업 DB(THE VC 등) 요약에서만 나와 신뢰도가 상대적으로 낮고 정확한 산정 기준(모회사 결합 여부 등)이 불명확함 — report-writer는 이 부분은 "일부 자료에 따르면"으로 신중하게 인용하거나 생략 권장. 2025~2026년 최신 가입자·재무실적은 이번 세션에서 확인하지 못함(확인 필요).
+
+### 카카오페이 모바일 — 서비스 자체 가입자·거래 실적 (확인 필요) 및 시장 진입에 따른 독점 우려 논쟁
+
+- **수치/핵심 사실**: '카카오페이 모바일'(2026-02-23 개편) 자체의 가입자 수·중개 실적(개통 건수 등)은 여러 차례 검색에도 공식 발표 수치를 확보하지 못함. 다만 카카오페이의 알뜰폰 시장 진입과 관련해 업계에서는 "카카오페이가 시장을 장악하면 알뜰폰 사업자로부터 받는 중개수수료를 끌어올릴 가능성이 있고, 이는 알뜰폰 사업자의 비용 부담 증가 및 결과적 요금 인상으로 이어질 수 있다"는 플랫폼 독과점 우려가 제기됨. 통신 3사 자회사 알뜰폰의 시장 점유율이 이미 절반에 육박하는 상황에서 대형 플랫폼(카카오페이)까지 가세하면 지원 형평성 문제가 커질 수 있다는 지적도 있음.
+- **원문 발췭**: "카카오가 선보인 '알뜰한 통신 비교'는 카카오페이 플랫폼에서 다양한 알뜰폰 요금제를 모아 한눈에 비교하고 개통까지 신청할 수 있는 서비스입니다." / "알뜰폰 비교 플랫폼은 통상 가입자와 알뜰폰 사업자를 연결해주는 대가로 중개비를 받는데, 카카오페이가 시장을 장악하면 이 중개비를 끌어올릴 가능성을 배제할 수 없으며, 그러면 알뜰폰 사업자의 중개비 부담이 커져 '요금 인상'으로 이어질 여지가 생긴다" / "통신 3사 자회사 알뜰폰의 점유율이 절반에 육박하는 현 시장 구조에서 지원의 형평성 문제도 발생할 수 있다." (WebSearch 종합, 더스쿠프(thescoop.co.kr) "'알뜰폰 시장' 뛰어든 카카오페이, 독점이란 위험한 변수 [IT+]" 기사 요약 인용)
+- **출처명**: 더스쿠프(thescoop.co.kr)
+- **출처 URL**: https://www.thescoop.co.kr/news/articleView.html?idxno=303190
+- **기준 시점**: 기사 원 발행 2024년 9월(카카오페이 알뜰폰 비교 서비스 최초 출시 직후로 추정 — 다음뉴스 링크에 "20240907" 날짜 포함), 내용은 2026년 8월 확인 시점에도 시장 구도상 유효하다고 판단해 인용
+- **확인일**: 2026-08-11
+- **비고**: thescoop.co.kr 원문은 WebFetch 차단으로 직접 열람 못하고 WebSearch 요약으로만 확인. 기사 발행 시점(2024년 9월경, 서비스 최초 출시 시점)과 2026년 2월 '카카오페이 모바일' 개편(통신 3사까지 확대) 시점 사이에 간극이 있어, report-writer는 "서비스 확대 이전 시점부터 제기된 우려"라는 맥락으로 인용할 것을 권장. 카카오페이 모바일 자체의 가입자 수·거래 실적은 "확인 필요(출처 미확보)"로 남김 — 재조사 대상.
+
+### 케이뱅크·카카오뱅크 — 인터넷은행의 알뜰폰 요금제 비교 서비스 진출
+
+- **수치/핵심 사실**: (1) 케이뱅크는 2026년 8월 6일 알뜰폰 브랜드 '티플러스(tplus)' 요금제 28종을 케이뱅크 앱에서 비교·가입할 수 있는 '캐시백 받는 통신비 비교' 서비스를 출시. 통신비 자동이체 계좌를 케이뱅크로 등록하면 가입 다음 달부터 6개월간 매월 네이버페이 포인트 5,000원씩(최대 3만원) 캐시백 지급 — 카카오페이·토스가 아닌 '네이버페이' 포인트를 리워드로 쓰는 제휴 구조. (2) 카카오뱅크는 이보다 앞서 2024년 6월 18일 통신 요금제 비교 플랫폼 '모요'와 협업해 '통신비 아끼기' 서비스를 출시. 알뜰폰 사업자 35곳의 요금제 1,600여 개를 카카오뱅크 앱에서 비교·가입 가능하며, 현재 통신사·데이터 사용량·월요금 입력 시 맞춤 요금제 추천, 12개월 기준 예상 절감액 확인 기능 제공. 카카오뱅크 입출금통장 보유 성인 고객 대상, 통신비 납부계좌를 카카오뱅크로 지정해야 이용 가능.
+- **원문 발췭**: "케이뱅크 앱에서 연동된 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비교하고 가입할 수 있는 서비스입니다." / "가입 다음 달부터 6개월간 매월 네이버페이 포인트 5천원씩 지급해 최대 3만원의 캐시백을 받을 수 있습니다." / "통신비 아끼기는 통신사 35곳의 알뜰폰 요금제 1600여 개를 각각의 통신사 홈페이지를 방문하지 않고 카카오뱅크 애플리케이션(앱)에서 비교 가입할 수 있는 서비스입니다." / "고객이 현재 사용하고 있는 이동통신사와 데이터 사용량, 월 통신 요금을 입력하면 적합한 알뜰폰 요금제도 추천받을 수 있으며, 12개월 기준 통신요금을 얼마나 절감할 수 있는지를 한 눈에 볼 수 있다." (WebSearch 종합, 디지털데일리·FETV·파이낸셜투데이·디지털타임스·이코노미스트·서울경제(케이뱅크) / 비즈니스포스트·메트로서울·뉴스투데이·이투데이·디지털데일리·오늘경제·머니투데이(카카오뱅크) 등 복수 매체 교차확인)
+- **출처명**: 디지털데일리, 서울경제(케이뱅크) / 비즈니스포스트, 이투데이(카카오뱅크)
+- **출처 URL**: https://www.ddaily.co.kr/page/view/2026080609391077182 ; https://www.sedaily.com/article/20076666 ; https://www.businesspost.co.kr/BP?command=article_view&num=355915 ; https://www.etoday.co.kr/news/view/2370783
+- **기준 시점**: 케이뱅크 서비스 출시 2026년 8월 6일, 카카오뱅크 서비스 출시 2024년 6월 18일
+- **확인일**: 2026-08-11
+- **비고**: 국내 4대 핀테크·인터넷은행(카카오페이·토스·카카오뱅크·케이뱅크) 모두 알뜰폰 요금제 비교/중개 서비스를 운영 중임을 보여주는 경쟁구도 사실. 다만 사업방식은 제각각 — 카카오페이는 자체 브랜드로 통신3사+알뜰폰 통합비교, 카카오뱅크·케이뱅크는 외부 파트너(모요, 티플러스)의 화면을 자사 앱에 임베드하는 제휴형, 토스는 자체 MVNO 직접 운영. 네이버페이는 자체 알뜰폰 비교 서비스를 직접 운영한다는 근거는 확인되지 않았으며(확인 필요), 대신 케이뱅크 제휴 리워드로 네이버페이 포인트가 활용되는 점만 확인됨.
+
+### 독립 비교 플랫폼 '모요' — 투자유치 이력 및 SKT 유심 해킹 사태 반사이익(2025년 5월)
+
+- **수치/핵심 사실**: 모요는 2021년 시드 투자(카카오벤처스·베이스인베스트먼트, 10억원 규모)에 이어 2023년 2월 프리시리즈A로 30억원(베이스인베스트먼트 25억원 리드 + 카카오벤처스 참여) 투자를 유치(누적 약 40억원). 2025년 4월 말~5월 SK텔레콤 유심정보 유출(해킹) 사태 이후 모요의 일간 방문자 수가 사태 전주 대비 261.3%(3배 이상), 개통 신청 건수는 전월 대비 338.6%(5배 이상) 급증. 이에 모요는 무료 유심 배송 서비스(540여 개 알뜰폰 요금제 대상)를 출시해 대응.
+- **원문 발췭**: "베이스인베스트먼트가 25억원을 투자해 리드했고, 카카오벤처스도 참여했습니다." / "모요는 카카오벤처스와 베이스인베스트먼트로부터 10억 원의 시드 투자를 유치했습니다." / "SK텔레콤 해킹 사태 이후 모요의 일간 방문자 수가 해킹 사태 전주 대비 3배 이상(261.3%), 개통 신청 수는 전월 대비 5배 이상(338.6%) 증가했습니다." / "모요에서 무료 유심 배송이 적용된 540여개 알뜰폰 요금제를 신청한 소비자는 누구나 무상으로 유심을 제공받고 배송비도 무료입니다." (WebSearch 종합, 머니투데이·플래텀·CEOSCOREDAILY(투자유치) / 뉴스1·뉴시스·디지털타임스·포인트데일리·SEN(SKT 해킹 반사이익) 등 복수 매체 교차확인)
+- **출처명**: 머니투데이, 플래텀(투자유치) / 뉴스1, 디지털타임스(SKT 해킹 반사이익)
+- **출처 URL**: https://news.mt.co.kr/mtview.php?no=2023021410260975749 ; https://platum.kr/archives/202400 ; https://www.news1.kr/it-science/cc-newmedia/5775973 ; https://www.dt.co.kr/article/11663173
+- **기준 시점**: 투자유치 2021년(시드)·2023년 2월(프리시리즈A), SKT 해킹 반사이익 보도 2025년 5월 8일
+- **확인일**: 2026-08-11
+- **비고**: "2025년 매출 100억원·BEP(손익분기점) 달성", "국내 알뜰폰 번호이동의 약 4분의 1이 모요에서 발생" 등의 최신 실적 수치는 WebSearch AI 요약에 반복적으로 등장했으나, 정확한 출처 기사(구체 URL)를 특정하지 못함 — thevc.kr·innoforest.co.kr 등 스타트업 정보 DB(WebFetch 차단으로 원문 직접 열람 불가)에서 나온 것으로 추정되며, 같은 계열 요약에서 "설립 7개월 만에 BEP 달성"(namu 등)이라는 상충 서술도 발견돼 내적 일관성이 부족함. **이 수치들은 신뢰도가 낮아 채택하지 않으며, report-writer는 사용하지 말 것을 권고**. 정식 출처를 찾으면 별도 항목으로 재기록 예정.
+
+### 알뜰폰 자회사 간 경쟁 — KT엠모바일 업계 최초 190만 가입자·1위 굳히기 vs 헬로모바일 4위 하락
+
+- **수치/핵심 사실**: KT엠모바일이 2026년 1월 국내 알뜰폰 사업자 최초로 가입자 190만 명을 돌파(2024년 12월 170만 명에서 약 1년 만에 20만 명 증가), 알뜰폰 시장 점유율 약 18%로 업계 1위 유지("알뜰폰 가입자 5명 중 1명은 KT엠모바일"). 반면 같은 이통3사 자회사 계열인 LG헬로비전 '헬로모바일'은 시장 점유율 순위가 4위로 낮아졌고 점유율은 약 4%에 그침 — 같은 통신 자회사 그룹 내에서도 격차가 크게 벌어진 구도.
+- **원문 발췭**: "KT엠모바일, 알뜰폰 최초로 가입자 190만 명 달성" / "1 out of every 5 domestic budget mobile customers chose KT엠모바일, with subscriber growth of over 200,000 in about a year since reaching 1.7 million subscribers in December 2024." / "KT엠모바일은 시장 점유율 약 18% 이상으로 알뜰폰 시장 1위를 차지하고 있으며, LG헬로비전 헬로모바일은 현재 시장 점유율 순위가 4위 수준으로 낮아진 상태입니다." / "헬로모바일은 현재 시장 점유율 순위가 4위 수준으로 낮아졌고 시장 점유율이 4%에 불과합니다." (WebSearch 종합, 글로벌이코노믹·데일리안·뉴스1·콕스뉴스(KT엠모바일 190만 돌파) / kfenews(kfenews.co.kr, 헬로모바일과의 격차) 등 복수 매체 교차확인)
+- **출처명**: 글로벌이코노믹(g-enews.com), 데일리안, 뉴스1 / kfenews
+- **출처 URL**: https://www.g-enews.com/article/ICT/2026/01/2026011409382335653d7a510102_1 ; https://www.dailian.co.kr/news/view/1598130/ ; https://www.news1.kr/it-science/general-it/6038338 ; https://www.kfenews.co.kr/news/articleView.html?idxno=654219
+- **기준 시점**: KT엠모바일 190만 명 돌파 2026년 1월(보도 2026-01-14), 헬로모바일 4위·4% 관련 보도 시점 정확한 날짜 미확인(2026년 상반기 추정)
+- **확인일**: 2026-08-11
+- **비고**: g-enews.com·kfenews.co.kr 원문은 WebFetch 차단으로 직접 열람 못하고 WebSearch 요약으로만 확인. 이 수치("190만 명, 18%")는 위 시장현황 섹션의 "2026년 4월 알뜰폰 전체 가입자 1,047만8,867명·전체 시장점유율 18.18%"와는 다른 개념(KT엠모바일 개별 사업자의 알뜰폰 시장 내 점유율 vs 전체 이동통신 시장 내 알뜰폰 전체 점유율)이므로 report-writer는 혼동하지 말고 각각 명시할 것. 이통3사 자회사(SK텔링크·KT엠모바일·KT스카이라이프·LG헬로비전·미디어로그) 합산 점유율 규제 논쟁(위 규제 변화 섹션의 "60% 제한법")과 연결해, KT 계열 쏠림 심화가 규제 논의에 미치는 영향을 서술할 때 참고할 것.
 
 ## 해외 시장 및 경쟁 동향
 
-(아직 근거 없음)
+### 미국 — 케이블 사업자(Charter Spectrum Mobile·Comcast Xfinity Mobile)의 MVNO 시장 지배력 확대(2025년 실적)
+
+- **수치/핵심 사실**: 미국은 한국·일본과 달리 '요금제 비교 플랫폼'보다 케이블TV·인터넷 사업자(컴캐스트·차터)가 자사 인터넷 결합상품으로 MVNO(무선회선)를 파는 모델이 시장 성장을 주도. Charter의 Spectrum Mobile은 2025년 1분기 말 1,039만 회선(2024년 4분기 말 988만 회선에서 증가)을 기록했고, 2025년 중 처음으로 1,000만 회선을 돌파. Comcast의 Xfinity Mobile은 2025년 3분기 기준 약 894만 회선. 2025년(3분기 누적 기준) '케이블 MVNO'가 미국 이동통신 산업 전체 포스트페이드 휴대폰 순증가입의 45%를 차지해, 개별 통신사(MNO)들을 모두 앞지름. 2017년 2분기 서비스 개시 이후 2025년 3분기까지 누적 순증 회선은 2,030만 회선. 다만 2025년 4분기에는 주요 3개 케이블 MVNO(Spectrum Mobile·Xfinity Mobile·Optimum Mobile) 합산 순증이 83만 회선으로, 직전분기(3분기 94.5만 회선)·전년동기(2024년 4분기 87.5만 회선) 대비 둔화된 것으로 나타남.
+- **원문 발췭**: "Charter ended Q1 2025 with 10.39 million Spectrum Mobile lines" / "Spectrum Mobile Reaches 10 Million Mobile Lines Milestone"(Charter 공식 보도자료 제목) / "Comcast reached 8.94 million total mobile lines by Q3 2025." / "In 2025 (through Q3), Cable MVNO accounted for 45% of total industry postpaid phone net additions, more than any facilities-based carrier and approaching a majority share of growth." / "since their launch in Q2 2017, the combined Cable MVNO entity has recorded 20.3 million net postpaid phone additions (Q2 2017 - Q3 2025)" / "In Q4 2025, the three largest cable mobile virtual network operators (MVNOs) in the US—Spectrum Mobile (Charter), Xfinity Mobile (Comcast), and Optimum Mobile—collectively added 830,000 net mobile lines, reflecting a decline from both the previous quarter (945,000 in Q3 2025) and the same quarter last year (875,000 in Q4 2024)." (WebSearch 종합, Light Reading "The great convergence: the state of US wireless competition" 및 PRNewswire/Charter 공식 보도자료·CNBC 등 교차확인)
+- **출처명**: Light Reading, PRNewswire(Charter 공식 보도자료), CNBC
+- **출처 URL**: https://www.lightreading.com/wireless/the-great-convergence-the-state-of-u-s-wireless-competition ; https://www.prnewswire.com/news-releases/spectrum-mobile-reaches-10-million-mobile-lines-milestone-302367739.html ; https://www.cnbc.com/2025/04/23/comcast-charter-cable-mobile-service.html
+- **기준 시점**: 2025년 1분기~4분기(회선 수), Q2 2017~Q3 2025 누적(순증)
+- **확인일**: 2026-08-11
+- **비고**: lightreading.com·cnbc.com 원문은 WebFetch 차단으로 직접 열람하지 못하고 WebSearch 요약으로 확인했으나, prnewswire.com(Charter 1차 공식 보도자료)의 "10 Million Mobile Lines Milestone" 제목은 검색 결과에서 직접 확인됨. 한국(플랫폼 중개형)·일본(다수 소규모 MVNO 비교형)과 달리 미국은 "인터넷+무선 결합판매형 MVNO"가 시장을 주도하는 구도라는 점에서 시사점 있음 — report-writer는 이 차이를 국내 카카오페이 모바일 같은 '비교중개형' 모델과 대비해 서술 가능.
+
+### 미국 — T-Mobile의 Mint Mobile·Ultra Mobile 인수(2023~2024년)
+
+- **수치/핵심 사실**: T-Mobile은 2023년 3월 15일 프리페이드 MVNO 브랜드 Mint Mobile·Ultra Mobile·Plum의 모회사 Ka'ena Corporation을 최대 13억5,000만 달러(약 1.35 Billion USD)에 인수하기로 합의(배우 라이언 레이놀즈가 지분을 보유한 것으로 유명한 브랜드). 2024년 5월 인수 완료(FCC는 2024년 1분기 승인). 인수 당시 Ka'ena 3개 브랜드 합산 가입자는 약 200만~300만 명으로 추정. Mint Mobile은 미국에서 "가장 빠르게 성장하는 MVNO"로 평가됨. 이 인수는 Dish의 Boost Mobile 인수, Verizon의 TracFone 인수 등과 함께 미국 MVNO 업계의 대형 M&A 흐름 중 하나로 소개됨.
+- **원문 발췭**: "T-Mobile announced on March 15, 2023 that it had reached an agreement to acquire budget prepaid wireless operator Mint Mobile as part of a larger deal involving the acquisition of Ka'ena Corporation, Mint Mobile's parent company. Initially valued at USD1.35 billion" / "The FCC approved T-Mobile's acquisition of Mint Mobile in Q1 2024. T-Mobile closed on the deal in May 2024." / "Ka'ena's collective three brands, Mint Mobile, Ultra Mobile, and Plum are estimated to have between two to three million subscribers." / "Mint is the fastest growing MVNO in the U.S. T-Mobile's acquisition of Mint is just the latest in a series of major MVNO acquisitions, after Dish's acquisition of Boost, Verizon's acquisition of TracFone, and others." (WebSearch 종합, Fierce Network·RCR Wireless·Analysys Mason·DatacenterDynamics 등 교차확인)
+- **출처명**: Fierce Network, RCR Wireless, Analysys Mason
+- **출처 URL**: https://www.fierce-network.com/wireless/t-mobile-acquire-mint-ultra-brands-135-billion ; https://www.rcrwireless.com/20240501/featured/t-mobile-us-closes-on-its-mint-mobile-deal ; https://www.analysysmason.com/contentassets/80f01524530344d6963a7781662d1d3a/analysys_mason_tmobile_mint_prepaid_apr2023_rdmm0.pdf
+- **기준 시점**: 인수 합의 2023년 3월, 완료 2024년 5월
+- **확인일**: 2026-08-11
+- **비고**: 미국은 MNO(거대 통신사)가 직접 인기 MVNO 브랜드를 인수·흡수하는 방식으로 시장이 재편되는 경향(케이블사 자체운영 + MNO의 MVNO 브랜드 인수)이 뚜렷 — 한국의 "핀테크가 비교중개 플랫폼을 만들거나(카카오페이) 자체 MVNO를 세우는(토스)" 방식과는 결이 다른 경쟁구도임을 report-writer가 언급 가능.
+
+### 미국 — WhistleOut(MVNO/통신 요금제 비교 플랫폼)의 2025년 소비자 실태조사
+
+- **수치/핵심 사실**: 미국 통신 요금제 비교 플랫폼 WhistleOut이 성인 1,000명 대상(Pollfish 설문 활용) 설문 결과, 2025년 기준 미국 평균 가정이 통신비를 과다 지출해 연간 약 2,200달러를 낭비하고 있다고 분석. 대형 통신사(major carrier) 평균 이용료는 월 157달러 수준인 반면, MVNO(Mint Mobile·Visible·US Mobile 등)로 전환 시 동일 망에서 무제한 요금제를 월 25~30달러 수준에 이용 가능하다고 소개. WhistleOut은 41개 통신사(carrier)를 비교 검색할 수 있는 서비스로 소개됨.
+- **원문 발췭**: "WhistleOut found that the average American family wasted $2,200/year overpaying on their phone bill in 2025." / "the average American currently spends $157 a month with a major carrier, a figure that could be significantly reduced by switching to Mobile Virtual Network Operators (MVNOs)." / "By turning to an MVNO like Mint Mobile, Visible, or US Mobile, customers can snag an unlimited plan on the exact same networks for around $25 to $30/month." / "WhistleOut surveyed 1,000 U.S. adults using Pollfish." / "search 41 carriers to find carriers that provide great coverage in their area." (WebSearch 종합, WhistleOut 공식 사이트(whistleout.com) 및 charkoosta.com 보도 교차확인)
+- **출처명**: WhistleOut(whistleout.com), charkoosta.com
+- **출처 URL**: https://www.whistleout.com/CellPhones/Guides/best-mvnos ; https://www.charkoosta.com/news/americans-overspend-on-cell-phone-plans-whistleout-report-finds/article_d08361d8-4f90-11ef-a292-ef89d2e0e6f4.html
+- **기준 시점**: 2025년 조사·보도 기준
+- **확인일**: 2026-08-11
+- **비고**: WhistleOut은 한국의 '모요'와 유사한 독립계(핀테크 계열이 아닌) 순수 통신 비교 플랫폼 사례로 인용 가능. 정확한 회사 규모(매출·이용자 수)는 확인하지 못함(확인 필요).
+
+### 영국 — Uswitch·RVU(모회사) 비교 서비스 사업 구조
+
+- **수치/핵심 사실**: 영국의 대표적 통신 요금제 비교 플랫폼 Uswitch는 2000년부터 서비스한 Ofcom 공인 비교·전환 플랫폼으로, 통신(모바일·브로드밴드)뿐 아니라 에너지·보험·신용카드 등 폭넓은 소비자 비교 서비스를 제공. 2025~2026년에도 매년 'Uswitch Telecoms/Mobiles Awards'를 통해 최우수 통신사를 선정하는 등 업계 영향력 있는 플랫폼으로 활동 중. Uswitch의 모회사 RVU는 Confused.com·Money.co.uk·Tempcover·Mojo Mortgages 등 여러 비교 브랜드를 보유한 영국 최대 소비자 비교·전환 기업 중 하나로, 2025년 Zoopla·Hometrack 등을 보유한 ZPG Limited 산하로 편입됨. 다만 RVU/Uswitch의 통신 부문 매출·이용자 수를 구체적으로 뒷받침하는 1차 출처(재무제표 등)는 이번 세션에서 확보하지 못함(WebFetch 차단, 크롤러 기반 추정 매출치인 growjo.com "$143.4M"은 신뢰도가 낮아 채택하지 않음).
+- **원문 발췭**: "Uswitch is one of the UK's most established and Ofcom-accredited consumer comparison and switching platforms, helping consumers compare and switch broadband, mobile, energy, insurance, credit cards and wider utilities and financial products since 2000." / "RVU is now part of ZPG Limited and its subsidiaries, which includes RVU, Zoopla, Hometrack (including Calcasa) and Alto Software Group." / "RVU is the UK's leading home management, consumer insight and switching company, operating through market-leading consumer brands including Confused.com, Uswitch, Money.co.uk, Tempcover and Mojo Mortgages." (WebSearch 종합, LeadIQ·Grokipedia 및 rvu.co.uk 관련 검색결과 요약)
+- **출처명**: rvu.co.uk(공식 사이트, 검색결과 요약 확인), LeadIQ
+- **출처 URL**: https://www.rvu.co.uk/ ; https://leadiq.com/c/uswitch/5a1d7eb12400002400595b15
+- **기준 시점**: 확인 시점(2026-08-11) 기준 회사 구조 — 정확한 편입/개편 연도는 원문 미확인
+- **확인일**: 2026-08-11
+- **비고**: uswitch.com 원문은 WebFetch 차단으로 직접 열람하지 못함. RVU의 구체적 재무실적(매출·영업이익)은 growjo.com 등 자동 크롤링 추정치만 검색되어 신뢰도가 낮아 evidence에서 명시적으로 배제함 — report-writer는 이 수치를 절대 인용하지 말 것. 영국은 다수의 대형 종합비교사이트(Uswitch·MoneySuperMarket·Compare the Market 등)가 통신·보험·에너지·금융을 모두 아우르는 것이 특징 — 이는 보험(insurance) 도메인 evidence에서도 이미 확인된 PCW(Price Comparison Website) 생태계와 동일한 사업자들이 통신 분야에도 진출해 있음을 보여주는 사례.
+
+### 일본 — 총무성(MIC) 공식 통계: MVNO(격안SIM) 계약 수·사업자 수 추이(2025년도)
+
+- **수치/핵심 사실**: 일본 총무성이 분기별로 발표하는 '전기통신서비스 계약 수 및 셰어에 관한 통계'에 따르면, MVNO 서비스 계약 수는 2025년 6월 말(2025년도 1분기) 3,940만, 9월 말(2분기) 4,066만, 12월 말(3분기) 4,150만으로 지속 증가 추세(2025년 3월 말 기준으로는 전년동기 대비 12.5% 증가한 4,277만이라는 별도 수치도 확인되나, 이는 SIM카드형 외 다른 집계기준을 포함한 것으로 추정되어 4,150만/4,066만/3,940만 분기별 수치와 정합성 재확인 필요). SIM카드형 MVNO 사업자별 점유율은 IIJ(Internet Initiative Japan)가 부동의 1위(2025년 9월 말 24.2% → 12월 말 23.2%로 소폭 하락). 총무성 별도 자료(2025년 6월 16일 발표, "통신시장·단말시장 동향에 대해")에 따르면 일본의 MVNO 사업자 수는 2024년 12월 말 기준 1,991개사에 달함 — 한국의 알뜰폰 사업자 수(59개사, 2026년 기준, 위 시장현황 섹션 참고)와 비교하면 매우 많은 수의 사업자가 난립하는 구조.
+- **원문 발췭**: "MVNOサービスの契約数は3,940万となりました。"(2025年6月末) / "MVNOサービスの契約数は4,066万で、SIMカード型の契約数における事業者別シェアではインターネットイニシアティブ（IIJ）がトップで24.2％でした。"(2025年9月末) / "MVNOサービスの契約数は4,150万で、SIMカード型の契約数における事業者別シェアではインターネットイニシアティブ（IIJ）がトップで23.2％でした。"(2025年12月末) / "MVNOサービスの契約数は、前年同期比12.5％増の4277万となりました。"(2025年3月末) / "MVNO事業者数は2024年12月末時点で1,991社と示されています。"(総務省「通信市場・端末市場の動向について」令和7年6月16日資料 인용 WebSearch 요약) (WebSearch 종합, orefolder.jp(총무성 통계 정리 블로그) 시리즈 및 총무성 공식 PDF(soumu.go.jp) 검색결과 교차확인)
+- **출처명**: 일본 총무성(総務省) "전기통신서비스에 관한 계약 수 및 셰어에 관한 통계"·"통신시장·단말시장의 동향에 대해"(1차 출처), orefolder.jp(2차 정리 블로그, 데이터 재인용)
+- **출처 URL**: https://www.soumu.go.jp/main_content/001014955.pdf(총무성 원문 PDF, 2025-06-16 자료) ; https://orefolder.jp/2026/05/soumu-share-202512/ ; https://orefolder.jp/2025/12/soumu-share-202509/ ; https://orefolder.jp/2025/09/soumu-share-202506/
+- **기준 시점**: 계약수는 2025년 6월·9월·12월 말(각 분기), 사업자 수(1,991개사)는 2024년 12월 말 기준(발표 2025년 6월 16일)
+- **확인일**: 2026-08-11
+- **비고**: 총무성 원문 PDF(soumu.go.jp)는 검색결과 링크로는 확인했으나 WebFetch 차단으로 직접 열람은 못하고 orefolder.jp의 재정리·WebSearch 요약에 의존함(원문 1차 자료 존재는 확인됨). "2025년 3월 말 4,277만(전년比 +12.5%)"과 "2025년 6월 말 3,940만"이 순서상 감소하는 것처럼 보이는 부분은 집계 기준(SIM카드형만 vs 전체 MVNO 등)이 다를 가능성이 있어 report-writer는 두 수치를 같은 계열로 단순 비교하지 말고 각각 출처·기준을 명시해 병기할 것.
+
+### 일본 — MMD연구소(MMD研究所) 설문: MVNO 시장 내 이용 비중 및 서비스별 순위(2025년 10월 발표)
+
+- **수치/핵심 사실**: 일본 시장조사업체 MMD연구소(MMD Labo) 조사에 따르면 전체 이동통신 이용자 중 MVNO를 메인으로 이용하는 비중은 9.2%(직전 조사 대비 0.1%p 증가). 메인 이용 MVNO 서비스 순위는 IIJmio 15.6%로 1위, OCN모바일ONE 14.8%, mineo 14.0% 순. 종합 만족도·NPS는 니혼츠신(日本通信) SIM이 1위(793점, 100점 만점 환산 기준 최고점). 이전 조사(비교 시점)에서는 MVNO 점유율이 8.9%로 0.3%p 감소했던 시기도 있어, 일본 MVNO 시장 점유율이 등락을 보이며 대체로 9% 안팎에서 정체된 모습.
+- **원문 발췭**: "MVNOのシェアは9.2％、前回調査から0.1pt増加、メイン利用のサービスは「IIJmio」が15.6％でトップ MVNOの総合満足度とNPS®ともに日本通信SIMがトップ" (MMD研究所 조사 타이틀) / "2025年9月の調査によると、メイン利用のMVNOサービスではIIJmioが15.6％で首位を占め、次いでOCNモバイルONEが14.8％、mineoが14.0％と続きます。また、MVNO市場全体では9.2％のシェアを獲得しています。" / "総合満足度調査では、日本通信SIMが793ポイントで最高評価を獲得し、次点はmineoの769ポイント、イオンモバイルの760ポイントとなっています。" / "MVNOのシェアは8.9％、前回調査から0.3pt減少 メイン利用のサービスは「IIJmio」が15.2％でトップ"(비교 시점 별도 조사) (WebSearch 종합, mmdlabo.jp 조사 발표 페이지 제목 및 마이나비뉴스·ITmedia Mobile·orefolder.jp 재인용 교차확인)
+- **출처명**: MMD연구소(mmdlabo.jp), 마이나비뉴스(news.mynavi.jp), ITmedia Mobile
+- **출처 URL**: https://mmdlabo.jp/investigation/detail_2492.html ; https://mmdlabo.jp/investigation/detail_2528.html ; https://news.mynavi.jp/article/20251016-3555254/ ; https://www.itmedia.co.jp/mobile/spv/2510/16/news095.html
+- **기준 시점**: 조사·발표 2025년 10월(직전 비교조사 시점은 원문 미확인)
+- **확인일**: 2026-08-11
+- **비고**: mmdlabo.jp 원문은 WebFetch 차단으로 직접 열람 못하고 WebSearch 요약(제목·수치 재인용)으로만 확인. 일본은 다수의 중소 MVNO(IIJmio·OCN모바일ONE·mineo·日本通信SIM·이온모바일 등)가 병존하며 어느 한 사업자도 압도적 1위가 아닌 분산된 경쟁구도(1위 IIJmio도 메인이용 기준 15.6%에 불과)라는 점이 한국(KT엠모바일 1개사가 알뜰폰 시장의 18%·5명 중 1명)과 대조적 — report-writer가 국가별 비교 서술 시 참고.
+
+### 참고(신뢰도 낮음, 채택 비권고) — 글로벌 MVNO 시장 규모 추정치 편차
+
+- **수치/핵심 사실**: 여러 시장조사기관이 발표한 2025년 기준 '글로벌 MVNO 시장 규모' 추정치가 서로 크게 다름: Grand View Research 948억 달러, Straits Research 890.4억 달러, Fortune Business Insights 987.4억 달러, Precedence Research 951.8억 달러, Research and Markets 1,185.2억 달러(같은 기관의 다른 보고서에서는 600~800억 달러 범위로도 제시). 지역별 점유율도 자료마다 상이(Grand View Research는 유럽이 2025년 47.4% 점유율로 1위라고 하는 반면, 다른 자료는 북미가 39.32%로 1위라고 하는 등 불일치).
+- **원문 발췭**: "USD 94.8 billion in 2025 (Grand View Research) / USD 89.04 billion in 2025 (Straits Research) / USD 98.74 billion in 2025 (Fortune Business Insights) / USD 95.18 billion in 2025 (Precedence Research) / USD 118.52 billion in 2025 (Research and Markets) / Between USD 60 billion and USD 80 billion in 2025 (Research and Markets - another report)" / "Europe dominated with a revenue share of 47.4% in 2025, though North America accounted for a 39.32% share of the overall market in 2025." (WebSearch 종합, 여러 시장조사기관 홈페이지·보도자료 검색결과 요약)
+- **출처명**: Grand View Research, Straits Research, Fortune Business Insights, Precedence Research, Research and Markets (모두 유료 시장조사보고서 마케팅 페이지, WebSearch 요약으로만 확인)
+- **출처 URL**: https://www.grandviewresearch.com/industry-analysis/mobile-virtual-network-operator-mvno-market ; https://straitsresearch.com/report/mobile-virtual-network-operator-market ; https://www.fortunebusinessinsights.com/industry-reports/mobile-virtual-network-operators-market-100076 ; https://www.precedenceresearch.com/mobile-virtual-network-operator-market
+- **기준 시점**: 각 보고서 발간 시점(2025~2026년 추정, 정확한 발간일 미확인)
+- **확인일**: 2026-08-11
+- **비고**: (참고, 신뢰도 낮음) 보험(insurance) 도메인 evidence에서도 동일한 패턴(미국 보험 애그리게이터 시장 규모 추정치 편차)이 확인된 바 있음 — 이런 유료 시장조사 보고서들은 방법론·정의(스코프)가 제각각이라 숫자 자체의 신뢰도가 낮음. **report-writer는 이 수치를 리포트 본문에 채택하지 말 것을 권고**(굳이 언급한다면 "추정치 편차가 크다"는 정성적 코멘트로만 사용).
+
+### 종합 시사점 메모(경쟁·해외 축)
+
+- 국내는 카카오페이(비교중개, 통신3사+알뜰폰 통합)·토스(자체 MVNO 직접 운영, 카드+통신 결합 마케팅)·카카오뱅크·케이뱅크(외부 파트너 제휴형 임베드)까지 4대 핀테크·인터넷은행이 모두 통신 요금제 비교/중개 시장에 진출해 있어 경쟁이 매우 치열한 구도. 반면 독립계 스타트업 '모요'는 투자유치(누적 약 40억원 규모)와 SKT 해킹 사태 반사이익(방문자 261%↑, 개통신청 338%↑) 등에서 확인되듯 위기 상황에서 오히려 트래픽이 몰리는 유리한 위치를 점하기도 함.
+- 해외는 국가별로 경쟁구도가 확연히 다름 — 미국은 케이블사(컴캐스트·차터)의 결합판매형 MVNO가 시장 순증의 45%(2025년)를 차지하며 압도, MNO의 인기 MVNO 브랜드 인수(T-Mobile-Mint Mobile)도 활발함. 일본은 다수 중소 MVNO(1,991개사, 2024년 12월 기준)가 난립하며 1위 사업자(IIJ 계열)도 메인이용 기준 15%대에 불과한 분산 구도. 영국은 Uswitch·MoneySuperMarket·Compare the Market 등 대형 종합비교사이트가 통신·보험·에너지·금융을 아우르며 시장을 주도 — 이는 국내에서 카카오페이·네이버페이 등 핀테크가 금융+생활서비스(통신 포함)를 통합 제공하려는 전략과 유사한 방향성으로 해석 가능.
+- (report-writer 참고) 이번 세션은 국내 다수 언론사·해외 다수 매체(cnbc, lightreading, uswitch, thebell, edaily, kfenews, thescoop, toss.im, mmdlabo.jp, orefolder.jp 등) 도메인에서 WebFetch(원문 직접 열람)가 네트워크 egress 프록시에 의해 차단되어, 이번 축 조사도 이전 축(시장현황·규제 변화)과 마찬가지로 WebSearch(검색엔진 크롤링 요약) 기반으로 진행됨 — 가능한 한 복수 매체 교차검증을 거쳤으나 원문 페이지 직접 대조는 다음 세션(네트워크 제약이 없는 환경)에서 보강 권장.
