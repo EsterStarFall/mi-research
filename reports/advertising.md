@@ -1,8 +1,8 @@
 # 광고(Advertising) 트렌드 & 인사이트 리포트
 
 > 작성일: 2026-08-11 | 작성: report-writer | 근거: [evidence/advertising.md](../evidence/advertising.md)
-> 검수 상태: 초안 작성 완료 — **fact-checker 검수 전이므로 전사 공유 금지.**
-> [review/advertising-checklist.md](../review/) 참고 (검수 진행 시 생성 예정).
+> 검수 상태: 재조사 1차 반영 완료(2026-08-11) — fact-checker 재검수 대기. **전사 공유 금지.**
+> [review/advertising-checklist.md](../review/) 참고.
 
 > **조사 방법 관련 비고**: evidence 조사 세션 전반에서 네트워크 egress 프록시가 코바코
 > (kobaco.co.kr)·방송미디어통신위원회(kmcc.go.kr)·카카오페이 IR(kakaopay.com)·카카오 IR
@@ -24,7 +24,7 @@
 * 카카오페이 자체 광고 관련 매출 — "플랫폼서비스"(광고+통신중개+카드추천 합산, 광고 단독 매출 아님) (기준: 카카오페이 실적발표, 2026년 2분기 실적 2026-08-04 전후 발표 — 확인 시점 기준 최신 분기)
    * 절대 규모는 아직 작지만(전체 매출의 약 5.5% 수준) 마이데이터 타겟팅 광고 고도화에 힘입어 분기마다 40-90%대의 높은 성장률을 보이고 있음 — 다만 광고만 분리된 공시 수치는 없어 "광고 단독 성과"로 단정할 수 없음
       * 카카오페이는 매출을 결제·금융·플랫폼서비스 3개 부문으로만 구분 공시하며, 광고 단독 매출은 별도 공시되지 않음[^4-1]
-      * 2026년 1분기 플랫폼서비스 매출 160억원(전년동기 대비 +67.4%, "광고와 통신중개 매출 증가"), 2026년 2분기 185억원(+43.9%, "광고·카드추천·통신중개 등 포함")[^4-1]
+      * 2026년 1분기 플랫폼서비스 매출 160억원(전년동기 대비 +67%, "광고와 통신중개 매출 증가"; 일부 매체는 소수점까지 포함해 67.4%로 보도), 2026년 2분기 185억원(+43.9%, "광고·카드추천·통신중개 등 포함")[^4-1]
       * 2026년 2분기 카카오페이 전체 매출 3,351억원 중 플랫폼서비스 비중은 약 5.5%(185억원/3,351억원, 단순 계산치 — 매체가 직접 명시한 비중은 아님)로, 결제(1,414억원)·금융(1,752억원, 52%)에 비해 작은 비중[^4-1]
       * 2025년 연간 플랫폼서비스 매출은 전년 대비 63% 성장(연간 전체 매출 9,584억원, +25%, 첫 연결 영업흑자 504억원), 2025년 4분기에는 "마이데이터 타기팅 광고의 고도화"에 힘입어 87% 성장[^4-1]
 
@@ -118,7 +118,7 @@
    * **이 수치는 2024년 4월 시점의 "목표치"이며 실제 2026년 실적이 아님** — 목표 달성 여부(2025-2026년 실제 광고 매출 실적)는 이번 조사에서 확인하지 못함
       * 영국 핀테크 슈퍼앱 Revolut은 2024년 4월경 보도를 통해 자체 광고 사업("Revolut Ads")을 준비 중이며 2026년까지 광고 매출 약 3억 파운드(약 3억 7,000만달러) 달성을 내부 목표로 하고 있다고 알려짐 — 이는 Revolut의 2022년 매출(9억 2,300만파운드)의 최대 3분의 1 수준으로 추정된 규모[^19]
       * TikTok UK 출신 Inam Mahmood를 영입해 약 30명 규모의 광고 영업 조직을 구성, 2025년 영국에서 먼저 광고 솔루션을 출시한 뒤 아일랜드·프랑스·독일 등 유럽 9개국으로 순차 확장 계획(정확한 출시일은 확인 필요)[^19]
-      * 참고로 Revolut의 2025년 전체(광고 제외 전사) 매출은 전년 대비 46% 증가한 52억달러(2026년 3월 발표)로 보도됐으나, 이 안에서 광고 매출이 별도로 얼마인지는 확인하지 못함[^19]
+      * 참고로 Revolut의 2025년 전체(광고 제외, 그룹 전사) 매출은 전년 대비 46% 증가 — 1차 공시 통화 기준 £4.5bn(45억파운드), 유로 환산 €5.2bn(52억유로), 달러 환산 $6.0bn(60억달러)(2026년 3월 24일 전후 발표, 통화 단위별로 표기가 다르므로 혼동 주의)로, 이는 Revolut 그룹 전체 매출이며 Revolut Ads(광고 사업) 단독 매출이 아니고 이 안에서 광고 매출이 별도로 얼마인지는 확인하지 못함[^19]
 
 * 알리페이(支付宝) "灯火"(등화) 디지털 마케팅 플랫폼 — 2025년 광고주 +45%, 우량 광고트래픽 +70%(YoY)
    * 결제 데이터 기반 AI 스마트 타겟팅을 앞세워 상시 마케팅 플랫폼을 고도화하고 있으며, 국내 카카오페이의 마이데이터 기반 타겟팅 광고와 방향성이 유사한 사례(조사자 해석)
@@ -151,7 +151,7 @@
 [^2]: 방송미디어통신위원회·코바코, 「2025 방송통신광고비조사 보고서」(2025년 추정치 부분), 한국기자협회보, https://www.journalist.or.kr/news/article.html?no=60072 (확인일: 2026-08-11)
 [^3]: 한국방송광고진흥공사(코바코) 트렌드리포트, 「2025 광고시장 결산 및 2026 전망」(발표일 미상, 2026년 2월 발표로 추정), 브랜드브리프, https://www.brandbrief.co.kr/news/articleView.html?idxno=9545 ; 서울STV뉴스, https://www.stvnews.kr/news/articleView.html?idxno=14879 (확인일: 2026-08-11)
 [^4]: DMC리포트, 「2025 & 2026 디지털 광고 시장 동향 보고서」, https://www.dmcreport.co.kr/contentview?dr_code=DMCRPF2025366468 ; 브랜드브리프(글로벌 리테일미디어 시장, 원출처 불명 재인용 가능성), https://www.madtimes.co.kr/news/articleView.html?idxno=25697 ; kt나스미디어, 「2026 디지털 미디어 & 마케팅 전망 보고서」, https://www.nasmedia.co.kr/정기보고서/2025년-12월-2026-디지털-미디어-마케팅-전망/ (확인일: 2026-08-11)
-[^4-1]: 카카오페이 실적발표(IR) 보도 — 비즈워치, https://news.bizwatch.co.kr/article/finance/2026/08/04/0044 (2026년 2분기); 블로터, https://www.bloter.net/news/articleView.html?idxno=661389 (2026년 1분기); 라이센스뉴스, https://www.lcnews.co.kr/news/articleView.html?idxno=123293 (2025년 연간); 전자신문, https://www.etnews.com/20260206000277 (2025년 연간 흑자전환) (확인일: 2026-08-11)
+[^4-1]: 카카오페이 실적발표(IR) 보도 — 비즈워치, https://news.bizwatch.co.kr/article/finance/2026/08/04/0044 (2026년 2분기); 아주경제, https://www.ajunews.com/view/20260804144753439 (2026년 2분기, 재조사 1차 교차확인); news2day, https://www.news2day.co.kr/article/20260506500193 (2026년 1분기, "67.4%" 표기 유력 출처, 재조사 1차); 블로터, https://www.bloter.net/news/articleView.html?idxno=661389 (2026년 1분기, "67%" 반올림 표기); 라이센스뉴스, https://www.lcnews.co.kr/news/articleView.html?idxno=123293 (2025년 연간); 전자신문, https://www.etnews.com/20260206000277 (2025년 연간 흑자전환) — **매체 종합 보도 기준(공식 IR 원자료 PDF는 이번 세션 네트워크 차단으로 직접 대조하지 못함)**. 1분기 성장률은 매체에 따라 "67%"(반올림)와 "67.4%"(소수점)로 다르게 보도되어 본문에 두 표기를 함께 밝힘. 2분기 매출 breakdown(전체 3,351억원·결제 1,414억원·금융 1,752억원)과 "플랫폼서비스 비중 약 5.5%"는 재조사 1차에서 서로 다른 3회의 독립 검색으로 반복 재현되어 신뢰도가 높다고 판단됨(재조사 1차 확인일: 2026-08-11)
 [^5]: 유니콘팩토리, https://www.unicornfactory.co.kr/article/2023122009395159176 (토스 2023년 광고매출); 토스피드, https://toss.im/tossfeed/article/251H (토스 2025년 상반기 실적) (확인일: 2026-08-11)
 [^6]: M이코노미뉴스, https://www.m-economynews.com/news/article.html?no=66294 (네이버 핀테크 2025년 연간 실적); kt나스미디어 블로그, https://blog.nasmedia.co.kr/entry/2602mediaissue-naver254q (네이버 2025년 4분기 커머스·플랫폼 광고 매출) (확인일: 2026-08-11)
 [^7]: 방송통신위원회(2017년 가이드라인), 개인정보보호위원회(2024년 정책방안) — 법률신문, https://www.lawtimes.co.kr/news/articleView.html?idxno=195814 ; 디지털데일리, https://m.ddaily.co.kr/page/view/2024013108364903637 ; 보안뉴스, https://m.boannews.com/html/detail.html?tab_type=1&idx=126330 (확인일: 2026-08-11)
@@ -166,6 +166,35 @@
 [^16]: Google AdMob 공식 사례 연구, https://admob.google.com/intl/ko/home/resources/how-toss-preserves-its-app-ux-while-boosting-revenue-891-with-admob/ ; 토스 기술 블로그, https://toss.tech/article/ads-ml ; 토스애즈, https://tossads.toss.im/insights/product-update-2512 ; 더밸류뉴스, https://www.thevaluenews.co.kr/news/196174 (확인일: 2026-08-11)
 [^17]: 플래텀, https://platum.kr/archives/256106 (2024년 매출); 사람인 기업정보, https://www.saramin.co.kr/zf_user/company-info/view-inner-finance/csn/TWQxR3poQzNwSFZJMUVEVmNNQjlIdz09/company_nm/(%EC%A3%BC)%EB%B1%85%ED%81%AC%EC%83%90%EB%9F%AC%EB%93%9C (2025년 재무정보); 아웃스탠딩, https://outstanding.kr/press/1416/20250814 ; 시사오늘, https://www.sisaon.co.kr/news/articleView.html?idxno=160608 (2025년 2분기 실적) (확인일: 2026-08-11)
 [^18]: PayPal 공식 보도자료, https://newsroom.paypal-corp.com/2025-10-07-PayPal-Unleashes-the-Power-of-Retail-Media-for-Small-Businesses,-Enabling-Them-to-Join-Billion-Dollar-Advertising-Boom , https://investor.pypl.com/news-and-events/news-details/2025/PayPal-Unleashes-the-Power-of-Retail-Media-for-Small-Businesses-Enabling-Them-to-Join-Billion-Dollar-Advertising-Boom/default.aspx ; Yahoo Finance, https://finance.yahoo.com/news/paypals-ads-manager-drive-top-172800816.html ; Grillo Insights(Substack), https://grilloinsights.substack.com/p/paypal-ads-manager-analysis-of-the (확인일: 2026-08-11)
-[^19]: Finance Magnates(Financial Times 원 보도 인용), https://www.financemagnates.com/fintech/revolut-aims-to-generate-370-million-by-2026-from-ads-report/ ; Finextra, https://www.finextra.com/newsarticle/44026/revolut-bids-to-boost-revenues-via-targeted-advertising ; Irish Times, https://www.irishtimes.com/business/2024/04/23/revolut-plans-advertising-sales-push-as-it-waits-for-uk-banking-licence/ ; ffnews, https://ffnews.com/newsarticle/revolut-to-roll-out-new-advertising-solutions-to-help-brands-connect-with-its-growing-customer-base/ (확인일: 2026-08-11)
+[^19]: Finance Magnates(Financial Times 원 보도 인용), https://www.financemagnates.com/fintech/revolut-aims-to-generate-370-million-by-2026-from-ads-report/ ; Finextra, https://www.finextra.com/newsarticle/44026/revolut-bids-to-boost-revenues-via-targeted-advertising ; Irish Times, https://www.irishtimes.com/business/2024/04/23/revolut-plans-advertising-sales-push-as-it-waits-for-uk-banking-licence/ ; ffnews, https://ffnews.com/newsarticle/revolut-to-roll-out-new-advertising-solutions-to-help-brands-connect-with-its-growing-customer-base/ (확인일: 2026-08-11) — [재조사 1차, 2025년 그룹 매출 통화 단위 정정] Bloomberg "Revolut Revenue Soars 46% to £4.5 Billion on Surge in Customers", https://www.bloomberg.com/news/articles/2026-03-24/revolut-revenue-soars-46-to-4-5-billion-on-surge-in-customers (2026-03-24, £4.5bn 1차 공시); Revolut 공식 보도자료(달러 환산 $6.0bn), https://www.revolut.com/en-US/news/revolut_reports_record_profit_of_2_3bn_for_2025_as_revenue_surges_to_6bn/ ; Yahoo Finance(유로 환산 €5.2bn), https://uk.finance.yahoo.com/news/revolut-reported-record-financial-results-095531010.html ; Revolut Group Holdings Annual Report 2025(원문 PDF 직접 대조 못함), https://assets.revolut.com/pdf/annualreport2025.pdf (모두 WebFetch 직접 열람 차단으로 WebSearch 결과로만 확인, 재조사 1차 확인일: 2026-08-11)
 [^20]: 신랑재경(新浪财经), https://finance.sina.com.cn/roll/2025-03-31/doc-inerpywk7006259.shtml , https://finance.sina.com.cn/tech/2025-03-31/doc-inerpywk7050897.shtml ; 36氪, https://36kr.com/newsflashes/3229974292937862 (확인일: 2026-08-11)
 [^21]: South China Morning Post, https://www.scmp.com/tech/tech-trends/article/3198565/tencent-accelerates-monetisation-its-wechat-super-app-search-engine-advertising (2022-11 보도, 오래된 자료); Oreate AI Blog, https://www.oreateai.com/blog/guide-to-earning-revenue-from-wechat-mini-program-ads-a-comprehensive-analysis-for-beginners/ab5416a764b44f6266b117de2e3787a4 (확인일: 2026-08-11)
+
+---
+
+## 개정 로그
+
+### 2026-08-11 — 재조사 1차 반영
+
+`evidence/advertising.md` "## 재조사 1차 반영 (2026-08-11)" 섹션(fact-checker
+`review/advertising-checklist.md`의 B형 재조사 요청 3건에 대한 market-researcher
+타겟 재조사 결과)을 아래와 같이 본문·각주에 반영함:
+
+1. **카카오페이 2026년 1분기 플랫폼서비스 매출 성장률**: "67.4%" 단독 표기를 "67%"(본문,
+   evidence 원문 발췌가 가장 확실히 뒷받침)로 바꾸고, "일부 매체는 소수점까지 포함해
+   67.4%로 보도"라는 caveat를 본문·각주에 추가. 두 표기 중 하나를 단독 확정치로 쓰지 않음[^4-1].
+2. **카카오페이 2026년 2분기 매출 breakdown(전체 3,351억원·결제 1,414억원·금융 1,752억원)과
+   "플랫폼서비스 비중 약 5.5%"**: 절대값 자체는 그대로 유지(재조사에서 3회 독립 검색으로
+   반복 재현되어 신뢰도 상승 확인)하되, 각주에 "매체 종합 보도 기준(원문 IR PDF 직접 대조
+   못함)" caveat를 추가[^4-1].
+3. **Revolut 2025년 연간(그룹) 매출**: "52억달러"라는 통화 단위 오류를 정정 — 1차 공시
+   통화 기준 £4.5bn(45억파운드), 유로 환산 €5.2bn(52억유로), 달러 환산 $6.0bn(60억달러)로
+   병기. "52억"이라는 숫자는 유효하나 통화가 달러가 아닌 유로였음을 명시. 이 매출이 Revolut
+   그룹 전체 매출이지 Revolut Ads(광고 사업) 단독 매출이 아니라는 기존 caveat는 유지[^19].
+
+`research-tracker.md`의 축 상태는 report-writer가 임의로 변경하지 않음 — fact-checker의
+재검수 결과에 따라 갱신 예정.
+
+**fact-checker에게 요청**: 위 3개 지점(및 관련 caveat 추가분)에 대한 타겟 재검수를 요청함.
+전체 리포트 재검수가 아니라 이번에 갱신된 [^4-1](1분기 67%/67.4% 표기, 2분기 breakdown·비중
+caveat)과 [^19](Revolut 2025년 매출 통화 단위 정정) 두 각주 및 관련 본문 문장만 확인하면 됨.
