@@ -639,8 +639,528 @@
 
 ## 경쟁 동향
 
-(아직 근거 없음)
+### 코리아 핀테크 위크 2025 — 카카오페이·토스·네이버페이 AI 서비스 동시 공개 (2025년 11월 26~28일)
+
+- **수치/핵심 사실**: 금융위원회·한국핀테크지원센터가 주최한 국내 최대 핀테크 박람회
+  "코리아 핀테크 위크 2025"(주제: "핀테크 X AI, 금융에 취향을 더하다")가 2025년 11월
+  26~28일 서울 양재 aT센터에서 열림. 네이버페이·카카오페이·토스(비바리퍼블리카)가
+  나란히 AI 기반 신규 서비스를 공개하며 경쟁: ① 네이버페이는 결제·리뷰·쿠폰·적립이
+  가능한 오프라인 통합 단말기 'Npay 커넥트'를 공개, ② 토스는 얼굴인식 기반 간편결제
+  '페이스페이'와 출시를 앞둔 AI·데이터 기반 신규 서비스 6종을 공개, ③ 카카오페이는
+  AI 기반 개인 맞춤형 금융 서비스 'Pay i'와 해외여행 전 과정을 앱 하나로 처리하는
+  '해외여행 원스톱 서비스'를 공개.
+- **원문 발췌**: "코리아 핀테크 위크는 금융위원회, 한국핀테크지원센터가 주최, 주관하는
+  국내 최대 핀테크 산업 박람회로, 올해는 '핀테크 X AI, 금융에 취향을 더하다'를 주제로
+  진행됩니다. 행사는 26일부터 28일까지 사흘간 서울 서초구 양재 aT센터에서 열렸습니다." /
+  "네이버페이는 '코리아 핀테크 위크 2025'에서 결제와 리뷰, 쿠폰, 적립 등이 가능한
+  오프라인 통합 단말기 'Npay 커넥트'를 선보였습니다." / "토스는 얼굴 인식 기반
+  간편결제 서비스인 '페이스페이'와 AI·데이터 기술을 기반으로 한 신규 서비스를
+  선보였습니다. ... '토스 카페' 콘셉트로 구성된 부스에서는 토스 페이스페이, 토스플레이스
+  결제 단말기 및 포스(POS) 등 오프라인 간편결제 기술과, 출시를 앞둔 AI·데이터 기반
+  신규 서비스 6종이 소개되었습니다." / "카카오페이는 AI 기반의 개인 맞춤형 금융
+  서비스인 'Pay i'와 해외여행의 모든 순간을 카카오페이 앱 하나로 해결할 수 있는
+  '해외여행 원스톱 서비스'를 선보였습니다." (WebSearch 요약, 원 출처: 테크M "네이버페이·
+  카카오뱅크·토스, '코리아 핀테크 위크 2025' 참가...금융 기술 혁신 선보여", 투자뉴스
+  "[현장리포트] 네이버페이·카카오페이·토스·뱅크샐러드, '코리아 핀테크 위크 2025'서
+  차세대 AI 금융 서비스 선보여", 세계일보 "네이버·카카오·토스, 코리아핀테크위크서 AI
+  혁신 서비스 경쟁")
+- **출처명**: 테크M(techm.kr) "네이버페이·카카오뱅크·토스, '코리아 핀테크 위크 2025'
+  참가...금융 기술 혁신 선보여"; 투자뉴스(investnews.co.kr) "[현장리포트]
+  네이버페이·카카오페이·토스·뱅크샐러드, '코리아 핀테크 위크 2025'서 차세대 AI 금융
+  서비스 선보여"; 세계일보(segyebiz.com) "네이버·카카오·토스, 코리아핀테크위크서 AI
+  혁신 서비스 경쟁"(2025-11-26)
+- **출처 URL**: https://www.techm.kr/news/articleView.html?idxno=147161 , https://www.investnews.co.kr/news/articleView.html?idxno=3002117 , https://www.segyebiz.com/newsView/20251126517477
+- **기준 시점**: 행사 개최 2025-11-26~28
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 위 시장현황 섹션의 카카오페이 'AI코치'(2026-08-04 출시)는 이 행사 당시
+  공개된 'Pay i'와 별개 서비스로 추정되나, 정확한 관계(Pay i의 후속/확장판인지)는
+  원문 추가 확인이 필요함 — report-writer는 두 서비스를 시점 구분해 서술할 것.
+
+### 토스 '페이스페이'(얼굴인식 간편결제) 확산 — 가입자 483만→700만명 (2026년 5월→8월)
+
+- **수치/핵심 사실**: 토스의 얼굴인식 결제 서비스 '페이스페이(FacePay)'는 2025년 9월
+  정식 출시 후 일주일 만에 40만명 이상 가입자를 기록했고, 이후 2026년 5월 12일
+  기준 483만명, 2026년 8월 3일 기준 700만명으로 급증. 결제 가능 오프라인 가맹점은
+  2026년 5월 기준 33만곳, 2026년 8월 기준 약 40만곳으로 확대. 1회 이상 결제 경험자의
+  약 60%가 재사용하는 것으로 나타남. GS25·CU·세븐일레븐 등 편의점 3사, 멕시카나
+  등 외식 프랜차이즈, 전국 5,000개 마트 등으로 가맹점을 확대 중이며, 안면식별정보와
+  고유식별정보는 암호화해 별도 서버에서 관리하고 '라이브니스(Liveness)' 기술로
+  사진·동영상을 이용한 위변조를 차단. 토스모바일은 2026년 8월 3일 LG유플러스망 기반
+  '페이스페이 제휴 요금제'(5종, 월 8,000원~1만6,000원)를 출시해 페이스페이 결제
+  쿠폰(최대 24개월간 총 5만8,000원 상당)을 결합.
+- **원문 발췌**: "2025년 9월 초, 토스의 얼굴 인식 결제 서비스인 '페이스페이(FacePay)'는
+  정식 출시 일주일 만에 40만 명 이상의 가입자를 기록했습니다." / "토스는 페이스페이
+  가입자 수가 지난달 말 기준 483만명을 기록했으며, 페이스페이 사용이 가능한 오프라인
+  가맹점은 33만곳입니다." (2026-05-12 보도) / "토스에 따르면 페이스페이 누적 등록자는
+  700만명을 돌파했다. 단말기 설치 가맹점은 토스가 약 40만 곳으로 운영 중입니다. ...
+  한 차례라도 페이스페이로 결제한 이용자 가운데 약 60%가 다시 사용하는 것으로
+  나타났다." (2026-08-03 보도) / "안면식별정보와 고유식별정보는 암호화해 별도
+  서버에서 관리하고 있으며 사진이나 동영상 등을 활용한 위·변조를 차단하는
+  '라이브니스(Liveness)' 기술도 적용했습니다." (WebSearch 요약, 원 출처: 아주경제
+  "토스 '페이스페이' 가입자 483만명 돌파…오프라인 결제 확산"(2026-05-12), 테크M
+  "페이스페이 대중화 향해가는 토스, 제휴 알뜰 요금제 내놓고 가맹점 확대하고", 아주경제
+  "토스, 전국 5000개 마트에 '페이스페이' 도입"(2026-07-27))
+- **출처명**: 아주경제(ajunews.com) "토스 '페이스페이' 가입자 483만명 돌파…오프라인
+  결제 확산"(2026-05-12); 아주경제 "토스, 전국 5000개 마트에 '페이스페이'
+  도입"(2026-07-27); 테크M(techm.kr) "페이스페이 대중화 향해가는 토스, 제휴 알뜰
+  요금제 내놓고 가맹점 확대하고"; 뉴스핌(newspim.com) "토스모바일, 페이스페이 결합
+  알뜰폰 출시"(2026-08-03)
+- **출처 URL**: https://www.ajunews.com/view/20260512091726084 , https://www.ajunews.com/view/20260727082926483 , https://www.techm.kr/news/articleView.html?idxno=153936 , https://www.newspim.com/news/view/20260803000183
+- **기준 시점**: 483만명·33만곳(2026-05-12 보도), 700만명·40만곳(2026-08-03 전후
+  보도) — 3개월 새 약 45% 증가
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 카카오페이·네이버페이도 오프라인 결제·인증 기술을 확장 중이나(아래 항목
+  참고), 생체인증(안면인식) 분야에서는 토스가 국내 핀테크 3사 중 가장 앞서 있다는
+  것이 다수 매체의 공통된 평가. report-writer는 "483만→700만"이 정확히 동일 지표의
+  시계열인지(집계 기준 차이 가능성)를 감안해 "3개월간 급증" 정도로 서술 권장.
+
+### 네이버페이 'Npay 커넥트'(오프라인 통합 단말기) — 가맹점 10만개 돌파, 7개월 만 (2026년 6월 30일 기준)
+
+- **수치/핵심 사실**: 네이버페이의 오프라인 통합 결제 단말기 'Npay 커넥트'(2025년 11월
+  출시)가 2026년 6월 30일 기준 전국 가맹점 10만개를 돌파(출시 7개월 만). 최근
+  3개월간 신규 설치 가맹점만 5만 2,000개로 최근 확산 속도가 가속화됨. 업종별로는
+  음식점이 전체 도입 가맹점의 43.5%로 최다. Npay 커넥트는 현금·카드·QR·간편결제·NFC
+  뿐 아니라 네이버페이의 안면인식 결제 '페이스사인'까지 지원하며, 결제와 동시에
+  네이버 플레이스의 리뷰·주문·쿠폰 시스템이 연동되는 것이 특징. 이 단말기·AI 전략으로
+  네이버페이는 "대한민국 AX(AI 전환) 대상" 최우수상을 수상(2026년 7월 시상, 정확한
+  주관기관은 원문 추가 확인 필요). 네이버페이는 2026년 2분기부터 생성형 AI 기반 광고
+  사업도 본격화했으며, 2026년 1분기 광고 매출 성장분 중 AI 기여도가 50% 이상을 기록.
+- **원문 발췌**: "네이버페이의 오프라인 통합 단말기 'Npay 커넥트'의 전국 가맹점 수가
+  10만개를 넘어섰으며, 이는 지난해 11월 첫선을 보인 뒤 7개월 만에 이룬 성과입니다.
+  특히 최근 3개월 동안에만 5만 2000개의 신규 가맹점을 확보하며 단말기 보급에 속도가
+  붙고 있습니다." / "Npay 커넥트는 현금, 카드, QR, 간편 결제, NFC, 페이스사인 등
+  사실상 모든 결제 수단을 지원하며, 결제와 동시에 네이버 플레이스의 리뷰, 주문,
+  쿠폰 시스템이 하나로 이어지는 점이 가장 큰 경쟁력입니다. 커넥트 도입 가맹점을
+  업종별로 살펴보면 음식점이 전체의 43.5%로 가장 높은 비중을 차지했습니다." /
+  "전국 10만개 가맹점서 AI 커넥트…네이버페이, 대한민국 AX 대상 최우수상" (기사 제목) /
+  "2026년 2분기부터 생성형 AI 서비스 기반 광고 사업이 본격화될 계획입니다. 1분기
+  광고 매출 성장분 중 AI 기여도가 50% 이상을 기록했으며..." (WebSearch 요약, 원 출처:
+  아시아투데이 "빠른 성장세…네이버페이 'Npay 커넥트' 가맹점수 10만개 돌파"(2026-06-30),
+  한국경제 "전국 10만개 가맹점서 AI 커넥트…네이버페이, 대한민국 AX 대상
+  최우수상"(2026-07-09), 바이라인네트워크 "네이버, AI로 돈 버는 2026년 만든다")
+- **출처명**: 아시아투데이(asiatoday.co.kr) "빠른 성장세…네이버페이 'Npay 커넥트'
+  가맹점수 10만개 돌파"(2026-06-30); 한국경제(hankyung.com) "전국 10만개 가맹점서
+  AI 커넥트…네이버페이, 대한민국 AX 대상 최우수상"(2026-07-09); 바이라인네트워크
+  (byline.network) "네이버, AI로 돈 버는 2026년 만든다"(2026-04-30)
+- **출처 URL**: https://www.asiatoday.co.kr/kn/view.php?key=20260630010010405 , https://www.hankyung.com/article/2026070944146 , https://byline.network/2026/04/30_1928745/
+- **기준 시점**: Npay 커넥트 출시 2025-11, 가맹점 10만개 돌파 2026-06-30 기준,
+  AX 대상 수상 보도 2026-07-09, 광고 AI 기여도 2026년 1분기 기준
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 카카오페이·토스와 마찬가지로 네이버페이도 오프라인 결제 단말기에 AI 인증
+  기술(페이스사인)을 결합하는 전략을 취하고 있어, 3사 모두 "온라인 강자가 AI·생체
+  인증을 앞세워 오프라인 결제망을 확장"하는 유사한 경쟁 구도를 보임 — report-writer는
+  3사 오프라인 확장 전략을 나란히 비교 서술할 수 있음.
+
+### 카드사의 AI 대응 — KB국민카드 하이브리드 챗봇 (2026년 6월 10일 발표)
+
+- **수치/핵심 사실**: KB국민카드는 기존 규칙기반 챗봇에 생성형 AI를 결합한 "하이브리드
+  챗봇"을 구축해 2026년 6월 10일 발표. 기존 챗봇이 응답하지 못했던 질문 중 68.9%에
+  대해 정상 응답이 가능해짐. 1단계는 오타·표현 오류 자동 보정, 2단계는 복합 질문
+  의도 분석 처리로 구성되며, 향후 음성 기반 콜봇에도 생성형 AI를 적용할 계획. 카드사
+  전반적으로는 신용공여 중심에서 벗어나 결제 데이터를 AI로 학습해 부가가치를
+  창출하는 "데이터 플랫폼 기업"으로의 전환이 핵심 어젠다로 제시되고 있으며, 삼성·
+  KB국민·신한카드는 스타트업 발굴·육성 프로그램을 통해 AI 서비스 고도화도 함께
+  추진 중.
+- **원문 발췌**: "KB국민카드가 기존 챗봇에 생성형 AI를 결합한 하이브리드 챗봇을
+  구축하고 디지털 상담 서비스를 고도화했습니다. 기존 챗봇이 응답하기 어려웠던 질문
+  가운데 68.9%에 대해 정상 응답이 가능해졌습니다. 이번 챗봇 고도화는 기존 챗봇의
+  업무 처리 기능에 생성형 AI의 자연어 이해·생성 기능을 더한 방식입니다. ... 1단계에서는
+  고객 질문에 오타나 표현 오류가 포함된 경우 생성형 AI가 이를 자동 보정하도록
+  했습니다. 2단계에서는 고객이 여러 질문을 한 번에 입력하는 경우에도 생성형 AI가
+  질문 의도를 분석해 처리할 수 있도록 개선했습니다." / "올해 국내 카드사들은 신용공여
+  기관에서 탈피해 고도의 데이터 플랫폼 기업으로 재편될 예정이며, 결제 데이터를 AI가
+  학습해 부가가치를 창출하는 것이 핵심으로 꼽히고 있습니다." (WebSearch 요약, 원
+  출처: 파이낸셜뉴스 "KB국민카드, 생성형 AI 결합한 하이브리드 챗봇 구축"(2026-06-10),
+  뉴스핌 "KB국민카드, 생성형 AI 결합한 '하이브리드 챗봇' 고도화", 인베스트뉴스
+  "카드사, 생성형 AI 적용 '초개인화 금융 서비스' 개발 속도")
+- **출처명**: 파이낸셜뉴스(fnnews.com) "KB국민카드, 생성형 AI 결합한 하이브리드 챗봇
+  구축"(2026-06-10); 뉴스핌(newspim.com) "KB국민카드, 생성형 AI 결합한 '하이브리드
+  챗봇' 고도화"; 인베스트뉴스(investnews.co.kr) "카드사, 생성형 AI 적용 '초개인화
+  금융 서비스' 개발 속도"
+- **출처 URL**: https://www.fnnews.com/news/202606101549583534 , https://www.newspim.com/news/view/20260610001079 , https://www.investnews.co.kr/news/articleView.html?idxno=3001932
+- **기준 시점**: 발표 2026-06-10
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 카드사(전통 금융권)의 생성형 AI 도입은 챗봇 등 특정 접점에 국한된 단계로
+  보이며, 카카오페이·토스·네이버페이가 결제·인증 경험 전반(오프라인 단말기, 생체인증
+  등)에 AI를 결합하는 것과는 적용 범위·속도 면에서 차이가 있다는 것이 이번 조사에서
+  간접적으로 확인됨 — 다만 이는 market-researcher의 해석이므로 report-writer는
+  "카드사는 챗봇 등 개별 접점 중심, 핀테크 3사는 결제 경험 전반"이라는 정도로
+  신중하게 서술할 것을 권장.
+
+### 카카오페이 R&D 투자·특허·기술인력 규모 — 확인 필요
+
+- **상태**: 확인 필요 (출처 미확보)
+- **시도한 검색**: "카카오페이 연구개발비 특허 기술연구소 개발인력 규모",
+  "카카오페이 연구개발비 2025년 매출액 대비 비중", "카카오페이 특허 출원 건수" 등.
+  카카오페이 사업보고서(DART/KIND) 존재는 확인했으나(카카오페이 IR 페이지·KIND 공시
+  링크 확보) WebFetch가 DART·KIND·kakaopay.com 도메인에서 모두 차단되어 사업보고서
+  본문 내 정확한 R&D 비용·특허 건수·기술인력 수를 직접 확인하지 못함. 언론 보도로도
+  구체적 수치를 찾지 못함.
+- **비고**: 다음 조사 시 WebFetch가 복구되면 카카오페이 사업보고서(KIND 공시,
+  https://kind.krx.co.kr/common/disclsviewer.do?method=search&acptno=20260312002296)
+  "연구개발활동" 섹션을 직접 열람해 확인 필요. report-writer는 이 항목을 리포트에
+  숫자 없이 "확인 필요"로만 남길 것.
 
 ## 해외 시장 및 경쟁 동향
 
-(아직 근거 없음)
+### PayPal — Agentic Commerce 전략·PYUSD 스테이블코인 성장 (2025년말~2026년 4월 기준)
+
+- **수치/핵심 사실**: PayPal은 AI 기반 쇼핑("Agentic Commerce")을 지원하는 결제
+  인프라·신원인증·구매자보호 솔루션 스위트를 출시. Perplexity 내 가맹점 노출 기능은
+  2025년말 이전 제공 개시, "Agent Ready"는 2026년초 제공 개시. Sabre·Mindtrip과
+  제휴해 AI 여행예약 플랫폼도 출시. PayPal의 스테이블코인 PYUSD는 2026년 4월 24일
+  기준 시가총액 약 35.1억 달러로 전년 동기 대비 +680% 성장. PayPal은 전 세계
+  약 4억개 소비자 계정과 약 3,500만개 가맹점 계정을 보유. 2026년 2월 25일에는
+  "2026 Evident AI Index for Payments"에서 결제업계 AI 인재(AI Talent) 부문 글로벌
+  1위(Global Leader)로 선정됐다고 발표.
+- **원문 발췌**: "PayPal launched agentic commerce services, a suite of solutions
+  built upon PayPal's trusted payments infrastructure, identity verification, and
+  buyer protection, designed to enable commerce capabilities for the emerging world
+  of AI-driven shopping." / "Merchant discoverability on Perplexity became available
+  before the end of 2025, while Agent Ready became available in early 2026." /
+  "PYUSD reached roughly $3.51 billion in market capitalization on April 24, 2026,
+  growing 680% year over year, and PayPal serves more than 400 million consumer
+  accounts and roughly 35 million merchant accounts." (WebSearch 요약, 원 출처:
+  PayPal Investor Relations "PayPal Launches Agentic Commerce Services to Power
+  AI-Driven Shopping", PayPal Newsroom "PayPal Recognized as Global Leader in AI
+  Talent in 2026 Evident AI Index for Payments"(2026-02-25))
+- **출처명**: PayPal Investor Relations(investor.pypl.com) "PayPal Launches Agentic
+  Commerce Services to Power AI-Driven Shopping"; PayPal Newsroom
+  (newsroom.paypal-corp.com) "PayPal Recognized as Global Leader in AI Talent in
+  2026 Evident AI Index for Payments"(2026-02-25); TradingKey "2026 Evolution of
+  Global Payment Industry Landscape: PayPal's Defensive Transformation..."
+- **출처 URL**: https://investor.pypl.com/news-and-events/news-details/2025/PayPal-Launches-Agentic-Commerce-Services-to-Power-AI-Driven-Shopping/default.aspx , https://newsroom.paypal-corp.com/2026-02-25-PayPal-Recognized-as-Global-Leader-in-AI-Talent-in-2026-Evident-AI-Index-for-Payments , https://www.tradingkey.com/analysis/stocks/us-stocks/261638379-paypal-merger-stripe-ai-agent-stablecoin-analysis-tradingkey
+- **기준 시점**: PYUSD 시총 2026-04-24 기준, "AI Talent" 지수 선정 발표 2026-02-25,
+  Agentic Commerce 출시 2025년말~2026년초
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: WebFetch가 investor.pypl.com·newsroom.paypal-corp.com 모두 차단되어
+  원문 페이지를 직접 열람하지 못하고 WebSearch 요약으로만 확인함. "Evident AI Index
+  for Payments"는 제3자 조사기관(Evident Insights)의 지수로 추정되나, 이 조사기관의
+  방법론·순위 산정기준은 이번 조사에서 별도 확인하지 못함 — report-writer는
+  "PayPal 자체 발표(1위 선정)"라는 출처 성격을 명시할 것을 권장.
+
+### Stripe — 결제 전용 AI 파운데이션 모델 공개, 사기탐지 개선율 64% (2026년, Stripe Sessions 2026)
+
+- **수치/핵심 사실**: Stripe는 연례 행사 "Stripe Sessions"에서 세계 최초의 "결제 전용
+  AI 파운데이션 모델(Payments Foundation Model)"을 공개. 이 모델은 수백억 건의
+  거래 데이터로 학습되었으며, 개별 특화 모델이 잡아내지 못하는 결제 건별 수백 개의
+  미세 신호를 포착. 대기업 대상 카드테스팅 공격(card-testing attacks) 탐지율을
+  "하루아침에 64% 개선"했다고 자체 발표. Stripe Sessions 2026에서는 스테이블코인
+  기반 계좌 기능을 포함해 288개의 신규 제품·기능을 공개했으며, Metronome의 정밀
+  트래킹과 Tempo 블록체인 기반 스테이블코인 마이크로페이먼트를 결합한 "스트리밍
+  페이먼트"(AI 네이티브 비즈니스 모델용)도 도입.
+- **원문 발췌**: "Stripe launched the world's first AI foundation model for
+  payments and unveiled a major expansion of its money management capabilities,
+  including stablecoin-powered accounts." / "Stripe's Payments Foundation Model is
+  trained on tens of billions of transactions, and captures hundreds of subtle
+  signals about each payment that specialized models can't." / "The company claims
+  that its new foundation model increased its detection rate for card-testing
+  attacks on large businesses 'by 64% practically overnight.'" / "Stripe announced
+  288 new products and features at Stripe Sessions 2026 as the company builds the
+  economic infrastructure for AI..." / "Stripe introduced streaming payments, an
+  AI-native business model, which combines precise tracking from Metronome with
+  stablecoin micropayments on the Tempo blockchain." (WebSearch 요약, 원 출처:
+  Stripe Newsroom "Stripe builds out the economic infrastructure for AI with 288
+  launches"(Stripe Sessions 2026), TSG "Stripe Unveils AI Foundation Model for
+  Payments, Reveals 'Deeper Partnership' with Nvidia", Forrester "Stripe Sessions
+  2026: Stripe Is Rearchitecting Payments For An Agentic AI Economy")
+- **출처명**: Stripe Newsroom(stripe.com) "Stripe builds out the economic
+  infrastructure for AI with 288 launches"; TSG(tsgpayments.com) "Stripe Unveils
+  AI Foundation Model for Payments, Reveals 'Deeper Partnership' with Nvidia";
+  Forrester(forrester.com) "Stripe Sessions 2026: Stripe Is Rearchitecting
+  Payments For An Agentic AI Economy"
+- **출처 URL**: https://stripe.com/newsroom/news/sessions-2026 , https://tsgpayments.com/stripe-unveils-ai-foundation-model-for-payments-reveals-deeper-partnership-with-nvidia/ , https://www.forrester.com/blogs/stripe-sessions-2026-stripe-is-rearchitecting-payments-for-an-agentic-ai-economy/
+- **기준 시점**: Stripe Sessions 2026 발표(2026년 시점, 정확한 개최일자는 확인 못함
+  — 통상 Stripe Sessions는 매년 상반기 개최)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: WebFetch가 stripe.com을 차단해 원문 페이지를 직접 열람하지 못하고
+  WebSearch 요약으로만 확인함. "64% 개선"은 Stripe 자체 발표 수치이며 제3자 검증
+  여부는 확인되지 않음 — report-writer는 "Stripe 자체 발표"임을 명시할 것. 위
+  "카카오페이 AI FDS 월 71만건 이상거래 감지"(시장현황 섹션)와 비교 시, Stripe는
+  "탐지율 개선폭(%)"을, 카카오페이는 "탐지 건수(절대값)"를 공개해 지표 성격이 달라
+  단순 비교는 부적절함에 유의.
+
+### Ant Group·Alipay — AI 대모델 오픈소스화·Alipay AI 에이전트 전면 개편 (2024~2026년)
+
+- **수치/핵심 사실**: 앤트그룹(Ant Group, 알리페이 모회사)은 2024년 연구개발(R&D)에
+  234.5억 위안(약 32.6억 달러)을 투자해 전년 대비 +10.7% 증가, 2021년 이후 4년
+  연속 R&D 투자 확대(2024 지속가능경영보고서 기준). 2025년에는 트릴리언(1조)
+  파라미터급 오픈소스 언어모델 "Ling-2.6-1T"를 포함한 Ling 시리즈 파운데이션 모델을
+  오픈소스로 공개해 저비용 고성능을 표방. 2026년 5월에는 소비자용 AI Pay·AI
+  Wallet과 기업용 AI 결제처리·Token Pay를 포함하는 "풀스택 AI 결제 인프라"를
+  공개했으며, 2026년 5월 기준 Alipay AI Pay 누적 거래 3억 건을 돌파해 "세계 최초의
+  상업적 규모의 AI 네이티브 결제 인프라"라고 자평. 2026년 6월 16일에는 알리페이
+  앱 전반에 AI 에이전트(중국명 '아바오')를 결합하는 대규모 업그레이드를 단행해
+  약 10억명의 이용자가 AI 에이전트로 일상 업무를 처리할 수 있도록 함. 2024년
+  독립법인으로 분사한 앤트인터내셔널(Ant International)은 2026년 7월 21일 AI 결제
+  에이전트 개발을 위한 시리즈A 투자 약 12억 달러 유치를 완료.
+- **원문 발췌**: "Chinese financial technology firm Ant Group increased investment
+  in research and development (R&D) for four consecutive years since 2021,
+  reaching a record high of 23.45 billion yuan ($3.26 billion) in 2024. ...
+  Ant Group increased its R&D investment reaching a record 10.7 per cent
+  year-on-year in 2024." / "In 2025, Ant Group open-sourced the Ling series
+  foundational models... Its latest evolution features the release of
+  Ling-2.6-1T, a trillion-parameter language model." / "On June 16, 2026, Alipay
+  launched a major AI agent upgrade ('Ah Bao' in Mandarin), enabling its one
+  billion users to find services more easily and execute daily tasks with the
+  help of its AI agent interface." / "In May 2026, Alipay unveiled a full-stack
+  AI payment infrastructure featuring consumer products AI Pay and AI Wallet,
+  alongside business solutions including AI payment processing and Token Pay.
+  By May 2026, Alipay AI Pay surpassed 300 million transactions, establishing
+  itself as the first commercially scaled AI-native payment infrastructure
+  globally." / "The Singapore-headquartered company [Ant International]...
+  announced the close of its Series A equity financing of approximately $1.2
+  billion on July 21, 2026." (WebSearch 요약, 원 출처: Reuters/FStech "Ant Group
+  commits $3.26bn to R&D in 2024", TechNode "Ant Group said to be preparing AI
+  version of Alipay for public launch", startupfortune.com "Ant International
+  raises $1.2 billion to build AI payment agents before Western rivals can")
+- **출처명**: FStech(fstech.co.uk) "Ant Group commits $3.26bn to R&D in 2024"
+  (Reuters 인용, 2024 지속가능경영보고서 기준); TechNode(technode.com) "Ant Group
+  said to be preparing AI version of Alipay for public launch"; Startup Fortune
+  (startupfortune.com) "Ant International raises $1.2 billion to build AI payment
+  agents before Western rivals can"
+- **출처 URL**: https://www.fstech.co.uk/fst/China_ant_group_invests_into_rdd.php , https://technode.com/2026/06/15/ant-group-said-to-be-preparing-ai-version-of-alipay-for-public-launch/ , https://startupfortune.com/ant-international-raises-12-billion-to-build-ai-payment-agents-before-western-rivals-can/
+- **기준 시점**: R&D 투자액은 2024년 실적(2025년 보도), Ling-2.6-1T·AI Pay·Alipay
+  에이전트 개편은 2025~2026년, Ant International 시리즈A 완료는 2026-07-21
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: growth 도메인 evidence에 있을 수 있는 Alipay/Ant 관련 사업 실적(거래액,
+  MAU 등)과 겹치지 않도록 이번 항목은 "AI/기술 투자·인프라" 관점(R&D 금액, 모델
+  공개, AI 결제 인프라 거래건수)에 한정해 기록함. "3억 건"·"10억명"은 각각 다른
+  시점(2026-05 vs 2026-06)의 다른 지표(거래건수 vs 이용자수)이므로 report-writer는
+  혼동하지 않도록 구분해 서술할 것.
+
+### Revolut — AI 어시스턴트 'AIR' 출시·NVIDIA 투자 유치 (2026년 4월~7월)
+
+- **수치/핵심 사실**: 영국 핀테크 Revolut은 2026년 4월 9일부터 영국 고객 1,300만명을
+  대상으로 인앱 AI 어시스턴트 "AIR"를 순차 출시. AIR는 대화형으로 지출 분석·카드
+  관리·투자 트래킹·구독 관리 등을 처리. Revolut의 기술 스택은 NVIDIA H100 GPU
+  200개로 구동되며, 이를 기반으로 2023년 3,800만명이던 이용자 수를 현재(2026년
+  기준) 7,000만명 이상으로 확대했다고 자체 설명. NVIDIA의 벤처 투자 자회사
+  NVentures는 세컨더리 지분매각 방식으로 Revolut에 약 1억 9,600만 달러를 투자했으며,
+  이 거래로 Revolut의 기업가치는 약 1년 전 450억 달러에서 750억 달러로 상승. Revolut은
+  기존에도 NVIDIA 기술을 활용해 AI 챗봇·이상거래 탐지 시스템을 구축해온 것으로 확인됨.
+- **원문 발췌**: "Revolut began rolling out an in-app AI assistant to its 13
+  million UK customers on 9 April 2026, which handles spending insights, card
+  controls, investment tracking and subscriptions through conversation." /
+  "Revolut's technical stack is powered by 200 NVIDIA H100 GPUs, which have
+  allowed it to scale from serving 38 million users in 2023 to more than 70
+  million today." / "NVIDIA's venture capital division secured a stake in
+  Revolut as part of a secondary share sale that propelled Revolut's valuation
+  to $75 billion, up from $45 billion just over a year earlier. The partnership
+  builds on an existing collaboration where Revolut leverages NVIDIA's technology
+  for its AI infrastructure, powering tools such as intelligent chat assistants
+  and advanced scam detection systems." (WebSearch 요약, 원 출처:
+  FinTech Weekly "Revolut Launches AIR, An In-App AI Assistant, to 13 Million
+  UK Customers", Forbes "Revolut Is Building An AI Brain For Banking, And It
+  Could Change Finance Forever"(2026-07-08), Crowdfund Insider "NVIDIA's Venture
+  Arm Reportedly Takes Position In Digital Bank Revolut")
+- **출처명**: FinTech Weekly(fintechweekly.com) "Revolut Launches AIR, An In-App
+  AI Assistant, to 13 Million UK Customers"; Forbes(forbes.com) "Revolut Is
+  Building An AI Brain For Banking, And It Could Change Finance
+  Forever"(2026-07-08); Crowdfund Insider(crowdfundinsider.com) "NVIDIA's
+  Venture Arm Reportedly Takes Position In Digital Bank Revolut"(2026-07)
+- **출처 URL**: https://www.fintechweekly.com/news/revolut-air-ai-assistant-uk-customers-launch-2026 , https://www.forbes.com/sites/bernardmarr/2026/07/08/revolut-is-building-an-ai-brain-for-banking-and-it-could-change-finance-forever/ , https://www.crowdfundinsider.com/2026/07/292277-nvidias-venture-arm-reportedly-takes-position-in-digital-bank-revolut/
+- **기준 시점**: AIR 출시 2026-04-09, NVIDIA 투자·기업가치 750억달러 보도 2026-07
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: "7,000만명 이상"은 Revolut 자체 설명(기사 인용)으로, growth 도메인
+  evidence의 Revolut MAU/가입자 수치와 시점·기준(가입자 수 vs MAU)이 다를 수 있어
+  report-writer는 이 항목을 "기술 인프라 투자" 맥락(GPU 규모, NVIDIA 투자)으로
+  한정해 인용하고 사업 실적 비교에는 사용하지 않을 것을 권장.
+
+### EU AI Act — 금융 신용평가 등 고위험 AI 규제 시행일 연기 (2026년 6월 29일 확정)
+
+- **수치/핵심 사실**: EU는 채용·신용평가·교육·필수서비스 등을 포괄하는 독립형
+  (stand-alone) 고위험 AI 시스템의 규제 준수 시한을 기존 2026년 8월 2일에서 2027년
+  12월 2일로 연기. 의료기기·기계류 등에 내장된(embedded) 고위험 AI에 대한 규제는
+  2028년 8월 2일로 연기. 이 연기 방안을 담은 "디지털 옴니버스(Digital Omnibus)"는
+  2026년 6월 29일 EU 이사회 최종 승인을 받음. 금융 분야에서 AI가 "고영향(high-risk)
+  AI"로 분류되면 "설명 의무"가 발생해, 대출 거절 등 결정 시 AI의 판단 근거를 상세히
+  밝혀야 함.
+- **원문 발췌**: "채용, 신용평가, 교육, 필수 서비스 등을 포괄하는 독립형(stand-alone)
+  고위험 시스템의 준수 시한이 2026년 8월 2일에서 2027년 12월 2일로 연기되었습니다.
+  ... 규제 대상 제품에 내장된(embedded) 고위험 AI(의료기기·기계류 등)에 대한 규제는
+  2028년 8월 2일로 연기되었습니다. ... EU의 'Digital Omnibus'가 2026년 6월 29일
+  이사회의 최종 승인을 받았습니다." / "금융 분야에서 AI가 '고영향 AI'로 분류되면
+  '설명 의무'가 발생하며, 대출 거절 시 AI의 판단 근거를 상세히 밝혀야 합니다."
+  (WebSearch 요약, 원 출처: 법률신문 "국내외 AI 규제, 2026년 하반기 분수령: EU AI
+  Act의 새로운 국면과 AI기본법 시행령 개정")
+- **출처명**: 법률신문(lawtimes.co.kr) "국내외 AI 규제, 2026년 하반기 분수령: EU AI
+  Act의 새로운 국면과 AI기본법 시행령 개정"
+- **출처 URL**: https://www.lawtimes.co.kr/news/articleViewAmp.html?idxno=223727
+- **기준 시점**: Digital Omnibus 이사회 최종 승인 2026-06-29, 연기된 시행일
+  2027-12-02(독립형 고위험 AI)·2028-08-02(내장형 고위험 AI)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 위 "규제 변화" 섹션의 국내 「AI 기본법」(2026-01-22 시행, 고영향 AI에
+  금융 포함)과 비교 시, EU는 오히려 신용평가 등 고위험 AI 규제의 실제 적용 시점을
+  2027년말~2028년으로 늦춘 반면 한국은 이미 시행 중이라는 점에서 시차가 있음 —
+  report-writer는 "한국이 오히려 실질 적용에서는 더 앞서 있다"는 대비를 강조할 수 있음
+  (단, 한국도 실제 과태료 부과는 2027년 이후로 유예된 점은 위 규제 변화 섹션 참고).
+
+### 미국 GENIUS Act(스테이블코인 규율법) — 시행 로드맵 진행 중 (2025년 7월 제정, 2026년 규정 제정 단계)
+
+- **수치/핵심 사실**: 미국 GENIUS Act(Guiding and Establishing National Innovation
+  for U.S. Stablecoins Act)는 2025년 7월 18일 제정됨. 시행일은 "제정 후 18개월
+  (2027년 1월 18일)" 또는 "주요 연방 스테이블코인 규제기관들이 최종 시행규정을
+  공표한 후 120일" 중 더 이른 시점으로 정해짐. 규제기관들은 제정 후 약 1년(2026년
+  7월경)까지 대부분의 필수 규정 제정을 완료해야 함. 2026년 중반 기준 진행 상황:
+  OCC(통화감독청)는 관할 기관의 결제 스테이블코인 발행 등에 관한 규정초안을 발표
+  (의견수렴 마감 2026년 5월 1일), FDIC·NCUA는 각각 관할 내 기관이 결제
+  스테이블코인 발행 인가를 신청하는 절차를 규정한 초안을 발표, 재무부
+  FinCEN·OFAC은 GENIUS Act의 자금세탁방지(AML)·제재 준수 프로그램 요건을 이행하는
+  공동 규정초안을 발표.
+- **원문 발췌**: "The GENIUS Act was enacted on July 18, 2025. It establishes a
+  regulatory framework for payment stablecoin activities." / "The GENIUS Act
+  takes effect on the earlier of two dates: 18 months after enactment, which is
+  January 18, 2027, or 120 days after the primary federal stablecoin regulators
+  issue final implementing rules. Regulators have until roughly July 2026, one
+  year after enactment, to complete most required rulemakings." / "OCC... is
+  issuing a notice of proposed rulemaking to implement the... GENIUS Act
+  regarding the issuance of payment stablecoins... The comment period is
+  currently scheduled to close on 1 May 2026." / "Both the FDIC and NCUA issued
+  proposals, Notices of Proposed Rulemaking (NPRMs), that establish processes
+  by which entities within their jurisdiction would apply to become licensed to
+  issue payment stablecoins." (WebSearch 요약, 원 출처: OCC(occ.gov) Bulletin
+  2026-3, Morgan Lewis "US Stablecoin Regulation: GENIUS Act Implementation and
+  Key Proposals", Sullivan & Cromwell "GENIUS Act Implementation: OCC Issues
+  Proposed Rules", U.S. Department of the Treasury 보도자료)
+- **출처명**: OCC(occ.gov) "GENIUS Act Regulations: Notice of Proposed
+  Rulemaking" Bulletin 2026-3; Morgan Lewis(morganlewis.com) "US Stablecoin
+  Regulation: GENIUS Act Implementation and Key Proposals"(2026-04); U.S.
+  Department of the Treasury(home.treasury.gov) 보도자료 "Treasury Proposes Rule
+  to Implement the GENIUS Act's Requirements to Counter Illicit Finance"
+- **출처 URL**: https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html , https://www.morganlewis.com/pubs/2026/04/genius-act-implementation-key-proposals-and-what-comes-next , https://home.treasury.gov/news/press-releases/sb0435
+- **기준 시점**: 제정 2025-07-18, 규정 제정 진행 상황은 2026년 상반기(OCC 의견수렴
+  마감 2026-05-01) 기준
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 위 "규제 변화" 섹션의 국내 "디지털자산기본법·스테이블코인 2단계 입법"
+  항목에서 언급된 "미국 GENIUS Act 2027년 1월 본격 시행" 전망과 정합적인 1차 출처를
+  이번에 별도로 확보함(occ.gov·home.treasury.gov 등 미국 정부기관 공식 발표 기준).
+  report-writer는 두 항목을 서로 참조하며 인용할 수 있음.
+
+### 중국 디지털위안(e-CNY, CBDC) — 누적거래 16.7조 위안 돌파, "디지털 예금화폐"로 전환 (2025년말~2026년 4월)
+
+- **수치/핵심 사실**: 중국 e-CNY(디지털위안, 중앙은행 디지털화폐)는 2025년 11월말
+  기준 누적 거래건수 34억 8,000만 건, 2025년말 기준 누적 거래금액 16조 7,000억
+  위안(약 2조 3,000억~2조 3,800억 달러)을 돌파했고 개인지갑 발급 수는 2억 3,000만개를
+  넘어섬. 2026년 들어 중국인민은행은 e-CNY를 기존 "디지털 현금" 개념에서 "디지털
+  예금화폐" 개념으로 전환하는 대규모 개편을 추진했으며, 2026년 4월에는 e-CNY 취급
+  가능 승인 운영은행 수를 기존 대비 두 배 이상인 22개사로 확대. 2026년 12월 29일
+  보도에 따르면 중국은 "내년(2027년)부터 디지털위안화에 이자를 지급"하는 방안도
+  추진 중인 것으로 알려짐(법정화폐로서의 지위를 굳히려는 목적으로 해석됨).
+- **원문 발췌**: "2025년 말까지 디지털 위안화 누적 거래액은 16조 7천억 위안, 개인지갑은
+  2억 3천만 개를 넘어섰습니다. e-CNY 거래 건수는 2025년 11월 말 기준 34억 8천만
+  건에 도달했습니다." / "2026년 중국인민은행은 중앙은행 디지털화폐(e-CNY)를 기존의
+  '디지털 현금'에서 '디지털 예금화폐'로 전환하는 대규모 개편을 실시했습니다. 인민은행은
+  4월 e-CNY를 취급할 수 있는 승인 운영 은행 수를 기존 대비 두 배 이상 늘린 22개사로
+  전격 확대했습니다. 2026년 초 기준 누적 거래금액은 16조 7,000억 위안(약 2조
+  3,000억 달러) 이상으로 늘었습니다." (WebSearch 요약, 원 출처: 글로벌이코노믹 "中,
+  '디지털 위안화' 2년새 800% 급증…달러 패권에 도전장 내민 '미래 화폐 전쟁'", 외교신문
+  "중국, 내년 1월부터 디지털 위안화에 이자 지급", 글로벌이코노믹 "中, 내년부터
+  디지털 위안화에 이자 지급…'법정 화폐' 지위 굳히기"(2025-12-29))
+- **출처명**: 글로벌이코노믹(g-enews.com) "中, '디지털 위안화' 2년새 800% 급증…달러
+  패권에 도전장 내민 '미래 화폐 전쟁'"(2026-02-27); 글로벌이코노믹 "中, 내년부터
+  디지털 위안화에 이자 지급…'법정 화폐' 지위 굳히기"(2025-12-29); 외교신문(faj.co.kr)
+  "중국, 내년 1월부터 디지털 위안화에 이자 지급"
+- **출처 URL**: https://www.g-enews.com/article/Global-Biz/2026/02/2026022720210397430c8c1c064d_1 , https://www.g-enews.com/article/Global-Biz/2025/12/2025122917444116360c8c1c064d_1 , https://faj.co.kr/View.aspx?No=3908550
+- **기준 시점**: 거래건수 2025-11말, 거래금액·지갑수 2025년말~2026년초, 취급은행
+  22개 확대 2026-04, 이자지급 추진 보도 2025-12-29
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 위 시장현황 섹션의 한국은행 CBDC "프로젝트 한강"(2025년 4~6월 파일럿,
+  114,880건 거래·지갑 8만개)과 규모 차이가 매우 크므로(중국 34.8억건 vs 한국
+  11.5만건 — 다만 중국은 2020년부터 누적, 한국은 3개월 파일럿이라는 점에서 단순
+  비교는 부적절함), report-writer는 반드시 "누적 기간"이 다름을 명시하고 단순
+  절대치 비교를 지양할 것.
+
+### EU 결제·금융 규제 패키지 — PSD3/PSR·DORA·MiCA 2026년 본격 집행 전환
+
+- **수치/핵심 사실**: EU는 2026년을 금융 규제의 "가이드라인 제공 단계에서 실제
+  집행·감독 단계로의 핵심 전환점"으로 규정. ① DORA(디지털 운영 복원력법)는 이미
+  2025년 1월 17일부터 시행 중이며 금융기관의 ICT 위험관리체계가 문서상이 아닌
+  실제 운영 가능한 상태여야 함. ② PSD3(제3차 지급서비스지침)·PSR(지급서비스규정)은
+  2026년 1~2분기 발효 후 21개월의 이행기간을 거쳐 적용되며(PSR은 규정으로서 회원국
+  해석 차이 없이 EU 전역에 직접 적용, PSD3는 18개월 내 각국 국내법 전환 필요),
+  발효 후 27개월 시점부터는 모든 송금에 수취인 확인(payee confirmation) 의무가
+  적용됨. ③ MiCA(가상자산시장규정)는 가상자산서비스제공자에 2026년 7월 1일까지
+  전환기간을 부여.
+- **원문 발췌**: "2026년 마크는 EU 금융규제의 가이드라인 제공 단계에서 실제 집행 및
+  감독 단계로의 핵심 전환점입니다." / "DORA has already been in effect since
+  January 17, 2025, so institutions must ensure their ICT risk management
+  frameworks are operationally functional rather than merely documentary." /
+  "PSD3 and PSR come into effect in Q1-Q2 2026, followed by a 21-month
+  implementation period." / "PSR은 지침이 아닌 규정으로서, 국가별 해석 없이 모든
+  EU 회원국에 직접 적용되어 PSD2의 불일치 문제를 제거합니다." / "발효 후 27개월
+  이후부터는 모든 송금에서 수취인 확인이 적용되고, 이를 잘못 적용할 경우의 책임도
+  발생합니다." / "MiCA grants crypto-asset service providers a transition period
+  until July 1, 2026." (WebSearch 요약, 원 출처: 얼리어답터뉴스 "유럽 금융규제,
+  2026년 본격 집행 시대 개막…DORA·MiCA·PSD3 핵심 일정 총정리", Norton Rose
+  Fulbright "PSD3 and PSR: From provisional agreement to 2026 readiness",
+  Citium Tech "MiCA compliance deadline tracker: key dates for 2026")
+- **출처명**: 얼리어답터뉴스(eanews.kr) "유럽 금융규제, 2026년 본격 집행 시대
+  개막…DORA·MiCA·PSD3 핵심 일정 총정리"; Norton Rose Fulbright(nortonrosefulbright.com)
+  "PSD3 and PSR: From provisional agreement to 2026 readiness"; Citium Tech
+  (citiumtech.com) "MiCA compliance deadline tracker: key dates for 2026"
+- **출처 URL**: https://eanews.kr/news/951683 , https://www.nortonrosefulbright.com/en/knowledge/publications/cedd39c6/psd3-and-psr-from-provisional-agreement-to-2026-readiness , https://www.citiumtech.com/insights/mica-compliance-deadline-tracker
+- **기준 시점**: DORA 시행 2025-01-17(이미 시행 중), PSD3/PSR 발효 2026년 1~2분기
+  예상(공식 관보 게재는 2026년 중반 예상), MiCA 전환기한 2026-07-01
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 국내 오픈뱅킹(위 시장현황 섹션)과 비교 가능한 EU의 "오픈파이낸스"
+  법제화 사례로 참고 가치가 있음. 다만 PSD3/PSR의 정확한 관보 게재일·최종 발효일은
+  조사 시점(2026-08-12)까지도 "예상"으로만 보도되고 있어, report-writer는 "확정"이
+  아니라 "진행 중인 일정"으로 서술할 것.
+
+### 영국 오픈뱅킹 — 누적 결제 10억 건·API 호출 1,000억 건 돌파 (2026년 7월 28일 기준)
+
+- **수치/핵심 사실**: 영국 오픈뱅킹(Open Banking Limited 운영, 2018년 출범) 생태계는
+  출범 8년여 만인 2026년 7월 28일 발표 기준 누적 결제 10억 건, 누적 API 호출 1,000억
+  건을 돌파. 2026년 6월 월간 API 트래픽은 사상 최대치인 28억 1,000만 건을 기록.
+  가변반복결제(Variable Recurring Payments, VRP)는 전월 대비 +6.7% 성장해 773만
+  건을 기록했으며, 영국 금융감독청(FCA)에 따르면 VRP는 이미 전체 오픈뱅킹 결제의
+  약 16%를 차지. 2026년 6월 2일에는 31개 기업(모든 주요 영국 소매은행 포함, 2025년
+  말 결성)이 참여하는 "UK 페이먼츠 이니셔티브(UK Payments Initiative, UKPI)"가
+  출범해 오픈뱅킹·상업용 가변반복결제(commercial VRP, cVRP) 혁신을 주도. cVRP 1차
+  단계는 공공요금·금융서비스·정부·자선단체·철도 등 소비자 보호가 이미 확립된
+  고신뢰 규제 업종에 우선 적용.
+- **원문 발췌**: "The UK's Open Banking ecosystem reached the milestone of one
+  billion payments and 100 billion API calls across member banks, according to
+  an announcement on July 28 from Open Banking Limited. The ecosystem reached
+  these twin milestones more than eight years after Open Banking's launch, with
+  monthly API traffic reaching a new record of 2.81 billion calls in June." /
+  "The UK Open Banking ecosystem has surpassed one billion payments and 100
+  billion API calls, with Variable Recurring Payments (VRPs) growing 6.7%
+  month-on-month to reach 7.73 million transactions. According to the FCA, VRPs
+  already account for around 16% of open banking payments..." / "The UK Payments
+  Initiative (UKPI) was launched on 2 June 2026 to take forward innovation in
+  open banking and commercial variable recurring payments. The UKPI was
+  established by 31 firms (including all major UK retail banks) in late 2025." /
+  "Wave 1 focuses on regulated, high-trust sectors including utilities,
+  financial services, government, charities, and rail." (WebSearch 요약, 원
+  출처: Open Banking Limited(openbanking.org.uk) "Open Banking surpasses one
+  billion payments and 100 billion API calls", The Payments Association "The
+  state of open banking payments in the UK in 2026", Lewis Silkin "UK Payments
+  Initiative launches new open banking recurring payments scheme")
+- **출처명**: Open Banking Limited(openbanking.org.uk) "Open Banking surpasses
+  one billion payments and 100 billion API calls"(2026-07-28); The Payments
+  Association(thepaymentsassociation.org) "The state of open banking payments
+  in the UK in 2026"; Lewis Silkin(lewissilkin.com) "UK Payments Initiative
+  launches new open banking recurring payments scheme"(2026-06-11)
+- **출처 URL**: https://www.openbanking.org.uk/news/open-banking-surpasses-one-billion-payments-and-100-billion-api-calls/ , https://thepaymentsassociation.org/article/the-state-of-open-banking-payments-in-the-uk-in-2026/ , https://www.lewissilkin.com/en/insights/2026/06/11/uk-payments-initiative-launches-new-open-banking-recurring-payments-scheme-102n1ql
+- **기준 시점**: 마일스톤 발표 2026-07-28, 6월 API 트래픽 기록, UKPI 출범 2026-06-02
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 위 시장현황 섹션의 국내 오픈뱅킹(2025년 10월 기준 순등록계좌 258백만좌,
+  순이용자 39백만명)과 지표 성격이 다름(영국은 "누적 결제 건수·API 호출 수", 한국은
+  "등록계좌·이용자 수")에 유의 — report-writer는 두 나라 지표를 직접 비교하지 말고
+  각자의 성장세·정책 방향(영국: cVRP로 상업적 활용 확대, 한국: 법인 이용자 확대)을
+  병렬로 소개하는 방식을 권장.
