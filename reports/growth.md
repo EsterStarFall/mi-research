@@ -1,7 +1,7 @@
 # 그로스(Growth) 트렌드 & 인사이트 리포트
 
 > 작성일: 2026-08-12 | 작성: report-writer | 근거: [evidence/growth.md](../evidence/growth.md)
-> 검수 상태: **초안(fact-checker 검수 전) — 아직 전사 공유 불가.** [review/growth-checklist.md](../review/growth-checklist.md)에서
+> 검수 상태: **재조사 1차 반영 완료(2026-08-12) — fact-checker 재검수 대기.** [review/growth-checklist.md](../review/growth-checklist.md)에서
 > fact-checker 검수 결과를 확인한 뒤에만 공유하십시오.
 
 > **조사 환경 관련 참고**: 이번 조사에서 네트워크 프록시가 개별 언론사·기업 도메인(techm.kr,
@@ -23,6 +23,7 @@
    * 그로스에서 수익화(monetization)로 무게중심이 이동하며 이용자당 매출·거래건수가 뚜렷하게 상승
       * 2025년 3분기 DAU 656만 명(전년 동기 대비 +6%), MAU 대비 27.8% 수준[^2]
       * 2025년 3분기 ATPU(사용자 1인당 결제건수) 75건(전년 동기 대비 +43%)[^2]
+      * 2025년 3분기 ARPU(사용자당 매출) 10,103원(전년 동기 대비 +33%)[^2]
       * 2025년 2분기 ARPU 10,075원으로 사상 첫 1만원 돌파(전년 동기 대비 +36%)[^3]
       * 2025년 2분기 ATPU 69건(전년 동기 대비 +37%)[^3]
 
@@ -30,7 +31,7 @@
    * 거래액·매출·수익성이 동반 개선되며 2025년 연간 최초 연결 흑자를 달성했고, 2026년 1분기에도 분기 역대 최대 실적을 경신
       * 2025년 2분기: 거래액(TPV) 45조 원, 매출 2,383억 원, 영업이익 93억 원(전분기 대비 +111.5%)[^3]
       * 2025년 4분기: 거래액(TPV) 49.3조 원(전년 동기 대비 +14%), 매출 2,698억 원(전년 동기 대비 +24%)[^4]
-      * 2025년 연간: 거래액 185.6조 원-186조 원(자료마다 소수점 반올림 차이가 있어 두 수치를 병기, 전년 대비 +11%), 연결 매출 9,584억 원(전년 대비 +25%), 연결 기준 최초 연간 영업흑자 504억 원[^4]
+      * 2025년 연간: 거래액 185.6조 원(전년 대비 +11%; 일부 기사 제목에서는 반올림한 "186조 원"으로도 표기되나 재조사 결과 동일 자료·동일 수치의 반올림 표기 차이로 확인됨), 연결 매출 9,584억 원(전년 대비 +25%), 연결 기준 최초 연간 영업흑자 504억 원, 당기순이익 557억 원, EBITDA 833억 원[^4]
       * 2026년 1분기: 거래액(TPV) 50.9조 원(전년 동기 대비 +15%), 매출 3,003억 원, 영업이익 322억 원 — 분기 역대 최대 실적. 결제 서비스는 오프라인 +50%, 온라인 +13%로 전체 +21% 성장[^5]
       * 참고(수치 편차): 2025년 4분기 금융서비스 매출 성장률·비중은 자료에 따라 "전년 동기 대비 +34%, 매출 비중 42%" 또는 "+59%, 비중 40%"로 다르게 보도됨 — 원 IR 자료를 확보하지 못해 두 수치를 모두 기록하며, 방향성(금융서비스 매출 고성장, 매출 비중 40%대)만 참고할 것을 권장[^4]
 
@@ -51,9 +52,10 @@
       * 목표주가 3만5,000원 → 7만6,000원 상향, 카카오페이가 2027년까지 MAU 2,650만 명 달성을 목표로 하고 있다고 분석하며, 향후 3년간 ARPU 연평균성장률(CAGR) 18.6% 전망[^8]
 
 * AI 개인화(리텐션·크로스셀링) 및 2026년 결제 비전 (출처: 2026년 4월·5월 발표)
-   * 마이데이터 기반 초개인화와 크로스셀링 강화를 통해 체류시간·리텐션을 늘리는 전략을 공식화
+   * 마이데이터 기반 초개인화와 크로스셀링 강화를 통해 체류시간·리텐션을 늘리는 전략을 공식화 — 단, 아래 두 항목은 발표 주체·시점이 서로 다르므로(Pay Talk 행사 vs 카카오페이증권 개별 사업전략) 구분해서 인용
       * 생성형 AI '페이아이'에 마이데이터 결제내역 기반 주간/월간 '소비 리포트' 기능 추가(2026년 4월 7일)[^9]
-      * 2026년 결제 비전 'First to Next' 발표: 오프라인은 사용자 혜택 강화, 온라인은 플랫폼 혜택 생태계·데이터 기반 초개인화·에이전틱 AI 결제 환경 구축, 연금·ISA·펀드 등 금융상품 크로스셀링 강화(2026년 5월 12일)[^6]
+      * 2026년 결제 비전 'First to Next' 발표(2026년 5월 12일 Pay Talk, 온라인 페이먼트 클랜장 안대성): 오프라인은 사용자 혜택 강화, 온라인은 플랫폼 혜택 생태계 확장·데이터 기반 초개인화 마케팅·에이전틱 AI 결제("제로 프릭션") 환경 구축을 3대 전략으로 제시[^6a]
+      * (별개 발표) 카카오페이증권은 2025년 11월 ISA 서비스를 출시(2024년 말 연금저축 출시에 이은 후속)하며, 정기 자동이체와 높은 플랫폼 방문 빈도를 활용해 연금·ISA 등 금융상품 크로스셀링을 강화하는 전략을 추진 중 — Pay Talk 발표가 아닌 카카오페이증권의 별도 사업전략 기사에서 확인된 내용[^6b]
 
 * 간편결제 사용 순위/점유율 — 오픈서베이 조사, **송금과 결제 상황에서 순위가 다름**에 유의
    * 같은 오픈서베이 조사군 내에서도 "무엇을 물었는지"(송금 vs 결제)에 따라 1위 사업자가 달라지므로 단일 순위로 단정하지 않아야 함
@@ -153,7 +155,7 @@
       * 네이버플러스 스토어 MAU 875만 명(2026년 5월 기준)[^27]
       * 2025년 4월 출시 이후 멤버십 가입자 383% 증가(2025년 4월 보도)[^28]
 
-* **확인 필요**: 카카오페이·토스·네이버페이 3사를 동일 시점·동일 기관(예: 모바일인덱스, 와이즈앱 등) 기준으로 나란히 비교한 MAU 자료는 확보하지 못함. 네이버페이의 공식 MAU는 2024년 7월 기준 자료(송금·결제 앱 부문 3위, 삼성월렛·카카오페이 다음)가 가장 최근 확보 자료이나 12개월을 초과한 오래된 자료라 2026년 최신 수치는 별도 확인이 필요
+* **확인 필요**: 카카오페이·토스·네이버페이 3사를 동일 시점·동일 기관(예: 모바일인덱스, 와이즈앱 등) 기준으로 나란히 비교한 MAU 자료는 확보하지 못함. 네이버페이의 공식 MAU는 2024년 7월 기준 자료(송금·결제 앱 부문 3위, 삼성월렛 1,651만 명·카카오페이 547만 명 다음)[^36]가 가장 최근 확보 자료이나 12개월을 초과한 오래된 자료라 2026년 최신 수치는 별도 확인이 필요
 
 ## 4. 해외 시장 및 경쟁 동향
 
@@ -199,11 +201,13 @@
 ## 각주
 
 [^1]: 테크M, "카카오페이앱, 사용자 유입 최고치 경신 중...MAU 전년 동기 대비 41% 증가", https://www.techm.kr/news/articleView.html?idxno=131805 (확인일: 2026-08-12)
-[^2]: 아시아에이, "[컨콜] 카카오페이 "일평균 활성유저 656만명 달성"", https://www.asiaa.co.kr/news/articleView.html?idxno=228948 (확인일: 2026-08-12)
+[^2]: 아시아에이, "[컨콜] 카카오페이 "일평균 활성유저 656만명 달성"", https://www.asiaa.co.kr/news/articleView.html?idxno=228948 (DAU 656만 명 출처); 알파비즈, "카카오페이, 실적 성장에 AI 결제 시장 선점도 가능", https://alphabiz.co.kr/news/view/1065578826006170 ; 네이트뉴스(동일 기사 재게재), https://news.nate.com/view/20251105n15301 (ATPU 75건·ARPU 10,103원 출처) (확인일: 2026-08-12)
 [^3]: 시사오늘 외 2025년 2분기 카카오페이 실적 보도, https://www.sisaon.co.kr/news/articleView.html?idxno=174079 ; https://news.nate.com/view/20250805n22928 ; https://wowtale.net/2025/08/05/244951/ (확인일: 2026-08-12)
-[^4]: 라이센스뉴스, "카카오페이, 작년 연간 거래액 186조…연결 매출 9584억원 시현", https://www.lcnews.co.kr/news/articleView.html?idxno=123293 ; 전자신문, "카카오페이, 연간 영업이익 504억 '첫 연결 흑자'", https://www.etnews.com/20260206000277 (확인일: 2026-08-12)
+[^4]: 라이센스뉴스, "카카오페이, 작년 연간 거래액 186조…연결 매출 9584억원 시현", https://www.lcnews.co.kr/news/articleView.html?idxno=123293 ; 전자신문, "카카오페이, 연간 영업이익 504억 '첫 연결 흑자'", https://www.etnews.com/20260206000277 ; 이투데이, "카카오페이, 지난해 영업이익 504억⋯첫 연간 흑자 달성", https://www.etoday.co.kr/news/view/2553985 ; 중앙이코노미뉴스, "카카오페이, 지난해 영업익 첫 연결 흑자…거래액·매출 고른 성장 지속", https://www.joongangenews.com/news/articleView.html?idxno=493848 ; 플래텀, "카카오페이, 첫 연간 흑자 달성… 영업이익 504억 원, 매출 9,584억 원", https://platum.kr/archives/281268 ; 와우테일, "카카오페이, 25년 매출 9584억-영업익 504억으로 첫 흑자", https://wowtale.net/2026/02/06/254348/ (확인일: 2026-08-12)
 [^5]: 다음뉴스, "카카오페이, 분기 최대 실적 경신…2026년 1분기 연결 매출 3003억 원, 영업이익 322억 원, 거래액 50.9조 원", https://v.daum.net/v/20260506170307831 (확인일: 2026-08-12)
 [^6]: 뉴스웨이, "카카오페이, 내년까지 '1000만 사용자' 예고···'결제 톱4' 정조준", https://www.newsway.co.kr/news/view?ud=2026051215504809816 ; 아주경제, https://www.ajunews.com/view/20260512124400261 ; 디지털타임스, https://www.dt.co.kr/article/12061992 (확인일: 2026-08-12)
+[^6a]: dazabi.com(보험AI뉴스), "'First to Next' 내세운 카카오페이… '다음 세대 결제 준비'", https://dazabi.com/insurance_magazine/article.php?id=21374 ; dazabi.com, "카카오페이, '최초에서 최고로' 결제 플랫폼 청사진 공개", https://dazabi.com/insurance_magazine/article.php?id=21022 ; 헤럴드경제, "카카오페이 '앞으로 결제 청사진은 에이전틱 AI'", https://biz.heraldcorp.com/article/10735817 (확인일: 2026-08-12)
+[^6b]: 인사이트코리아, "'장기 자산관리 플랫폼' 카카오페이증권, 3040 연금 수요 '꽉' 잡았다", https://www.insightkorea.co.kr/news/articleView.html?idxno=246347 (확인일: 2026-08-12)
 [^7]: 뉴데일리, "카카오페이증권 커뮤니티 MAU 130만 돌파 … 1년 만에 5배 성장", https://biz.newdaily.co.kr/site/data/html/2026/02/12/2026021200074.html ; 뉴스웨이, https://newsway.co.kr/news/view?ud=2026050619082521580 ; 아이뉴스24, https://www.inews24.com/view/1966106 (확인일: 2026-08-12)
 [^8]: 파이낸셜뉴스, "'유저당 매출 제고 기대' 카카오페이, 목표가↑-교보", https://www.fnnews.com/news/202508060858554936 ; 비즈니스포스트, https://www.businesspost.co.kr/BP?command=article_view&num=406439 (확인일: 2026-08-12)
 [^9]: 뉴스1, "카카오페이, 페이아이 '소비 리포트' 추가…AI로 금융 피드백", https://www.news1.kr/it-science/general-it/6127595 ; 전자신문, https://www.etnews.com/20260407000266 (확인일: 2026-08-12)
@@ -233,3 +237,4 @@
 [^33]: PYMNTS.com, "Block Slashes Staff as Primary Banking Actives Jump 22% to 9.3M", https://www.pymnts.com/earnings/2026/block-slashes-staff-and-eyes-ai-as-primary-banking-actives-jump-22-to-9-3m ; The Harris Poll, "Cash App Aims to Become Users' Primary Bank", https://theharrispoll.com/articles/cash-app-looks-beyond-p2p-payments-and-strives-to-become-users-primary-bank/ (확인일: 2026-08-12)
 [^34]: Revolut 공식 보도자료, "Revolut reports record profit of $2.3bn for 2025 as revenue surges to $6bn", https://www.revolut.com/en-US/news/revolut_reports_record_profit_of_2_3bn_for_2025_as_revenue_surges_to_6bn/ ; CoinDesk, "Crypto-friendly fintech Revolut sees profit soar 57% to $2.3 billion in 2025", https://www.coindesk.com/business/2026/03/24/crypto-friendly-fintech-revolut-sees-profit-soar-57-to-usd2-3-billion-in-2025 (확인일: 2026-08-12)
 [^35]: Latterly.org, "Revolut Marketing Strategy: Premium Tiers, Referral Loops, and Super App", https://www.latterly.org/revolut-marketing-strategy/ ; TSG Invest, "Revolut Stock: $75B Valuation — Is It a Buy?", https://tsginvest.com/revolut/ (확인일: 2026-08-12)
+[^36]: SBS Biz, "네이버페이 앱 이용자 급증…송금·결제 3위", https://biz.sbs.co.kr/article/20000186504 ; 청년일보, "네이버페이, 앱 이용자 수 급증…송금·결제 부문 3위로 '우뚝'", https://www.youthdaily.co.kr/news/article.html?no=162054 (모바일인덱스 2024년 7월 데이터 기준, 2024년 8월 12일 보도) (확인일: 2026-08-12)
