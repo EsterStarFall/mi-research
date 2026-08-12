@@ -495,10 +495,521 @@
 
 ## 경쟁 동향
 
-(이번 조사 스코프에는 포함되지 않음 — "시장현황"과 "규제 변화"만 조사함. 별도 요청 시
-market-researcher가 추가 조사 예정)
+> **조사 환경 관련 주의사항 (2026-08-12 추가조사분)**: 이번 조사에서도 파일 상단에 기록된
+> 네트워크 프록시 차단이 동일하게 확인됨(biz.sbs.co.kr, www.etnews.com, www.pymnts.com,
+> www.coindesk.com, www.revolut.com 등 개별 기사/기업 도메인 WebFetch 전면 차단). 따라서
+> 아래 항목들도 WebSearch가 반환한 검색결과 요약을 근거로 기록했으며, 원문 페이지를 직접
+> 열어 전체 문맥을 재확인하지는 못했다. 사람 최종 검수 시 URL을 직접 열어 대조할 것을
+> 권장한다.
+
+### 토스 '앱인토스(Apps in Toss)' 미니앱 생태계 — 2025년 7월 출시, 2026년 8월 4,000개 돌파(약 10개월 만)
+
+- **수치/핵심 사실**: 토스의 미니앱 플랫폼 '앱인토스'는 2025년 7월 정식 출시(오픈 당시
+  100여 개 미니앱)되어, 2025년 9월 200개, 11월 400개, 2026년 2월 1,000개, 2026년 4월 9일
+  2,053개, 2026년 8월 7일 기준 약 4,000개를 돌파했다. 이 중 게임 앱이 약 800여 개로 콘텐츠
+  카테고리 중 높은 비중을 차지한다. 앱인토스는 HTML5 기반으로 별도 설치 없이 토스 앱
+  내에서 즉시 실행되는 미니앱/게임 플랫폼으로, 개발자에게 토스의 약 3,000만 사용자
+  기반에 대한 접근을 제공한다는 설명이 있다(이 '3,000만' 수치는 토스 전체 가입자 기반을
+  지칭하는 것으로 보이며, 앞서 기록된 토스 2025년 MAU 2,677만 명과는 다른 지표일 수 있음
+  — 혼동 주의).
+- **원문 발췌**: "토스 '앱인토스' 9개월 만에 미니앱 2천개 돌파…슈퍼앱 속도" / "지난해 7월
+  출시된 앱인토스는 오픈 당시 100여개의 미니앱으로 시작해 2026년 4월 9일 2천개를 넘어
+  2천53개를 기록했으며, 작년 9월 200개, 11월 400개로 늘었고 올해 2월 1천개를 넘어선 데
+  이어 이번에 2천개를 돌파했습니다." / "게임 퍼블리셔 변신한 토스…'앱인토스' 4000개 돌파"
+  / "As of August 7, 2026, the AppInToss mini-app platform has reached approximately 4,000
+  apps. This achievement was made about 10 months after launch... following the milestone
+  of 2,000 apps in April 2026... about 800 apps are games... AppInToss is an HTML5-based
+  mini-app and game platform that runs immediately within the Toss app without separate
+  installation... giving developers access to Toss's user base of 30 million users."
+- **출처명**: 아이보스 "토스 '앱인토스' 9개월 만에 미니앱 2천개 돌파…슈퍼앱 속도"; 다음뉴스
+  "토스 '앱인토스' 9개월만에 미니앱 2천개 돌파…슈퍼앱 되나"; 다음뉴스 "게임 퍼블리셔
+  변신한 토스…'앱인토스' 4000개 돌파"
+- **출처 URL**: https://www.i-boss.co.kr/ab-2877-17086 ;
+  https://v.daum.net/v/20260409063431165 ; https://v.daum.net/v/ZnYH6rIkrB?f=p
+- **기준 시점**: 2025년 7월(출시), 2026년 4월 9일(2,053개), 2026년 8월 7일(약 4,000개)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 별도 검색에서 "2024년 7월 정식 출시, 7개월 만에 1,000개 돌파, 누적 이용자
+  5,100만 명"이라는 상충되는 요약이 한 차례 나왔으나(이투데이 등 기사 제목 기반), 다수
+  출처가 일관되게 "2025년 7월 출시"를 가리키고 있고 월별 성장 곡선(9월 200개→11월
+  400개→2026년 2월 1,000개→4월 2,053개→8월 4,000개)이 논리적으로 일치하므로, 이 항목에서는
+  "2025년 7월 출시"를 채택했다. "5,100만 누적 이용자" 수치는 이번 조사에서 재확인하지
+  못했으므로 리포트에 사용하지 않는 것을 권장(확인 필요로 별도 처리 안 함, 단순 미채택).
+  전자신문(2025-08-08) 별도 보도에 따르면 당시(2025년 8월, 초기 단계) 앱인토스에 미니앱
+  114개가 연동돼 있었고 이 중 75%가 실제 매출을 발생시켰으며, 해외송금 핀테크 '모인'은
+  앱인토스 연동 후 신규가입자 약 40% 증가, 부동산 정보 플랫폼 '안전집사'는 전체 트래픽의
+  90%가 토스에서 유입됐다고 보도됨(출처: https://www.etnews.com/20250808000079, WebFetch
+  차단으로 검색결과 요약 기반).
+
+### 토스 '페이스페이(얼굴인식결제)' — 오프라인 리텐션 사례, 누적 등록 700만·재사용률 60%
+
+- **수치/핵심 사실**: 토스는 2025년 9월 안면인식 결제 서비스 '페이스페이'를 출시(2023년
+  3월 출시한 결제단말기 '토스 프론트'의 후속). 누적 가입자는 2026년 6월 9일 기준 600만
+  명(3개월 만에 2배 성장, "가입자 60%가 지속 이용")을 돌파했고, 이후 2026년 7~8월경
+  700만 명을 돌파(한 차례라도 결제한 이용자 중 약 60% 재사용). 2026년 7월 유통 포스
+  기업 투게더스와 제휴해 전국 중소형 마트 5,000곳에 도입 협약을 맺었고, 멕시카나
+  700여 개 매장에도 순차 도입 예정. 토스는 연말(2026년)까지 전국 30만 개 매장,
+  2026년까지 100만 개 매장으로 페이스페이를 확대한다는 목표를 제시(자료에 따라 확대
+  시점 표현이 "올해 말 30만개, 2026년까지 100만개"로 되어 있어 목표 시점 표기가 다소
+  불명확 — 원문 그대로 기록).
+- **원문 발췌**: "토스, 페이스페이 가입자 40만 돌파… 전국 확장으로 오프라인 혁신 가속" /
+  "토스 페이스페이 가입자 600만명 돌파···3개월 만에 두 배 성장" / "토스 페이스페이
+  가입자 600만명 돌파…'가입자 60%가 지속 이용'" / "최근 토스에 따르면 페이스페이 누적
+  등록자는 700만명을 돌파했으며, 한 차례라도 페이스페이로 결제한 이용자 가운데 약 60%가
+  다시 사용하는 것으로 나타났습니다." / "토스는 유통 포스(POS) 솔루션 기업 투게더스와
+  전국 중소형 마트 5000곳에 페이스페이를 제공하는 업무협약을 체결했습니다." / "토스
+  운영사 비바리퍼블리카는 멕시카나와 업무협약(MOU)을 체결하고 전국 700여 개 멕시카나
+  매장에 페이스페이를 순차 도입합니다." / "토스는 올해 말까지 전국 30만 개 매장, 2026년까지
+  100만 개 매장으로 페이스페이를 확대해 오프라인 결제의 새로운 표준을 만들겠다는
+  계획입니다."
+- **출처명**: ZDNet Korea "토스 페이스페이, 마트 5000곳에서…포스 기업과 제휴"; 파이낸셜뉴스
+  "토스 '얼굴결제' 전국 중소형 마트 5000곳으로 확대"; 아주경제 "토스 페이스페이 가입자
+  600만명 돌파…'가입자 60%가 지속 이용'"; 스마트비즈 "토스, 멕시카나 700여개 매장에
+  '얼굴 결제' 확대"; 뉴스프리존 "토스 페이스페이 가입자 600만명 돌파···3개월 만에 두 배
+  성장"
+- **출처 URL**: https://zdnet.co.kr/view/?no=20260727091823 ;
+  https://www.fnnews.com/news/202607270906432544 ;
+  https://www.ajunews.com/view/20260609083208373 ;
+  https://www.smartbizn.com/news/articleView.html?idxno=150071 ;
+  https://www.newsfreezone.co.kr/news/articleView.html?idxno=693578
+- **기준 시점**: 2026년 6월 9일(가입자 600만), 2026년 7월 27일(마트 5,000곳 협약), 2026년
+  7~8월경(누적 700만·재사용률 60%, 정확한 발표일 미특정)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: "재사용률 60%"는 그로스팀 관점에서 리텐션 KPI로 유의미한 벤치마크. 다만
+  발표 시점이 기사마다 약간씩 다르게 인용되어(600만 vs 700만) 두 시점을 병기함.
+
+### 네이버 '페이스사인' — 안면인식결제로 토스 페이스페이에 맞대응, 전용 단말기 '커넥트'로 7,500개 매장 공급
+
+- **수치/핵심 사실**: 네이버는 2024년 말 안면인식 결제 서비스 '페이스사인'을 선보였고,
+  2025년 11월 전용 단말기 '커넥트'를 출시해 페이스사인과 연동, 오프라인 결제 시장
+  확대에 나섰다. 파리바게뜨·던킨·배스킨라빈스·더벤티·이삭토스트 등 프랜차이즈를
+  중심으로 도입이 확대되고 있으며, 2026년 3월 리테일앤인사이트, 4월 파리바게뜨와 각각
+  제휴를 맺어 약 7,500개 매장에 '커넥트'를 공급하기로 했다. 안면 인식부터 결제 완료까지
+  걸리는 시간은 토스·네이버 양사 서비스 모두 1초 안팎.
+- **원문 발췌**: "토스와 네이버페이는 각각 '페이스페이'와 '페이스사인'을 앞세워 오프라인
+  결제 시장 공략에 나서고 있습니다... 얼굴 인식부터 결제 완료까지 걸리는 시간은 1초
+  안팎입니다." / "토스는 2023년 3월 결제 단말기 '토스 프론트'를 출시한 데 이어 지난해
+  9월 안면결제 서비스 '페이스페이'를 선보였습니다. 네이버는 2024년 말 안면결제 서비스인
+  페이스사인을 선보였고, 이후 지난해 11월 전용 단말기 '커넥트'를 출시하고 페이스사인을
+  연동하며 오프라인 결제 시장 확대에 나섰습니다." / "파리바게뜨를 비롯해 던킨,
+  배스킨라빈스, 더벤티, 이삭토스트 등 프랜차이즈 매장을 중심으로 커넥트 도입이 확대되고
+  있으며, 네이버는 지난 3월 리테일앤인사이트, 4월 파리바게뜨와 각각 제휴를 맺고 약 7500개
+  매장에 커넥트를 공급하기로 했습니다."
+- **출처명**: 뉴데일리경제 "'휴대폰도 안 꺼낸다' … 토스·네이버 '얼굴 결제' 경쟁 본격화";
+  전자신문 "네이버페이 '페이스사인' 시작…얼굴결제 경쟁 불붙는다"
+- **출처 URL**: https://biz.newdaily.co.kr/site/data/html/2026/06/15/2026061500126.amp.html ;
+  https://www.etnews.com/20251114000197
+- **기준 시점**: 2024년 말(페이스사인 출시), 2025년 11월(커넥트 단말기 출시), 2026년
+  3~4월(7,500개 매장 공급 제휴)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+
+### 카카오페이의 '정중동' 전략 — 안면인식결제 대신 기존 결제망 확장에 집중, 65만 가맹점·약 300만 결제처
+
+- **수치/핵심 사실**: 토스·네이버가 안면인식결제로 경쟁하는 것과 달리, 카카오페이는
+  아직 수익성이 검증되지 않은 안면인식결제 사업에 성급히 뛰어들지 않고 기존 결제망
+  확장에 주력하는 전략(기사 표현: "정중동 전략")을 취하고 있다고 2026년 7월 한국경제가
+  보도했다. 카카오페이는 오프라인에서 65만여 개 가맹점을 확보했고, 삼성페이·제로페이와
+  함께 약 300만 개의 결제처(결제 가능 지점)를 확보한 것으로 나타났다. 회사 관계자는
+  특정 기기·결제수단에 국한되지 않고 어디서든 카카오페이를 쓸 수 있는 환경을 만드는 데
+  집중한다고 설명. (참고: 얼굴인식결제를 도입한 오프라인 매장 비중은 2026년 7월 기준
+  15%를 넘어선 것으로 같은 기사군에서 보도됨.)
+- **원문 발췌**: "정중동 전략?…얼굴 안 내미는 카카오페이" / "네이버와 토스는 달리, 카카오는
+  안면인식 결제 사업을 시작하지 않고 있습니다. 아직 수익성이 검증되지 않은 시장에
+  성급하게 뛰어들기보다는 기존 결제망 확장에 힘을 쏟고 있는 것입니다." / "카카오페이는
+  안면인식 기술 대신 편리한 결제 서비스 제휴를 통한 영역 확장을 우선시하며, 삼성페이,
+  제로페이와 함께 약 3억 개의 결제 포인트를 확보했고, 65만 개 이상의 오프라인 가맹점을
+  두고 있습니다." (※ 원문 요약에 '3억 개의 결제 포인트'로 표기되었으나, 이는 '약 300만
+  개'의 오기/오역일 가능성이 있어 병기함 — 아래 비고 참고) / "토스와 네이버는 지난해
+  얼굴인식 결제 서비스를 시작한 이후 단말기 배치를 경쟁적으로 확대하고 있으며, 고객의
+  얼굴을 스캔해 결제를 처리할 수 있는 오프라인 매장의 비중은 15%를 넘어섰습니다."
+- **출처명**: 한국경제 "정중동 전략?…얼굴 안 내미는 카카오페이"
+- **출처 URL**: https://www.hankyung.com/article/2026071712191
+- **기준 시점**: 2026년 7월 17일 보도
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: WebFetch 차단으로 원문 전체를 열람하지 못해 WebSearch의 두 차례 요약을
+  종합했는데, 결제처 규모가 한 번은 "약 300만 개"로, 다른 한 번은 "약 3억 개의 결제
+  포인트"로 다르게 요약되어 나타났다(자릿수 100배 차이 — 명백한 요약 오류 가능성이
+  높음). 두 표현 모두 이번 조사에서는 확정하지 못했으므로, report-writer는 이 결제처
+  규모 수치를 리포트 본문에 직접 인용하지 말고 "삼성페이·제로페이와 결제망을 공동
+  활용하는 제휴 확장 전략"이라는 정성적 서술로만 사용할 것을 권장. 가맹점 65만 개는
+  앞서 시장현황 섹션의 "2026년 5월 Pay Talk 발표(기존 가맹점 65만 개 → 목표 100만
+  개)"와 일치해 신뢰도가 높음.
+
+### 카카오페이증권 vs 토스증권 — 커뮤니티 서비스 MAU 비교(카카오페이 130만 vs 토스 180만)
+
+- **수치/핵심 사실**: 카카오페이증권 커뮤니티 서비스 MAU는 2026년 2월 기준 130만 명(1년
+  만에 약 5배 성장, 앞서 시장현황 섹션에 기록)인 반면, 토스증권 커뮤니티 서비스는 MAU
+  180만 명을 돌파했으며 연초 대비 150% 성장했다고 보도됨(정확한 보도 시점은 검색결과에
+  명시되지 않았으나 기사 문맥상 2026년 상반기~중반으로 추정). 토스증권 커뮤니티는
+  엔비디아가 관심종목 1위이며 20대 이용자가 최다인 것으로 나타남.
+- **원문 발췌**: "토스증권 '커뮤니티 MAU 180만명 돌파' 엔비디아 관심 종목 1위…20대 최다
+  이용" (기사 제목) / "토스증권은 커뮤니티 서비스의 월간 활성 이용자 수(MAU)가 180만명을
+  돌파했으며, 연초 대비 150% 성장했습니다."
+- **출처명**: 스마트경제(SMEdaily) "토스증권 '커뮤니티 MAU 180만명 돌파' 엔비디아 관심
+  종목 1위…20대 최다 이용"
+- **출처 URL**: https://www.smedaily.co.kr/news/articleView.html?idxno=313267
+- **기준 시점**: 정확한 보도월 미확인(2026년 상반기~중반으로 추정) — report-writer는
+  카카오페이증권 수치(2026년 2월 130만)와 병기할 때 토스증권 수치의 정확한 기준월이
+  불명확함을 각주에 명시할 것
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 두 회사 모두 증권 커뮤니티(투자 정보 공유 커뮤니티) 서비스를 결제/뱅킹
+  트래픽에서 증권으로 전환시키는 크로스셀링 전략의 핵심 지표로 활용하고 있는 것으로
+  보이며, MAU 규모는 토스가 다소 앞서는 것으로 나타남(130만 vs 180만, 단 기준 시점이
+  정확히 일치하지 않아 직접 비교 시 주의 필요).
+
+### 토스 2025년 상반기 매출 1.2조 원 돌파 — 슈퍼앱 전략을 통한 락인효과·교차판매 시너지
+
+- **수치/핵심 사실**: 토스(비바리퍼블리카)는 2025년 상반기 연결 기준 영업수익(매출)
+  1조 2,355억 원을 기록해 상반기 기준 역대 최대 실적을 달성(전년 동기 9,141억 원 대비
+  35.2% 증가). 영업이익 1,546억 원, 당기순이익 1,057억 원. 컨슈머(송금·중개·광고·
+  간편결제·커머스·증권·세무·인증 등)와 머천트 양대 부문이 모두 성장했으며, 회사는 이를
+  "슈퍼앱 전략을 통한 두 부문의 시너지"로 설명. 컨슈머 서비스는 약 3,000만 명의 가입자
+  기반 위에서 운영됨.
+- **원문 발췌**: "\"슈퍼앱 전략 통했다\" 토스, 상반기 매출 1.2조 돌파..전년대비 35% 성장" /
+  "토스가 2025년 상반기 연결 기준 매출 1조2355억원을 달성하며 상반기 역대 최대 실적을
+  달성했습니다. 전년 동기(9141억원) 대비 35.2% 증가한 수치입니다. 영업이익은 1546억원,
+  당기순이익은 1057억원을 기록했습니다." / "토스의 '수퍼앱' 전략은 이용자에게는 하나의
+  앱에서 모든 금융 생활을 해결하는 편리함을, 회사에게는 이용자 락인(Lock-in) 효과와
+  서비스 간 교차 판매를 통한 수익 다변화라는 선순환 구조를 만들어낸 셈입니다." /
+  "컨슈머 서비스 부문에는 송금, 중개, 광고, 간편결제, 커머스, 증권, 세무, 인증 서비스
+  등이 포함되며, 약 3,000만 명의 가입자를 기반으로 합니다."
+- **출처명**: 아웃스탠딩 "'슈퍼앱 전략 통했다' 토스, 상반기 매출 1.2조 돌파..전년대비 35%
+  성장"; 토스피드(비바리퍼블리카 공식) "토스, 2025년 상반기 연결 기준 영업수익 1.2조 원
+  돌파… 전년 동기 대비 35% 성장"; 이코노믹데일리 "토스, 상반기 매출 1.2조-영업익
+  1546억... '수익 동반 성장' 본격화"
+- **출처 URL**: https://outstanding.kr/press/1419/20250818 ;
+  https://toss.im/tossfeed/article/251H ;
+  https://www.economidaily.com/view/20250814171328768
+- **기준 시점**: 2025년 상반기(2025년 8월 14~18일경 실적 발표)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 이는 카카오페이의 동일 시점 비교 대상이 아님(카카오페이는 2025년 2분기
+  ARPU/거래액만 기록되어 있고 상반기 누계 매출은 이 evidence 파일에 별도 기록되지 않음).
+  report-writer가 두 회사 매출 규모를 비교하려면 카카오페이의 2025년 상반기 누계 매출을
+  추가로 계산/확인해야 함(2025년 1·2분기 개별 매출은 기록되어 있으나 상반기 합산치는
+  미기록 — 필요시 재조사 권장).
+
+### 각 사 포인트/리워드 프로그램 비교 — 카카오페이 포인트 vs 네이버플러스 멤버십 vs 토스 행운퀴즈/포인트
+
+- **수치/핵심 사실**: (1) 카카오페이: 톡체크아웃 쇼핑 시 기본적립 1%, 카카오뱅크 계좌
+  충전결제 시 2% 쇼핑포인트 적립. 톡체크아웃 적립 포인트 유효기간은 적립일 기준 2년,
+  상품당 최대 적립 한도 20,000원. 여행/E쿠폰, 상품권, 금액권, 순금 등은 적립 제외. (2)
+  네이버플러스 멤버십: 월 결제금액 1~20만 원 구간은 5% 적립(기본 1%+멤버십 4%), 20만
+  원 초과 구간은 2% 적립(기본 1%+멤버십 1%). (3) 토스: 별도의 통합 "토스포인트" 적립
+  체계보다는 '행운퀴즈'(퀴즈 정답 시 즉시 지급, 1포인트=1원, 1인 1회 참여 제한)와 '오늘의
+  포인트 미션'(토스애즈 광고 참여형 오퍼월, 앱 실행·출석체크·특정 액션 달성에 따른
+  단계별 리워드) 등 광고/미션 기반 리워드가 주로 확인됨.
+- **원문 발췌**: "기본적립 1%가 제공되며, 톡체크아웃을 통해 쇼핑할 때 카카오페이포인트
+  적립 혜택을 받을 수 있습니다... 카카오뱅크 계좌로 충전결제하면 2% 쇼핑포인트를
+  적립해줍니다... 톡체크아웃에서 적립된 카카오페이 포인트의 유효기간은 적립일 기준으로
+  2년이며, 상품당 최대 적립 한도는 20,000원으로 제한됩니다." / "월 1~20만원: 5% 적립
+  (기본 1% + 멤버십 4%), 월 20만원 초과: 2% 적립 (기본 1% + 멤버십 1%)입니다." / "토스
+  앱에서 우측 하단의 메뉴를 통해 행운퀴즈를 검색하고 진입한 후, 제시된 퀴즈의 정답을
+  맞히면 현금처럼 쓸 수 있는 토스 포인트가 즉시 지급됩니다... 토스 포인트는 1포인트 = 1원의
+  가치로 현금처럼 사용할 수 있습니다." / "토스는 다단계 보상(multi-action rewards)을
+  통해 앱 실행, 1일 후 출석 체크, 특정 액션 달성에 따른 단계별 리워드를 제공하며, 이를
+  통해 리텐션을 확보하고 실사용자로 전환시킵니다."
+- **출처명**: 카카오페이 고객센터 FAQ(페이포인트); 뱅크샐러드 "2026 네이버 플러스 멤버십
+  가격 및 혜택"; infoconnect.kr "2026 최신 토스 행운퀴즈 참여 방법 총정리"; 토스애즈
+  광고주 가이드(GitBook) "오늘의 포인트 미션"
+- **출처 URL**: https://support.kakaopay.com/web/faq-list/CUSTOMER_CENTER_FAQ_BENEFITS?qna=CUSTOMER_CENTER_FAQ_PAYPOINT&device=m ;
+  https://www.banksalad.com/articles/%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%A9%A4%EB%B2%84%EC%8B%AD-%ED%8B%B0%EB%B9%99-%EB%A9%A4%EB%B2%84%EC%8B%AD%EB%8D%B0%EC%9D%B4-%EA%B0%80%EA%B2%A9-%EB%84%A4%EC%9D%B4%EB%B2%84%ED%8E%98%EC%9D%B4-%EB%A9%A4%EB%B2%84%EC%8B%AD ;
+  https://www.infoconnect.kr/2026/07/2026%20Latest%20How%20to%20participate%20in%20the%20Toss%20Lucky%20Quiz%20Where%20to%20enter%20and%20how%20to%20get%20points.html ;
+  https://toss-ads.gitbook.io/guide/a-d/weeklymission
+- **기준 시점**: 2026년 기준 각 사 공식 안내/고객센터 페이지(모두 2026-08-12 확인 시점의
+  게시 내용)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 세 회사의 리워드 프로그램은 성격이 다르다 — 카카오페이/네이버페이는 "결제
+  적립형 포인트"(쇼핑·구매 연동), 토스는 상대적으로 "참여형 미션/퀴즈 리워드"(습관적
+  재방문·체류시간 유도) 비중이 크게 확인됨. 다만 토스도 별도의 결제 적립 포인트 체계를
+  운영할 가능성이 있으나 이번 조사에서는 명확한 결제 연동 적립률 정보를 찾지 못했다 —
+  아래 "확인 필요" 항목 참고. 네이버플러스 멤버십의 2025~2026년 최신 가입자 수(전체
+  회원 규모)는 검색으로 확인하지 못함 — 2022년 6월 800만 명(당시 연내 1,000만 명 돌파
+  전망)이 확인된 가장 최근 수치이며 이는 4년 이상 지난 자료이므로 리포트에 인용 시
+  "2022년 기준, 이후 갱신 수치 미확인"으로 명시 필요.
+
+### 국내 3사 사용자 유입 채널 비교 — 카카오톡 연동 vs 네이버 검색 연동 vs 토스 습관적 사용
+
+- **수치/핵심 사실**: 오픈서베이 등 조사 기반 종합에 따르면, 네이버페이는 30~40대에서
+  특히 많이 사용되며 네이버 검색 연동을 통한 자연스러운 사용자 유입이 강점으로 꼽힘.
+  카카오페이는 간편한 결제 과정과 빠른 결제 속도, 카카오톡 연동을 통한 강력한 사용자
+  유입 채널이 강점으로 꼽히며, 보험·대출·주식·전자문서 등 복합 서비스 제공과 포인트
+  연계로 고객을 락인하는 전략을 취함. 토스페이는 습관적 사용 및 본인 인증의 간편함이
+  주요 이용 이유로 꼽힘.
+- **원문 발췌**: "네이버페이: 30~40대에서 특히 많이 사용되며, 포인트 적립·할인 혜택이
+  강점입니다. 네이버 검색 연동을 통한 자연스러운 사용자 유입이 가능합니다." / "카카오페이:
+  간편한 결제 과정과 빠른 결제 속도가 주요 이유로 꼽혔습니다. 보험, 대출, 주식, 전자
+  문서 등의 서비스를 복합 제공하며 사용자의 폭을 늘렸고, 다양한 금융분야에서 포인트를
+  쌓을 수 있도록 서비스를 연계해 고객을 락인했습니다. 카카오톡 연동을 통한 강력한 사용자
+  유입 채널을 보유하고 있습니다." / "토스페이: 습관적 사용 및 본인 인증의 간편함이 주요
+  이유로 꼽혔습니다."
+- **출처명**: WebSearch 종합 결과(오픈서베이 블로그 "간편결제 경쟁 - 네이버페이 vs.
+  카카오페이 vs. 토스페이" 및 관련 비교 기사 기반)
+- **출처 URL**: https://blog.opensurvey.co.kr/article/ds-payment-2025-2/ ;
+  https://blog.opensurvey.co.kr/article/payment-2026-2/
+- **기준 시점**: 오픈서베이 조사(정확한 시행월 미확인, 위 시장현황 섹션의 동일 출처
+  참고 — 2025년/2026년 조사)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 이 항목은 앞서 "시장현황" 섹션에 기록된 오픈서베이 점유율 수치와 동일
+  출처군에서 파생된 정성적 요약이며, 정량적 유입 채널 비중(예: "카카오톡을 통한 유입이
+  전체 신규가입의 몇 %"와 같은 구체 수치)은 검색으로 확인하지 못했다 — 아래 "확인 필요"
+  항목 참고. WebFetch 차단으로 오픈서베이 원문 블로그를 직접 열람하지 못해 표본 규모·
+  조사 방법론은 미확인.
+
+### 네이버플러스 스토어 MAU 875만 명(2026년 5월) — 네이버 커머스·페이 크로스셀링 성과 참고
+
+- **수치/핵심 사실**: 네이버의 별도 쇼핑 앱 '네이버플러스 스토어'의 2026년 5월 기준
+  월간활성이용자(MAU)는 875만 명으로 집계됨. 2025년 4월 출시 이후 멤버십 가입자가
+  383% 증가했다는 보도도 있음(한국경제, 2025년 4월).
+- **원문 발췌**: "2026년 5월 기준 네이버플러스 스토어의 월간 활성 이용자(MAU)는 875만명으로
+  집계되었습니다." / "네이버플러스 스토어 순항…멤버십 가입자 383% 증가" (기사 제목)
+- **출처명**: CEOSCOREDAILY "[그래픽] 네이버플러스스토어 앱 이용자 수 추이"; 한국경제
+  "네이버플러스 스토어 순항…멤버십 가입자 383% 증가"
+- **출처 URL**: https://www.ceoscoredaily.com/page/view/2025090410581516013 ;
+  https://www.hankyung.com/article/2025042441591
+- **기준 시점**: 2026년 5월(MAU 875만), 2025년 4월(멤버십 가입자 383% 증가 보도)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 이는 카카오페이 직접 경쟁 지표는 아니지만, 네이버 생태계가 검색·쇼핑
+  트래픽을 페이/멤버십으로 크로스셀링하는 사례로 참고할 만함. CEOSCOREDAILY 출처는
+  그래픽 기사로 원자료(모바일인덱스 등 앱분석기관) 인용 여부가 명확하지 않아, report-writer는
+  1차 출처(모바일인덱스 등)를 특정하지 못했다는 점을 각주에 밝힐 것을 권장.
+
+## 카카오페이 vs 토스 — 2025년 상반기 매출 직접 비교(카카오페이 상반기 누계) — 확인 필요
+
+- **상태**: 확인 필요 (출처 미확보)
+- **시도한 검색**: 이번 조사에서는 별도 검색을 수행하지 않음(토스 항목 조사 중 발견된
+  갭). 카카오페이의 2025년 1분기·2분기 개별 매출은 이 evidence 파일 시장현황 섹션에
+  기록되어 있으나(2분기 매출 2,383억 원 등), 상반기 누계 매출을 명시적으로 보도한 기사는
+  아직 확인하지 못했다.
+- **비고**: report-writer가 "토스 상반기 매출 1.2조 원 vs 카카오페이 상반기 매출"을
+  직접 비교하려면, 카카오페이 1분기+2분기 매출을 합산하거나(단순 합산은 회사 발표
+  누계치와 다를 수 있으므로 주의) 별도로 "카카오페이 2025년 상반기 누계 매출" 검색을
+  통해 공식 수치를 재확인할 것을 권장.
+
+## 토스포인트(결제 적립형) 정확한 적립률/프로그램 체계 — 확인 필요
+
+- **상태**: 확인 필요 (출처 미확보)
+- **시도한 검색**: "토스포인트 적립 사용처 만보기 행운퀴즈 2026", "토스포인트 리워드
+  프로그램 2026 리텐션 전략" 등.
+- **비고**: 검색 결과는 주로 '행운퀴즈'(퀴즈 정답 리워드)와 '토스애즈 오늘의 포인트
+  미션'(광고 참여형 오퍼월) 등 참여/미션형 리워드만 확인되었고, 카카오페이 포인트나
+  네이버플러스 멤버십처럼 "결제 금액의 몇 %를 적립"하는 형태의 통합 결제 적립 포인트
+  체계는 명확히 확인하지 못했다. 토스 공식 앱/고객센터 페이지(WebFetch 차단으로 직접
+  열람 불가)를 통한 재조사를 권장.
 
 ## 해외 시장 및 경쟁 동향
 
-(이번 조사 스코프에는 포함되지 않음 — "시장현황"과 "규제 변화"만 조사함. 별도 요청 시
-market-researcher가 추가 조사 예정)
+### 위챗/웨이신(WeChat/Weixin) — 결합 MAU 14.32억 명(2026년 1분기), 미니프로그램 MAU 9.54억 명
+
+- **수치/핵심 사실**: 텐센트(Tencent) 2026년 1분기(2026년 3월 31일 기준) 실적발표에
+  따르면 Weixin과 WeChat의 결합 월간활성이용자수(MAU)는 14억 3,200만 명으로 전년 동기
+  대비 2%, 전분기 대비 1% 증가. 같은 분기 텐센트 전체 매출은 전년 동기 대비 9% 증가한
+  1,965억 위안(스프링페스티벌 시점 조정 기준으로는 11% 증가), Non-IFRS 순이익은 전년
+  동기 대비 11% 증가한 680억 위안. 별도 통계 사이트 집계에 따르면 위챗 미니프로그램
+  (Mini Programs)의 MAU는 9억 5,400만 명, 미니프로그램 수는 430만 개, 미니샵(Mini Shop)
+  매출은 전년 대비 170% 성장한 것으로 나타남(2025~2026년 기준, 정확한 집계 시점은
+  자료마다 상이).
+- **원문 발췌**: "The combined MAU of Weixin and WeChat reached 1,432 million as of March
+  31, 2026, representing a 2% year-on-year increase and 1% quarter-on-quarter growth." /
+  "Tencent delivered Q1 2026 revenue of RMB 196.5 billion, up 9% year-on-year (11%
+  year-on-year normalized for Spring Festival timing), with non-IFRS net profit up 11%
+  year-on-year to RMB 68 billion." / "Mini Programs have 954 million monthly active
+  users, 4.3 million programs, and 170% year-over-year Mini Shop sales growth."
+- **출처명**: Tencent 공식 보도자료(PR Newswire/Tencent) "TENCENT ANNOUNCES 2026 FIRST
+  QUARTER RESULTS"; WebSearch 종합 결과(coinlaw.io, demandsage.com 등 미니프로그램
+  통계 사이트 기반)
+- **출처 URL**: https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-first-quarter-results-302770779.html ;
+  https://static.www.tencent.com/uploads/2026/05/13/47382ae415a209fd161bc19a1f9b3704.pdf ;
+  https://coinlaw.io/wechat-statistics/
+- **기준 시점**: 2026년 1분기(2026년 3월 31일 기준 MAU, 2026년 5월 13일 발표)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 텐센트 2026년 2분기(2026년 6월 30일 기준) 실적은 2026년 8월 12일(오늘)
+  홍콩 증시 마감 후 발표 예정/발표 중인 것으로 검색되었으나, 이번 조사 시점에는 Weixin/
+  WeChat 결합 MAU의 2분기 수치가 검색 결과에 아직 반영되지 않아 확인하지 못했다. 따라서
+  이 항목은 "확인 시점 기준 가장 최신 공식 자료"인 2026년 1분기 수치를 채택했다. 미니
+  프로그램 관련 수치(9.54억 MAU, 430만 개, 170% 매출성장)는 통계 전문 블로그(coinlaw.io
+  등) 요약 기반으로, 텐센트 1차 공시자료에서 직접 확인하지 못했으므로 재인용 가능성을
+  감안할 것.
+
+### 위챗 2026년 AI 에이전트 전략 — "소셜 진입점"에서 "지능형 태스크 센터"로 전환
+
+- **수치/핵심 사실**: 텐센트 위챗은 2026년 초 수년 내 최대 규모의 플랫폼 업데이트를
+  단행하며 AI 통합과 미니프로그램 기능 강화로 전략을 전환. AI 에이전트를 통해 사용자가
+  자연어 명령으로 앱 간 서비스를 실행할 수 있도록 하는 것을 목표로 하며, 2026년 중반부터
+  단계적 테스트를 시작할 예정. 이는 위챗의 14억 명 규모 MAU와 성숙한 미니프로그램
+  생태계를 활용한 텐센트의 AI 경쟁 대응 전략으로 평가됨.
+- **원문 발췌**: "In the opening months of 2026, Tencent's WeChat unveiled its most
+  substantial platform updates in years, signaling a strategic pivot toward artificial
+  intelligence integration and enhanced mini-program capabilities. The project aims to
+  transform WeChat from a 'social entry point' to an 'intelligent task center' where
+  users can execute cross-application services through natural language commands.
+  Scheduled for phased testing beginning mid-2026, the AI agent represents Tencent's
+  most significant countermove in the AI application race, leveraging WeChat's 1.4
+  billion monthly active users and mature mini-program ecosystem."
+- **출처명**: super-apps.ai 블로그 "WeChat Develops AI Agent to Integrate with Millions
+  of Mini Programs, Testing Begins Mid-2026"; super-apps.ai 블로그 "WeChat 2026 Updates:
+  AI Integration and Homepage Redesign Reshape Mini-Program Landscape"
+- **출처 URL**: https://super-apps.ai/blog/wechat-develops-ai-agent-to-integrate-with-millions-of-mini-programs-testing-begins-mid-2026/ ;
+  https://super-apps.ai/blog/wechat-2026-updates-ai-integration-and-homepage-redesign-reshape-mini-program-landscape/
+- **기준 시점**: 2026년 초~중반(발표/업데이트 시점), 테스트 시작 2026년 중반 예정
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 이는 텐센트 1차 공시가 아닌 업계 분석 블로그 기반 요약이므로, report-writer는
+  "업계 보도에 따르면"으로 출처 성격을 명확히 밝힐 것. 카카오페이의 '페이아이' AI
+  개인화 전략(시장현황 섹션 기록)과 비교되는 해외 슈퍼앱의 AI 에이전트화 사례로 활용
+  가능.
+
+### Cash App(Block Inc.) 2026년 2분기 실적 — 월간거래활성이용자(MTA) 5,900만 명(+3%), 프라이머리뱅킹 활성이용자(PBA) 940만 명(+17%)
+
+- **수치/핵심 사실**: 미국 핀테크 Block Inc.(구 Square)의 Cash App 2026년 2분기(6월
+  기준) 실적: 월간거래활성이용자(Monthly Transacting Actives) 5,900만 명(전년 동기 대비
+  3% 증가). Cash App Card를 활용한 급여 직접입금 등 "주거래 뱅킹" 이용자(Primary Banking
+  Actives, PBA)는 940만 명으로 전년 동기 대비 17% 증가. 활성이용자 1인당 유입액(inflows
+  per transacting active)은 9.2% 증가한 1,469달러. Cash App 커머스 거래액은 17% 증가한
+  565억 달러, 소비자 대출(consumer-lending) 취급액은 59% 증가한 189억 달러. Cash App
+  총이익(gross profit)은 31% 증가한 19억 7,000만 달러. 회사는 2026년 연간 활성이용자
+  성장률을 "한 자릿수 초반(low single-digit)"으로 계속 예상한다고 밝힘.
+- **원문 발췌**: "Cash App monthly transacting actives reached 59 million in June,
+  representing 3% year-over-year growth." / "Cash App Primary Banking Actives (PBAs)
+  grew 17% to 9.4 million" / "Inflows per transacting active rose 9.2% to $1,469" /
+  "Cash App commerce volume rose 17% to $56.5 billion, and consumer-lending originations
+  increased 59% to $18.9 billion" / "Cash App gross profit rose 31% to $1.97 billion" /
+  "management noted that they continue to expect low single-digit actives growth in
+  2026 as they execute on their network growth strategies."
+- **출처명**: WebSearch 종합 결과(Block Q2 2026 실적발표 관련 다수 보도 — Benzinga
+  "Block Q2 Earnings Beat Estimates as CashApp, Square Volumes Grow", GuruFocus "Block
+  Inc (XYZ) (Q2 2026) Earnings Call Highlights" 등 기반)
+- **출처 URL**: https://www.benzinga.com/markets/earnings/26/08/60976961/block-q2-earnings-beat-estimates-as-cashapp-square-volumes-grow ;
+  https://www.gurufocus.com/news/9009562/block-inc-xyz-q2-2026-earnings-call-highlights-record-profitability-and-raised-guidance-signal-strong-momentum
+- **기준 시점**: 2026년 2분기(2026년 6월 30일 기준, 2026년 8월 5일경 실적발표)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: WebFetch 차단으로 pymnts.com, Block 공식 IR 페이지 등 1차 자료를 직접 열람하지
+  못해 금융 뉴스 매체의 WebSearch 요약을 근거로 기록. 아래 항목(2025년 4분기 PBA 930만,
+  +22%)과 시점이 다르므로 병기 시 반드시 각 시점 표기.
+
+### Cash App '주거래 뱅킹(Primary Banking)' 전환 전략 — 2025년 4분기 PBA 930만 명(+22%), "원스톱 금융앱" 지향
+
+- **수치/핵심 사실**: Block Inc.의 2025년 4분기(2025년 12월 기준) 실적발표에 따르면
+  Primary Banking Actives(PBA, 급여 등을 Cash App으로 직접 입금하는 등 주거래 계좌로
+  사용하는 이용자)는 전년 동기 대비 22% 증가한 930만 명(월간 기준)을 기록했으며, 이
+  이용자군은 단순 개인간송금(P2P)만 이용하는 활성이용자 대비 거의 10배의 총이익을
+  창출하는 것으로 나타남. Cash App은 연소득 15만 달러 이하 가구를 주 타깃으로, "5~6개의
+  금융 앱 대신 하나의 앱만 있으면 된다"는 논리로 '원스톱 금융 서비스 앱' 전환을
+  추진 중이며, 이 전략의 성패는 이용자가 급여를 Cash App으로 직접 입금하도록 설득하는
+  데 달려 있음. 2025년 4분기 기준 전체 활성이용자 5,700만 명 중 급여 일부라도 Cash
+  App으로 이체하는 이용자는 200만 명에 불과한 것으로 나타남(전환 초기 단계).
+- **원문 발췌**: "Primary banking actives grew 22% year-over-year to $9.3 million monthly
+  actives in December, with these customers generating nearly 10 times the gross profit
+  of peer-to-peer only actives." / "Cash App is primarily targeting households that make
+  $150K or less each year to treat the app as a 'one stop shop' for all of their
+  financial service needs, with the argument that users just need one app rather than
+  five or six financial service apps." / "The success of this plan largely hinges on
+  Cash App's ability to convince users to directly deposit their paychecks onto the app,
+  with currently only 2 million out of 57 million active users transferring even some of
+  their paycheck to Cash App."
+- **출처명**: PYMNTS.com "Block Slashes Staff as Primary Banking Actives Jump 22% to
+  9.3M"; The Harris Poll "Cash App Aims to Become Users' Primary Bank"
+- **출처 URL**: https://www.pymnts.com/earnings/2026/block-slashes-staff-and-eyes-ai-as-primary-banking-actives-jump-22-to-9-3m ;
+  https://theharrispoll.com/articles/cash-app-looks-beyond-p2p-payments-and-strives-to-become-users-primary-bank/
+- **기준 시점**: 2025년 4분기(2025년 12월 기준, 2026년 2월경 실적발표로 추정)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 위 2026년 2분기 항목(PBA 940만, +17%)과 비교하면 PBA 성장률이 22%(2025년
+  12월)에서 17%(2026년 6월)로 둔화된 것으로 보이나, 두 수치의 출처가 다른 매체이고
+  집계 방식(월간 시점 스냅샷)이 동일한지 완전히 검증되지 않았으므로 report-writer는
+  "성장률 둔화 추세"를 단정하기보다 "두 시점 모두 두 자릿수 성장을 유지"로 보수적으로
+  서술할 것을 권장. "One stop shop"(원스톱 뱅킹) 전략은 카카오페이의 크로스셀링
+  전략(연금·ISA·펀드 등 금융상품 포트폴리오 지원, 시장현황 섹션 기록)과 비교 가능한
+  해외 사례로 활용 가치가 높음.
+
+### Revolut 2025년 연간 실적 — 고객 6,830만 명(+30%), 매출 60억 달러(+46%), 순이익 23억 달러(+57%), 11개 사업라인이 각각 1억 3,500만 달러 이상 매출 창출
+
+- **수치/핵심 사실**: 영국 핀테크 Revolut의 2025년 연간 실적(2026년 3월 발표): 소매
+  고객(retail customers) 6,830만 명(전년 대비 30% 증가), 법인 고객(business customers)
+  76만 7,000명(33% 증가). 세전이익(profit before tax) 23억 달러(전년 대비 57% 증가),
+  매출 60억 달러(46% 증가). 총 예치잔액(total balances) 675억 달러(66% 증가), 거래액
+  1.7조 달러. 카드결제·구독료·환전·자산관리(wealth) 상품 등이 고르게 매출에 기여했으며,
+  11개 사업 라인이 각각 1억 3,500만 달러 이상의 매출을 창출. Revolut을 "주거래 은행
+  (primary bank)"으로 선택하는 고객이 전년 대비 45% 증가. 17일마다 신규 고객 100만 명이
+  추가되고 있으며, 2027년 중반까지 고객 1억 명 달성을 목표로 함.
+- **원문 발췌**: "Revolut's retail customer base grew by 30% to 68.3 million, while
+  business customers increased 33% to 767K. The company is adding 1 million new
+  customers every 17 days and is on track to reach 100 million customers by mid-2027." /
+  "Revolut's profit before tax rose 57% year over year to $2.3 billion, while revenue
+  climbed 46% to $6 billion. Total balances increased 66% to $67.5 billion and
+  transaction volume reached $1.7 trillion." / "Card payments, subscriptions, foreign
+  exchange and wealth products each contributed meaningful income, with eleven business
+  lines generating more than $135 million each. There was a 45% year-on-year increase of
+  people choosing Revolut as their primary bank."
+- **출처명**: Revolut 공식 보도자료 "Revolut reports record profit of $2.3bn for 2025 as
+  revenue surges to $6bn"; CoinDesk "Crypto-friendly fintech Revolut sees profit soar 57%
+  to $2.3 billion in 2025"; insights4vc "Revolut: $6B Revenue, 70M Customers, and Banking
+  at Scale"
+- **출처 URL**: https://www.revolut.com/en-US/news/revolut_reports_record_profit_of_2_3bn_for_2025_as_revenue_surges_to_6bn/ ;
+  https://www.coindesk.com/business/2026/03/24/crypto-friendly-fintech-revolut-sees-profit-soar-57-to-usd2-3-billion-in-2025 ;
+  https://insights4vc.substack.com/p/revolut-6b-revenue-70m-customers
+- **기준 시점**: 2025년 연간(2026년 3월 24일경 발표)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: WebFetch 차단으로 Revolut 공식 애뉴얼리포트 PDF(assets.revolut.com/pdf/annualreport2025.pdf)
+  원문을 직접 열람하지 못함. 크립토(가상자산) 매출은 2025년 애뉴얼리포트에서 별도
+  항목으로 구분 공시되지 않은 것으로 보이며(구독료·카드수수료·환전수수료·대출이자
+  등이 각각 6억 달러 이상인 것과 대비), 이는 크립토가 여전히 참여 유도(리텐션) 도구로서의
+  역할이 매출 기여도보다 크다는 것을 시사 — report-writer는 이 뉘앙스를 리포트에
+  반영할 것을 권장.
+
+### Revolut 슈퍼앱 크로스셀링 메커니즘 — 상황 인지형(Context-aware) 기능 노출로 리텐션·교차판매 강화
+
+- **수치/핵심 사실**: Revolut의 슈퍼앱 전략은 일상 지출, 저축, 주식 투자, 여행 등
+  다양한 목적으로 앱을 사용하는 고객이 이탈할 이유가 줄어들게 만들어 리텐션과 1인당
+  매출(ARPU)을 높이는 구조로 설명됨. 예컨대 여행 전에는 환전 기능을, 급여일 이후에는
+  주식 투자 기능을 맥락에 맞게 노출시키는 방식으로 기능 체험(trial)을 늘리고 리텐션·
+  교차판매를 강화. 크립토 기능은 "여러 금융 활동을 한 앱에서 하게 만드는" 락인 도구이자
+  리드 제너레이션/리텐션 도구로 기능하며, Revolut은 MiCA(유럽 가상자산시장 규제) 하
+  CySEC CASP 라이선스를 확보해 유럽경제지역(EEA) 전역 소매 투자자에게 크립토 서비스를
+  제공하는 "원스톱 디지털자산 애그리게이터"로 자리매김하려는 전략을 취하고 있음.
+- **원문 발췌**: "Revolut's super-app strategy creates powerful cross-sell dynamics, with
+  customers who use Revolut for daily spending, savings, stock trading, and travel
+  having far more reasons to stay, driving higher average revenue per user and stronger
+  retention as customers adopt additional products over time." / "Customers discover new
+  modules in context, such as currency exchange before travel or stock trading after
+  payday, with this context-aware surfacing increasing feature trials and strengthening
+  retention and cross-sell." / "Crypto enhances Revolut's stickiness—users engaging in
+  multiple financial activities in one app—and serves as a lead-generation/retention
+  tool. Revolut is positioning its crypto capabilities as a regulated distribution layer
+  by securing a CySEC CASP license under MiCA, enabling it to offer crypto services to
+  all EEA retail investors and potentially becoming a one-stop digital-asset
+  aggregator."
+- **출처명**: Latterly.org "Revolut Marketing Strategy: Premium Tiers, Referral Loops,
+  and Super App"; TSG Invest "Revolut Stock: $75B Valuation — Is It a Buy?"
+- **출처 URL**: https://www.latterly.org/revolut-marketing-strategy/ ;
+  https://tsginvest.com/revolut/
+- **기준 시점**: 정확한 게시 시점 미확인(2025~2026년 사이로 추정, 위 2025년 연간 실적
+  자료와 함께 인용된 것으로 보임)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 이는 1차 공시자료가 아닌 마케팅/투자분석 블로그의 정성적 분석이므로,
+  report-writer는 "업계 분석에 따르면"으로 출처 성격을 명확히 표기할 것. 카카오페이의
+  '페이아이' 초개인화 추천(마이데이터 기반 소비 리포트) 전략과 개념적으로 유사한
+  "맥락 기반 크로스셀링" 사례로 비교 가능.
+
+## 네이버페이 공식 MAU 및 네이버페이 vs 카카오페이 vs 토스 동일시점 비교 — 확인 필요 (재확인 시도)
+
+- **상태**: 확인 필요 (출처 미확보) — 앞서 시장현황 섹션에 기록된 동일 항목의 연장선
+- **시도한 검색**: "네이버페이 MAU 2026 사용자 수", "네이버페이 송금 결제 앱 이용자 수
+  3위 청년일보" 등.
+- **비고**: 2024년 7월 기준(SBS Biz 보도, 모바일인덱스 데이터 인용) 네이버페이가
+  경기지역화폐·NHN페이코를 제치고 송금·결제 앱 부문 3위(삼성월렛·카카오페이 다음)에
+  올랐다는 보도는 확인했으나, 이는 2024년 7월 기준으로 이미 12개월을 초과한 자료이며
+  2026년 최신 MAU 절대치는 확인하지 못했다. WebFetch 차단으로 biz.sbs.co.kr, 모바일
+  인덱스(mobileindex.com), 와이즈앱(wiseapp.co.kr) 원문을 열람하지 못한 것이 근본
+  원인 — 향후 WebFetch 접근이 가능한 환경에서 재조사 권장.
