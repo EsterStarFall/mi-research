@@ -214,8 +214,149 @@
 
 ## 경쟁 동향
 
-(아직 근거 없음 — 이번 조사 범위(시장현황/규제변화)에 포함되지 않음. 별도 조사 필요)
+### 마이데이터 가입자 수 순위 — 카카오페이·토스·네이버페이 비교 (시점 상이, 2023년 9월 vs. 2025년 4월)
+
+- **수치/핵심 사실**: 2023년 9월 말 기준 마이데이터 가입자(동의 기준) 수는 토스 1,485만 5,750명(1위), 카카오페이 1,029만 9,088명(2위), 네이버페이 922만 8,737명(3위) 순. 실제 자산 등록자 수 기준으로도 토스 977만 7,527명, 카카오페이 481만 830명, 네이버페이 454만 25명 순으로 토스가 1위. 이후 카카오페이는 2025년 4월 14일 "국내 최초로 마이데이터 가입자 2,000만 명을 돌파했다"고 발표(마이데이터 사업 개시 약 3년여 만). 같은 시점(2025년 4월) 기준 토스·네이버페이의 정확한 가입자 수는 확인하지 못함.
+- **원문 발췌**: "2023년 9월 말 기준 마이데이터 가입자 수는 토스(1천485만5천750명), 카카오페이(1천29만9천88명), 네이버페이(922만8천737명) 순이었다." / "마이데이터 이용 동의 이후 실제 본인의 은행계좌 등을 지정한 실 자산 등록자 수 역시 토스(977만7천527명), 카카오페이(481만830명), 네이버페이(454만25명) 순이었다." (조세일보, 2023년 기사, WebSearch 요약) / "카카오페이가 국내 최초로 마이데이터 가입자 2000만 명을 돌파했다고 4월 14일 밝혔다. 이는 카카오페이가 마이데이터 사업을 시작한 지 3년여 만에 빠른 속도로 이뤄낸 성과로, 대한민국 생산가능인구에서 만 19세~64세의 5명 중 3명 정도가 카카오페이 자산관리 서비스를 이용하고 있다는 의미다." (디지털데일리 등 다수 매체, 2025-04-14, WebSearch 요약)
+- **출처명**: 조세일보 "출범 2년 마이데이터, 가입자 1위는 토스...카카오·네이버페이 순"; 디지털데일리 "카카오페이, 마이데이터 가입자 2000만명 돌파… '개인 금융의 질' 어떻게 달라졌을까"; 전자신문 "카카오페이, 국내 최초 마이데이터 가입자 2000만명 돌파"; 머니투데이, 녹색경제신문, 더리포트, 일간스포츠 등 동일 보도자료 인용 다수
+- **출처 URL**: https://m.joseilbo.com/news/view.htm?newsid=501020 , https://m.ddaily.co.kr/page/view/2025041409295115039 , https://www.etnews.com/20250414000034 , https://news.mt.co.kr/mtview.php?no=2025041409215294531 , https://www.greened.kr/news/articleView.html?idxno=325529
+- **기준 시점**: 토스·카카오페이·네이버페이 비교 수치는 2023년 9월 말 기준(약 3년 전 자료로 현재와 시차가 큼). 카카오페이 2,000만 명 돌파는 2025년 4월 14일 기준(발표 시점)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: **두 수치를 나란히 비교하면 안 됨에 유의** — 2023년 9월 자료(토스 1위)와 2025년 4월 자료(카카오페이 2,000만 돌파, "국내 최초"라는 표현)는 약 1년 7개월 시차가 있어 현재 시점(2026-08) 기준 순위를 나타내지 않는다. 카카오페이의 "국내 최초 2,000만 돌파"라는 표현 자체는 토스가 2025년 4월 시점에 아직 2,000만 명에 도달하지 못했음을 시사하나, 토스의 2025~2026년 시점 정확한 가입자 수는 검색으로 확인하지 못해 "확인 필요"로 남김(아래 별도 항목 참고). report-writer는 "2023년 9월 시점엔 토스가 1위였으나 2025년 4월 카카오페이가 국내 최초로 2천만 돌파를 발표했다"는 식으로 각 시점을 명시해 서술할 것.
+
+### 토스·네이버페이 2025~2026년 시점 마이데이터 가입자 수 — 확인 필요
+
+- **상태**: 확인 필요 (출처 미확보)
+- **시도한 검색**: "토스 마이데이터 가입자 수 2025년 몇 명", "마이데이터 가입자 수 순위 카카오페이 네이버페이 토스 뱅크샐러드 2025" 등. 검색 결과 대부분이 2023년 9월 통계로 회귀되며, 2025~2026년 시점 토스·네이버페이의 공식 마이데이터 가입자 수 발표 기사를 찾지 못함(네이버페이는 2024년 4월 "마이데이터 MAU 1000만 속도"라는 별도 지표만 확인 — 가입자 수와는 다른 지표).
+- **비고**: 위 카카오페이 2,000만 돌파(2025-04) 수치와 비교 가능한 동시점 경쟁사 수치가 없어 "카카오페이가 업계 1위"라고 단정할 근거는 부족함 — 리포트에서는 "카카오페이가 자체적으로 국내 최초 2천만 돌파를 발표"까지만 기술하고 경쟁사 대비 순위 단정은 피할 것.
+
+### 카카오페이 마이데이터 활용 서비스 실적 — 신용점수 개선·대출 갈아타기 (2025년 4월 발표 기준)
+
+- **수치/핵심 사실**: 카카오페이는 마이데이터 기반 '신용점수 올리기' 서비스를 통해 최근 2년간(2023년 4월~2025년 4월 추정) 약 210만 명의 신용점수를 평균 21점 상승시켰다고 발표. 마이데이터 활용 '대출 갈아타기' 서비스는 같은 기간 약 2만 명의 사용자가 총 1조 1,340억 원 규모의 대출 금리를 평균 1.52%p 낮췄으며, 사용자별 연간 평균 90만 원, 연간 총 172억 원의 이자를 절감했다고 발표.
+- **원문 발췌**: "카카오페이는 '신용점수 올리기' 서비스를 통해 최근 2년 간 약 210만명의 신용점수를 평균 21점 상승시키는 효과를 거뒀습니다. 또한 마이데이터를 활용한 '대출 갈아타기' 서비스는 지난 2년간 약 2만명의 사용자가 총 1조 1340억원 규모의 대출 금리를 평균 1.52%p 낮춰, 사용자별 연간 평균 90만원, 연간 총 172억원의 이자를 절감했습니다." (WebSearch 요약, 원 출처: 디지털데일리 등 2025-04-14 카카오페이 보도자료 기반 기사)
+- **출처명**: 디지털데일리 "카카오페이, 마이데이터 가입자 2000만명 돌파… '개인 금융의 질' 어떻게 달라졌을까"(2025-04-14); 더빅데이터, 녹색경제신문, 일간스포츠 등 동일 보도자료 인용
+- **출처 URL**: https://m.ddaily.co.kr/page/view/2025041409295115039 , https://www.thebigdata.co.kr/view.php?ud=20250414093945311562abca1943_23 , https://www.greened.kr/news/articleView.html?idxno=325529
+- **기준 시점**: 2025년 4월 14일 발표(수치 자체는 "최근 2년간" 누적치, 즉 대략 2023년 4월~2025년 4월 추정)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 이 수치는 카카오페이 자체 보도자료 기반으로, 회사 발표 수치임을 리포트에 명시할 것(제3자 검증 수치 아님). 경쟁사(토스·네이버페이)의 동일 유형 서비스(신용점수 개선, 대출 갈아타기) 실적 수치는 검색으로 확인하지 못함 — 직접 비교는 불가.
+
+### 카카오페이 스코어 — KCB 공동 개발, 주택금융공사 전세대출보증 적용 (2026년 3월 보도, 시장현황 섹션과 연계)
+
+- **수치/핵심 사실**: (시장현황 섹션의 "카카오페이 마이데이터·신용평가(CB) 관련 데이터 사업 현황" 항목과 동일 사실이나, 경쟁 동향 관점에서 재기록) 카카오페이는 KCB(코리아크레딧뷰로)와 공동 개발한 대안신용평가모형 '카카오페이 스코어'를 개발해 한국주택금융공사 전세대출보증 프로세스에 적용. 마이데이터·결제·송금·투자·보험 등 금융·비금융 데이터를 KCB의 기존 신용평가 모델과 결합해 산출하는 방식으로, 이는 카카오페이가 신용평가업 라이선스를 직접 보유하지 않고도 기존 CB사(KCB)와의 제휴를 통해 데이터 사업을 전개하는 방식을 보여줌 — 아래 네이버페이(NICE평가정보 제휴)·토스(한국평가데이터 제휴) 사례와 동일한 '빅테크-CB사 협업' 구조.
+- **원문 발췌**: "카카오페이는 코리아크레딧뷰로(KCB)와 협력해 '카카오페이 스코어'를 출시했으며, 마이데이터와 결제·송금·투자·보험 등에서 발생하는 금융·비금융 데이터를 KCB의 기존 신용평가 모델과 결합해 산출합니다." (WebSearch 요약, 블로터 등 대안신용평가 비교 기사)
+- **출처명**: 블로터(bloter.net) "토스가 쏘아 올린 대안신용평가, 저축은행 심사까지 바꿨다" 등 빅테크 대안신용평가 비교 기사; 전자신문 "[디지털혁신 블루칩]카카오페이 2200만 마이데이터…신용평가 다시 쓴다"(2026-03)
+- **출처 URL**: https://v.daum.net/v/BOSQwuMVrb , https://www.bloter.net/news/articleView.html?idxno=656225 , https://www.etnews.com/20260312000315
+- **기준 시점**: 2026년 3월 보도 기준(카카오페이 스코어 관련), 비교 기사 시점 확인 필요(대략 2025~2026년)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 시장현황 섹션 항목과 중복 소지가 있으므로 report-writer는 시장현황에는 카카오페이 단독 서술, 경쟁동향에는 경쟁사 비교 맥락으로 배치 권장.
+
+### 네이버페이 스코어 — NICE평가정보 공동 개발, 케이뱅크·SBI저축은행·사잇돌대출 적용 (2024년 3월 출시, 2025년 8월 확대)
+
+- **수치/핵심 사실**: 네이버페이는 NICE평가정보와 공동으로 대안신용평가모형 '네이버페이(Npay) 스코어'를 개발(2024년 3월 발표). 기존 신용정보(CB)와 약 7,300만 건의 가명결합데이터, AI 머신러닝 기반 빅데이터 처리기술을 활용해 개발. 케이뱅크·SBI저축은행 개인 신용대출 상품에 우선 적용되었으며(2024년 3월 기준), 이후 2025년 8월 6~7일부터는 SGI서울보증의 정책금융 상품인 '사잇돌 대출' 심사에도 비금융정보 기반으로 적용 확대 — 이는 정부 지원 정책금융 상품에 대안신용평가모형이 적용된 최초 사례로 보도됨. 사용 방식은 사용자가 네이버페이에서 신용대출을 조회하면 케이뱅크·SBI저축은행이 NICE평가정보로부터 '네이버페이 스코어' 정보를 받아 최종 심사에 반영하는 구조이며, 대출 신청자에게 유리한 방향으로만(포지티브) 활용됨.
+- **원문 발췌**: "네이버페이가 비금융데이터를 신용평가에 활용해 더 나은 조건의 대출 기회를 확대하는 대안신용평가모형 '네이버페이 스코어'를 NICE평가정보와 개발하고, 이를 케이뱅크, SBI저축은행과 함께 개인 신용대출 상품에 적용하기 시작했다." (전자신문, 2024-03-21) / "SGI서울보증은 2025년 8월 7일부터 중·저신용자 신용대출 상품인 '사잇돌 대출' 심사에 비금융정보 기반 'Npay 스코어(네이버페이 스코어)'를 적용한다. ... 이번 도입은 정부가 지원하는 정책금융 상품에 대안신용평가모형을 적용하는 최초 사례이며, Npay 스코어는 사잇돌대출 신청자의 신용평가에 긍정적인 방향으로만 활용되어 기존보다 더 많은 대출 신청자에 대한 금융 접근성 제고에 기여할 예정이다." (이코노미톡뉴스 등 다수 매체, 2025-08-06/07, WebSearch 요약)
+- **출처명**: 전자신문 "네이버페이, 대안신용평가모형 '네이버페이 스코어' 개발…케이뱅크·SBI저축은행 도입"(2024-03-21); 이코노미톡뉴스 "SGI서울보증, 사잇돌 대출에 'Npay 스코어' 도입…비금융정보 활용해 금융 포용 확대"(2025-08-06); 메트로서울, 천지일보, 보험저널, 조세금융신문, 서울경제, 중앙이코노미뉴스, 핀테크경제신문, 서울타임즈뉴스 등 동일 보도자료 인용 다수
+- **출처 URL**: https://www.etnews.com/20240321000041 , http://www.economytalk.kr/news/articleView.html?idxno=410559 , https://www.metroseoul.co.kr/article/20250806500342 , https://www.sedaily.com/NewsView/2GWIRYD3C0
+- **기준 시점**: 스코어 개발·1차 적용(케이뱅크·SBI저축은행) 2024년 3월, 사잇돌대출 적용 확대 2025년 8월 6~7일
+- **확인일**: 2026-08-12
+- **비고**: 네이버페이 스코어는 카카오페이 스코어와 달리 정부 정책금융 상품(사잇돌대출)까지 적용 범위를 넓혔다는 점이 차별점으로 보도됨. "7,300만 건의 가명결합데이터"라는 표현은 NICE평가정보와의 데이터 결합 규모를 보여주는 수치이나 정확히 무엇을 세는 단위인지(건수 기준)는 원문에서 구체적으로 특정되지 않아 그대로 인용시 출처를 명확히 밝힐 것.
+- **조사자**: market-researcher
+
+### 토스 스코어 — 한국평가데이터(KoDATA) 공동 개발, 저축은행 대출심사 확대 적용 (2026년 7~8월)
+
+- **수치/핵심 사실**: 토스(비바리퍼블리카)는 한국평가데이터(KoDATA)와 공동으로 대안신용평가모형 '토스스코어'를 개발. 계좌 거래, 카드 지출, 투자·보험 납입 이력 등 기존 신용평가에서 반영하기 어려웠던 금융 데이터를 활용. 2026년 7월 16일 SBI저축은행과 업무협약을 체결하고 2026년 7월 27일 중저신용자 대상 중금리 대출 상품 'SBI포용대출 with Toss'를 토스 앱 내 '내게 맞는 대출 찾기' 기능을 통해 출시(금리 연 7.9~13.5%, 최대 1억 5천만 원 한도). 2026년 8월 11일에는 고려저축은행·금융기술기업 PFCT와 업무협약을 체결해 토스스코어를 저축은행 대출심사에 단계적으로 도입(2026년 하반기부터) — PFCT가 자사 실시간 여신전략운영 솔루션 '에어팩-스튜디오'에 토스스코어를 탑재하고 고려저축은행이 실제 대출심사에 활용하는 구조. 별도로 '소호스코어'라는 개인사업자 대상 대안신용평가모델도 개발해 저축은행 대출심사에 첫 적용한 사례도 확인됨(개인사업자 마이데이터 기반).
+- **원문 발췌**: "토스스코어는 토스가 한국평가데이터(KoDATA)와 공동 개발한 대안신용평가 스코어로, 계좌 거래와 카드 지출, 투자·보험 납입 이력 등 고객의 금융 활동에서 확보한 대안정보를 신용평가에 활용한다." / "토스는 SBI저축은행과 중금리 신용대출 'SBI포용대출 with Toss'를 7월 27일 출시하며... 금리는 연 7.9%~13.5%이고 최대 1억 5천만원까지 대출이 가능하다. ... '토스 스코어'를 적용해 고객의 신용도를 종합적으로 평가한다." (디지털데일리 등, 2026-07-20) / "비바리퍼블리카는 고려저축은행, 금융기술기업 PFCT와 토스스코어를 활용한 신용평가 체계 고도화 업무협약(MOU)을 체결했다고 11일 밝혔다. ... 고려저축은행은 올해 하반기부터 토스스코어를 단계적으로 도입한다. ... PFCT는 이를 자사 실시간 여신전략운영 솔루션 '에어팩-스튜디오'에 탑재하고, 고려저축은행은 완성된 모형을 실제 대출심사에 활용한다." (디지털데일리 등, 2026-08-11)
+- **출처명**: 디지털데일리 "토스, SBI저축은행과 중저신용자 위한 중금리 대출 출시"(2026-07-20), "토스-고려저축은행-PFCT, 맞춤형 신용평가 전략 개발 '맞손'"(2026-08-11); 인사이트 "토스, '신용평가' 영토 넓힌다...고려저축은행 대출심사에 토스스코어"; 데일리안 "토스 대안신용평가, 고려저축은행 대출심사에 첫 적용"; 이코노미사이언스 "마이데이터로 사업자 신용 평가…토스 '소호스코어' 금융권 첫 적용"; 아주경제, 파이낸셜투데이, SR타임스, 아시아타임 등 다수
+- **출처 URL**: https://www.ddaily.co.kr/page/view/2026072009420964507 , https://www.ddaily.co.kr/page/view/2026081110163313324 , https://www.insight.co.kr/news/567564 , https://www.dailian.co.kr/news/view/1677293 , https://www.e-science.co.kr/news/articleView.html?idxno=127757
+- **기준 시점**: SBI저축은행 업무협약 2026-07-16, 상품 출시 2026-07-27, 고려저축은행·PFCT 업무협약 2026-08-11(저축은행 실제 도입은 2026년 하반기 예정)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 조사 시점(2026-08-12) 기준 가장 최근에 발생한 데이터 사업 관련 뉴스로, 국내 빅테크 3사(카카오페이·네이버페이·토스) 중 토스가 저축은행권 대안신용평가 적용을 가장 활발히 확대하고 있는 것으로 보임(1개월 사이 2건의 신규 제휴 발표). 다만 이는 뉴스 빈도 기준 관찰이며, 3사의 매출·수익 기여도를 직접 비교할 수 있는 정량 지표는 확인하지 못함.
+
+### 국내 빅테크 3사 대안신용평가 사업 비교 요약 (제휴 CB사 구조)
+
+- **수치/핵심 사실**: 국내 3대 핀테크(카카오페이·네이버페이·토스)는 공통적으로 자체 신용평가업 라이선스를 취득하는 대신 기존 CB사와 제휴하는 방식으로 대안신용평가 모델을 개발·운영 중: 카카오페이는 KCB(코리아크레딧뷰로)와 '카카오페이 스코어', 네이버페이는 NICE평가정보와 '네이버페이(Npay) 스코어', 토스는 한국평가데이터(KoDATA)와 '토스스코어'를 각각 공동 개발. 세 모델 모두 마이데이터로 확보한 결제·송금·계좌거래·카드지출·투자·보험 등 비금융/대안 데이터를 신용평가에 결합하는 공통 구조를 취함.
+- **원문 발췌**: (위 각 개별 항목의 원문 발췌 종합 — 별도 원문 없음, market-researcher의 교차 정리)
+- **출처명**: 위 카카오페이 스코어·네이버페이 스코어·토스스코어 각 항목의 출처 종합
+- **출처 URL**: (위 각 항목 URL 참고)
+- **기준 시점**: 2024년 3월(네이버페이 스코어 출시)~2026년 8월(토스스코어 저축은행 확대) 사이 각 사건별 시점 상이 — 3사 비교는 특정 단일 시점 스냅샷이 아님에 유의
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 이 항목은 market-researcher가 위 개별 evidence 항목들을 교차 정리한 것으로, 새로운 사실이 아니라 기존 항목의 구조적 비교임을 report-writer가 인지할 것. 각 개별 수치를 인용할 때는 반드시 위 개별 항목의 출처 URL을 사용할 것(이 요약 항목 자체를 출처로 인용하지 말 것).
+
+### NICE평가정보 — 마이데이터/오픈API 사업 개요 (배경 정보)
+
+- **수치/핵심 사실**: NICE평가정보는 개인신용평가업 외에 'NICE API'(본인확인서비스, 개인신용정보 관련 API), 'NICE BizAPI'(기업정보 API), 'NICE비즈인포'(기업정보 조회·신용분석보고서 제공) 등 데이터 API·리포트 판매 사업을 운영 중이며, 2021년 마이데이터 사업에도 진출(3대 신용평가사 중 하나로 마이데이터 시장 진출 — NICE평가정보·KCB·SCI평가정보). 위 시장현황 섹션에 기록된 대로 2024년 기업정보사업(NICE BIZLine 등 온라인 정보서비스·데이터 판매·기업기술평가) 매출은 약 903억 원.
+- **원문 발췌**: "NICE API는 NICE평가정보가 본인확인서비스, 개인신용정보 관련 API 연동을 지원하는 플랫폼이다." / "국내 대표 3대 신용평가社(NICE평가정보·KCB·SCI평가정보)가 마이데이터에 진출했다." (WebSearch 요약, 원 출처: 전자신문 "국내 대표 3대 신용평가社, 마이데이터 진출"(2021-11-02))
+- **출처명**: 전자신문 "국내 대표 3대 신용평가社, 마이데이터 진출"(2021-11-02); NICE평가정보 공식 사이트(niceinfo.co.kr) NICE API·NICE BizAPI 서비스 소개 페이지
+- **출처 URL**: https://www.etnews.com/20211102000149 , https://www.niceinfo.co.kr/business/NICEAPI.nice , https://openapi.nicebizline.com/
+- **기준 시점**: 마이데이터 진출 시점 2021년(배경 정보, 최신 자료 아님). API 서비스 소개는 서비스 소개 페이지 상시 게재분(정확한 갱신일 불명)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: **확인 시점 기준 최신 자료가 아님을 명시** — 2021년 마이데이터 진출 관련 배경 정보로만 활용 권장. NICE평가정보·KCB의 2025~2026년 시점 데이터 API 사업 매출·실적 증감 등 정량적 최신 수치는 검색으로 확인하지 못함(아래 확인 필요 항목 참고).
+
+### KCB(코리아크레딧뷰로) 데이터 사업 최신 동향 — 확인 필요 (일부만 확인)
+
+- **상태**: 확인 필요 (부분 확인 — 상세 매출/실적 수치 미확보)
+- **시도한 검색**: "KCB 코리아크레딧뷰로 데이터 사업 마이데이터 2025 2026" 검색 결과, KCB가 마이데이터로 연계된 정보를 신용평가에 긍정적으로 반영하는 서비스를 운영 중이라는 개요와 "2026년 7월 공공 마이데이터를 통한 보험사 디지털 전환 가속화 관련 공동 보도자료", "2026년 5월 기후금융 웹포털 시범서비스 개시" 등 단편적 사실만 확인됨. KCB의 매출액, 데이터 API/리포트 판매 사업 규모, 카카오페이 스코어 공동 개발 관련 KCB 측 공식 입장 등은 확인하지 못함.
+- **비고**: KCB는 비상장사로 재무 정보 공개가 제한적일 수 있음. 다음 조사 시 "코리아크레딧뷰로 감사보고서 매출액", "KCB 올크레딧 사업보고서" 등으로 재검색 필요. 위 "시장현황"의 NICE평가정보 매출(2024년 4,425억 원) 대비 KCB의 매출 규모를 비교할 수 있는 근거가 없어, 국내 개인CB 시장의 정량적 경쟁구도(매출 기준 점유율)는 이번 조사에서 확인하지 못함.
 
 ## 해외 시장 및 경쟁 동향
 
-(아직 근거 없음 — 이번 조사 범위(시장현황/규제변화)에 포함되지 않음. 별도 조사 필요)
+### Plaid(미국) — 오픈뱅킹 데이터 API 사업, 2025년 ARR 및 사업 다각화
+
+- **수치/핵심 사실**: 미국 오픈뱅킹/핀테크 데이터 연결 플랫폼 Plaid는 2025년 ARR(연환산반복매출) 500만 달러 이상(500M~575M 달러, 자료마다 표기 상이 — 아래 비고 참고)을 기록했으며 전년(2024년, 약 400M 달러) 대비 약 40% 성장. 2025년 4월 575백만 달러(5.75억 달러) 규모의 펀딩 라운드를 유치하며 기업가치 약 60억 달러(6.1B 달러 표기 자료도 있음)로 평가받음(Franklin Templeton·Fidelity·BlackRock 등 신규 투자자와 기존 NEA·Ribbit Capital 참여). Plaid의 2025년 주주서한(Shareholder Letter, CEO Zachary Perret 공개)에 따르면 신규 제품(Credit Scoring·Fraud Analytics 등)이 전체 매출의 20% 이상을 차지하며 90% 이상의 성장률을 기록 중이고, 특히 사기(fraud)·신용리스크 분석 매출은 연간 약 400% 성장(2025년 기준), 결제(payments) 관련 매출은 약 250% 성장. 전체 Plaid는 수익성(profitable) 달성 및 견조한 마진을 확보했다고 발표.
+- **원문 발췌**: "We just published @Plaid's 2025 Shareholder Letter. 2025 highlights: >$500M ARR (~40% YoY); profitable; strong margins; >1m new connections every day; New products >20% of revenue growing at >90%; Major progress in Credit Scoring and Fraud Analytics; AI has..." (Zachary Perret, Plaid CEO, X(트위터) 공식 계정, WebSearch 요약) / "Plaid hit $546M in annual recurring revenue (ARR) in 2025, up 40% from $390M in 2024." / "Plaid reported roughly $575 million in ARR in 2025, up from about $400 million in 2024 — around 40% year-over-year growth." / "The core linking business (Auth, Identity, Balance) is being extended into higher-margin, faster-growing lines: fraud and credit-risk analytics (anti-fraud revenue grew roughly 400% YoY in 2025) and Plaid-powered payments facilitation (up roughly 250% YoY)." (WebSearch 요약, 원 출처: Sacra 리서치 보고서 — WebFetch 차단으로 원문 직접 대조는 못함) / "The $575 million funding round puts Plaid's valuation at roughly $6 billion. ... led by a batch of new investors including Franklin Templeton, Fidelity and BlackRock, along with existing backers NEA and Ribbit Capital." (CNBC, 2025-04-03)
+- **출처명**: CNBC "Plaid raises $575 million funding round at $6 billion valuation"(2025-04-03); Forbes "Plaid Raises $575 Million In Funding At $6.1 Billion Valuation"(2025-04-03); Sacra "Plaid at $546M ARR growing 40% YoY"(리서치 보고서, WebFetch 차단으로 원문 미확인); Zachary Perret(Plaid CEO) X 게시물(2025년 Shareholder Letter 발췌 인용)
+- **출처 URL**: https://www.cnbc.com/2025/04/03/plaid-raises-575-million-funding-round-at-6-billion-valuation.html , https://www.forbes.com/sites/jeffkauflin/2025/04/03/plaid-raises-575-million-in-funding-at-61-billion-valuation/ , https://sacra.com/research/plaid-at-546m-arr-growing-40-yoy/ , https://x.com/zachperret/status/2047355974067814628
+- **기준 시점**: 펀딩 라운드 2025년 4월 3일 발표(당시 ARR 언급), ARR·매출 성장률 수치는 "2025년" 연간 기준(Shareholder Letter, 정확한 발표 시점은 2026년 초로 추정되나 특정 못함)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: **ARR 수치가 출처마다 다름을 명시** — CNBC(2025-04-03 펀딩 라운드 기사)는 "$575 million"을 펀딩 금액(투자 유치액)으로 보도했으나, 이와 별개로 Sacra 리서치는 "$546M ARR"로, 다른 매체(getlatka.com)는 "$575M ARR"로 서로 다른 수치를 보도함 — 즉 "$575M"이 펀딩 금액인지 ARR인지 출처마다 혼용되어 있어 주의가 필요함. Zachary Perret의 공식 X 게시물(2025 Shareholder Letter 인용)은 ">$500M ARR (~40% YoY)"로만 명시해 정확한 자릿수는 밝히지 않음 — 가장 신뢰도 높은 것은 CEO 본인이 공개한 "500M 달러 이상, 약 40% 성장"이라는 정성적 수준의 수치이며, 리포트에는 이를 기준으로 "500M 달러 이상"으로 보수적으로 기술할 것을 권장. WebFetch 차단으로 Sacra 원문(sacra.com) 대조 확인은 하지 못함.
+
+### Experian(영국/미국) — Experian Boost(소비자 데이터 기반 신용점수 개선) 및 데이터/분석 사업 비중
+
+- **수치/핵심 사실**: 글로벌 신용정보회사 Experian은 2025~2026 회계연도(FY26) 상반기 실적에서 불변환율 기준 총매출 12% 성장, 조직적 성장률(organic revenue growth) 8%, Benchmark EBIT 14% 증가를 기록. 사업부문별로는 B2B(데이터/분석 등)가 매출의 72%, Consumer Services(개인 소비자 대상 서비스, Experian Boost 포함)가 28%를 차지하며, B2B 조직 성장률 8%, Consumer Services 조직 성장률 9%를 기록. 소비자가 공공요금·통신비 납부 이력 등 비금융 데이터를 직접 제출해 신용점수를 높이는 'Experian Boost' 프로그램은 출시(2019년) 이후 누적으로 미국 소비자들의 FICO 점수를 합산 5,000만 점 이상 끌어올렸다고 발표.
+- **원문 발췌**: "At constant currency and from ongoing activities, total revenue was up 12%, organic revenue growth was 8%, Benchmark EBIT increased 14% and Benchmark EBIT margin was up by 50 basis points." / "Consumer Services organic revenue growth was 9%, while B2B organic revenue grew 8%. ... B2B data/analytics accounts for 72% of revenue and Consumer Services 28%." (WebSearch 요약, 원 출처: Experian plc 공식 "Half-year results FY26" 보도자료, WebFetch 차단으로 원문 직접 대조는 못함) / "Experian Boost Helped Raise American Credit Scores by Over 50 Million Points" (Experian 공식 블로그 제목, ask-experian 블로그)
+- **출처명**: Experian plc 공식 보도자료 "Half-year results FY26"(2025년 11월경 발표로 추정); Experian 공식 블로그(experian.com/blogs/ask-experian) "Experian Boost Helped Raise American Credit Scores by Over 50 Million Points"
+- **출처 URL**: https://www.experianplc.com/newsroom/press-releases/2025/half-year-results-fy26 , https://www.experian.com/blogs/ask-experian/experian-boost-study/
+- **기준 시점**: FY26 상반기 실적(Experian 회계연도는 4월~익년 3월이므로 FY26 상반기는 대략 2025년 4~9월 추정) 발표 시점 미상(WebFetch 차단으로 정확한 발표일 미확인). Experian Boost 누적 성과는 발표 시점 불명(블로그 상시 게재분)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: Experian Boost의 정확한 "이용자 수"는 검색 과정에서 자료마다 크게 상이했음 — 한 2차 출처(useluminix.com 리서치 리포트)는 "17 million users"라고 언급했으나 이를 뒷받침하는 Experian 공식 자료는 찾지 못했고, Mastercard 자료는 "6 million consumers"(연도 불명)라 언급, Experian 공식 자료(2021년 기준)는 "3.9 million consumers"였음 — **이용자 수 수치는 출처 간 편차가 크고 최신 공식 수치를 특정하지 못해 "확인 필요"로 처리, 리포트에는 이용자 수 수치를 넣지 말 것을 권장**. FY26 상반기 매출 성장률(12%)과 B2B/Consumer 비중(72:28)은 비교적 구체적인 출처(Experian 공식 보도자료 URL)가 확인되었으나 WebFetch 차단으로 원문 직접 대조는 못해 재확인 필요.
+
+### Experian Boost 이용자 수 — 확인 필요 (출처 간 수치 상이)
+
+- **상태**: 확인 필요 (신뢰할 수 있는 최신 공식 수치 미확보)
+- **시도한 검색**: "Experian Boost users 2025 credit data business revenue", "Experian Boost 17 million users FICO score", "'Experian Boost' million users 2025 2026 official" 등. 검색 결과 이용자 수가 "17 million"(useluminix.com 2차 리서치 리포트, 원출처 불명), "6 million"(Mastercard 페이지, 연도 불명), "3.9 million"(Experian 공식, 2021년 기준) 등으로 자료마다 크게 다르고 최신(2025~2026년) 공식 발표를 특정하지 못함.
+- **비고**: Experian 공식 사이트(experian.com/help/boost-disclosure/)에 최신 수치가 게재되어 있을 가능성이 높으나 WebFetch 차단으로 직접 열람하지 못함. 다음 조사 시 WebFetch 복구 후 재확인 필요.
+
+### Klarna(스웨덴/미국 상장) — BNPL 넘어선 데이터·분석 기반 사업 확장 (2025년 3분기 실적 기준)
+
+- **수치/핵심 사실**: 스웨덴계 BNPL(Buy Now Pay Later)·핀테크 기업 Klarna는 2025년 기준 26억 개 이상(2.6B)의 1st-party SKU 단위 데이터 포인트와 64억 건(6.4B)의 거래 데이터를 활용해 소비자 프로필 분석, 신용 심사(underwriting) 고도화, 가맹점 대상 인사이트 제공에 활용 중이라고 소개됨. 이러한 데이터 분석 역량은 Klarna를 단순 BNPL 제공자에서 가맹점 대상 리드 제너레이션(lead generation) 및 마케팅 분석 플랫폼으로 포지셔닝하는 데 활용되고 있음. Klarna는 2025년 1~9월(9개월) 누적 매출 24.3억 달러(총매출, 전년 동기 대비 +24%)를 기록했고, 3분기(Q3 2025) 매출은 9.03억 달러(+26% YoY), GMV(총거래액) 327억 달러, 활성 고객(active customers) 1억 1,400만 명을 기록. 전 세계 활성 가맹점(active merchants)은 57만 5,000곳 이상. Klarna의 수익원은 전자상거래·금융(이자수익)·데이터(광고·인사이트 판매) 3가지로 다각화되어 있다고 소개됨.
+- **원문 발췌**: "In 2025, Klarna leverages over 2.6B first-party, SKU-level data points and insights from 6.4B transactions to better understand consumer profiles, improve credit underwriting capabilities, and provide actionable insights to merchants." / "Klarna reported total revenue of $2.43B in the first nine months of 2025, up 24% year-over-year. Q3 2025 revenue of $903M represented 26% YoY growth, with GMV reaching $32.7B and 114 million active customers." / "Klarna is partnered with over 575,000 active merchants worldwide." / "Klarna in 2025 earns from ecommerce, finance and data – it presents itself as a smooth pay button and shopping helper – tapping merchant fees, chosen shopper charges, interchange financing interest and ad deals." (WebSearch 요약, 원 출처: Sacra 리서치 보고서(sacra.com/c/klarna), RS Capital 블로그 분석, businessofapps.com 통계 페이지 — WebFetch 차단으로 원문 직접 대조는 못함)
+- **출처명**: Sacra "Klarna revenue, valuation & funding"; RS Capital(rscapital.substack.com) "A Deep Dive on Klarna (KLAR)"; Business of Apps "Klarna Revenue and Usage Statistics (2026)"
+- **출처 URL**: https://sacra.com/c/klarna/ , https://rscapital.substack.com/p/a-deep-dive-on-klarna-klar , https://www.businessofapps.com/data/klarna-statistics/
+- **기준 시점**: 2025년 1~9월(9개월) 누적 및 3분기(Q3 2025, 대략 2025년 7~9월) 기준
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: Klarna는 2025년 뉴욕증권거래소(NYSE)에 상장한 것으로 추정되나(티커 KLAR 언급) 상장 시점·경위는 이번 조사에서 별도 확인하지 못함 — 필요시 추가 조사. 데이터 사업 자체의 별도 매출액(전체 매출 중 "데이터/광고" 부문만의 금액)은 확인하지 못해 "확인 필요"로 남김(아래 참고). WebFetch 차단으로 Sacra·Business of Apps 원문 직접 대조는 못함.
+
+### Klarna 데이터/광고 부문 단독 매출액 — 확인 필요
+
+- **상태**: 확인 필요 (출처 미확보)
+- **시도한 검색**: "Klarna data business insights merchant analytics 2025" 검색으로 Klarna의 전체 매출·데이터 활용 방식은 확인했으나, "데이터 판매/광고(ad deals)" 부문만 분리한 매출액은 검색 결과에서 확인하지 못함(Klarna는 매출을 전자상거래·금융·마케팅 등으로 구분 공시하는 것으로 보이나 세부 데이터 부문 매출 공시 여부 자체가 불확실).
+- **비고**: 다음 조사 시 Klarna 공식 IR 자료(investors.klarna.com) 또는 분기보고서 직접 열람 필요(WebFetch 복구 후).
+
+### Credit Karma(Intuit 자회사, 미국) — 데이터 기반 개인 신용·금융 인사이트 사업, FY2025 실적
+
+- **수치/핵심 사실**: 미국의 개인 신용점수 조회·금융 인사이트 서비스 Credit Karma(2020년 Intuit이 약 71억 달러에 인수)의 2025 회계연도(Intuit 회계연도 기준, 2024년 8월~2025년 7월) 매출은 23억 달러로 전년 대비 32% 성장. 이는 개인대출(personal loans)·신용카드·자동차보험 등 상품 중개(lead generation) 부문의 성장에 힘입은 결과로 보도됨. Credit Karma는 Intuit 전체 매출(FY2025 총 188억 달러, +16% YoY) 중 성장률이 가장 높은 사업부 중 하나로 소개됨. 한편 Intuit의 개인 재무관리(PFM) 앱이었던 Mint는 2024년 3월 23일 서비스를 완전히 종료하고 Credit Karma로 통합(2009년 Intuit이 약 1.7억 달러에 인수한 후, 17년간 운영·누적 이용자 약 2,500만 명 규모로 알려짐 — 이는 2차 출처 기반 수치이며 Intuit 공식 발표로 직접 확인하지 못함).
+- **원문 발췌**: "Credit Karma revenue grew 32 percent to $2.3 billion for fiscal year 2025." / "Intuit grew total revenue to $18.8 billion, up 16 percent year-over-year. Combined platform revenue, which includes the Global Business Solutions Group Online Ecosystem, TurboTax Online, and Credit Karma, increased 19 percent to $14.9 billion." (WebSearch 요약, 원 출처: Intuit Inc. 공식 보도자료 "Intuit Reports Strong Fourth Quarter and Full Year Fiscal 2025 Results" 및 SEC 8-K 공시, WebFetch 차단으로 원문 직접 대조는 못함) / "Mint ceased to operate as a standalone company from January 1, 2024, and was folded into Intuit's Credit Karma business. However, Mint actually shut down on March 23, 2024... Intuit officially shut down Mint on March 23, 2024, after 17 years and roughly 25 million users." (WebSearch 요약, 원 출처: alternativeto.net, fintechfutures.com 등 IT매체 종합)
+- **출처명**: Intuit Inc. 공식 투자자 페이지(investors.intuit.com) "Intuit Reports Strong Fourth Quarter and Full Year Fiscal 2025 Results..."; SEC EDGAR 8-K 공시(FY2025); FinTech Futures "Intuit to merge personal financial management subsidiary Mint into Credit Karma"; AlternativeTo "Intuit to discontinue Mint app in 2024, merging features into Credit Karma"
+- **출처 URL**: https://investors.intuit.com/news-events/press-releases/detail/1266/intuit-reports-strong-fourth-quarter-and-full-year-fiscal-2025-results-sets-fiscal-2026-guidance-with-double-digit-revenue-growth-and-continued-operating-margin-expansion , https://www.sec.gov/Archives/edgar/data/896878/000089687825000031/fy25q4earningspressrelease.htm , https://www.fintechfutures.com/m-a/intuit-to-merge-personal-financial-management-subsidiary-mint-into-credit-karma , https://alternativeto.net/news/2023/11/intuit-to-discontinue-mint-app-in-2024-merging-features-into-credit-karma/
+- **기준 시점**: Credit Karma·Intuit 매출 수치는 Intuit FY2025(2024년 8월~2025년 7월) 기준(발표는 2025년 8월 21일로 추정 — 8-K 파일명 기준). Mint 서비스 종료는 2024년 3월 23일
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: Credit Karma는 카카오페이·토스·네이버페이의 대안신용평가/마이데이터 기반 사업과 비즈니스 모델이 유사한 해외 벤치마크 사례로 활용 가능(신용점수 조회 무료 제공 + 대출/카드/보험 상품 중개로 수익화). "약 2,500만 명"이라는 Mint 이용자 수는 2차 출처(IT 매체)의 인용이며 Intuit 공식 발표 문구를 직접 확인하지 못해 재인용임을 명시. WebFetch 차단으로 investors.intuit.com·SEC 원문 직접 대조는 못함.
