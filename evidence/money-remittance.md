@@ -344,12 +344,406 @@
 - **비고**: 업계 전체(카카오페이 포함 다수 선불업자 합산) 수치로 추정되나, 카카오페이 단독
   낙전수익액은 별도로 확인하지 못함 — 확인 필요.
 
+### 10. [추가 조사] "카카오페이머니 충전 잔고 2조5,122억원"(3번 항목) vs "선불충전금 6,008억원"(5번 항목) 수치 상충 — 부분 해소
+
+- **수치/핵심 사실**: 두 시계열은 서로 다른 개념을 가리키는 것으로 추정되며(완전히 확정은
+  아님), 상충이 "부분적으로" 설명됨. (a) **"선불충전금"(전자금융거래법상 규제 대상,
+  1인당 충전한도 200만원)**: 2024년 상반기 5,481억원 → 2024년 3분기 5,698억원 → 2025년
+  1분기 5,920억원 → 2025년 4분기 6,008억원으로 완만히 증가하는 시계열(5번 항목). (b)
+  **"카카오페이머니 충전 잔고"(언론이 실적발표 때 인용하는 더 넓은 개념)**: 2025년 3분기
+  기준 2조 961억원으로 "처음 2조원 돌파"(2025-11-25 보도) → 2026년 1분기 2조 5,122억원
+  (3번 항목, 2026-05-06경 보도)로 훨씬 큰 규모이며 빠르게 증가. 기사에 따르면 카카오페이
+  머니를 충전하면 카카오페이증권 계좌로 자동이체·예탁되는 구조이며, 이 예탁금은 (증권사
+  규제상) 200만원 한도가 없고 1인당 최대 1억원까지 예금자보호가 되는 것으로 설명됨.
+  즉 "충전 잔고"는 전자금융거래법상 협의의 "선불충전금"(선불업 라이선스 기준 공시 대상,
+  한도 200만원)과는 별도로, 카카오페이증권 계좌에 예탁된 자금(예수금 성격)까지 포함하는
+  더 넓은 개념일 가능성이 있다.
+- **원문 발췌**: "카카오페이의 카카오페이머니 충전 잔고가 2025년 3분기 기준 2조 961억원을
+  기록하며 처음으로 2조원을 돌파했습니다." / "증권 계좌로 예탁되기 때문에 200만원 한도가
+  정해져 있는 선불충전금과 달리 한도 없이 보유할 수 있으며, 1인당 최고 1억원까지 예금자
+  보호도 받을 수 있습니다." / "증권 계좌를 개설한 후 카카오페이머니를 충전하면 증권 계좌로
+  자동이체 되기 때문에 바로 주식 거래 및 펀드, 연금저축에 바로 이용할 수 있습니다." /
+  (별도 기사) "국내 선불충전금 시장이 1조 2천억원을 넘어서며 빠르게 성장하고 있습니다.
+  ... 선불충전금은 실질적으로 금융회사의 예치금과 유사하게 기능하지만 법적 규제는 단순
+  '전자지급수단' 수준에 머물러 있어, 플랫폼별로 잔액 소멸시효·유효기간·환급 기준이
+  제각각인 문제가 있습니다."
+- **출처명**: 헤럴드경제 "카카오페이머니 충전잔고 2조원 돌파", 뉴스1 "카카오페이머니, 충전
+  잔고 2조 원 돌파…'캐시리스' 시대 주도", 아시아경제 "카카오페이머니, 충전 잔고 2조원 첫
+  돌파", M이코노미뉴스 "1조 2천억 '선불충전금' 시대...투명한 기준 정립 우선돼야" (WebSearch
+  요약 종합, WebFetch 전면 차단으로 원문 직접 대조 불가)
+- **출처 URL**: https://biz.heraldcorp.com/article/10623663 (접속 차단),
+  https://www.news1.kr/it-science/general-it/5982204 (접속 차단),
+  https://www.asiae.co.kr/article/2025112509442704305 (접속 차단),
+  https://www.m-economynews.com/news/article.html?no=69085 (접속 차단)
+- **기준 시점**: 2025년 3분기(2조 961억원, 보도일 2025-11-25) / 2026년 1분기(2조 5,122억원,
+  3번 항목 참고, 보도일 2026-05-06경)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher (타겟 재확인)
+- **비고**: **완전히 확정된 결론은 아니다.** WebFetch가 전면 차단되어 카카오페이 공식 IR
+  자료(분기보고서, 실적발표 PDF)나 기사 원문을 직접 대조하지 못했고, "충전 잔고"에
+  카카오페이증권 예탁금이 정확히 어떤 비율/기준으로 포함되는지 명시한 1차 출처를 찾지
+  못했다. 다만 (1) 3사(네이버페이·카카오페이·토스) 선불충전금 합산이 1조원에 근접
+  (6번 항목, 2026-07-12 보도)한 상황에서 카카오페이 "단독" 선불충전금이 2조원을 넘는다는
+  것은 논리적으로 모순되고, (2) "충전 잔고"와 "선불충전금"을 별도 개념으로 설명하는 기사가
+  실제로 존재한다는 점에서, **"선불충전금"(협의, 6번 항목과 정합)과 "카카오페이머니 충전
+  잔고"(광의, 증권 예탁금 포함 추정)가 서로 다른 지표라는 가설이 설득력을 얻는다.** 다만
+  이는 market-researcher의 정황적 추론이며 1차 출처로 명시적으로 확인된 사실은 아니므로,
+  report-writer는 두 수치를 리포트에 함께 쓸 경우 반드시 "선불충전금(전자금융거래법상
+  협의 개념, 6,008억원, 2025년 4분기)"과 "카카오페이머니 충전 잔고(증권 예탁금 포함
+  추정, 2조 5,122억원, 2026년 1분기)"로 라벨을 명확히 구분하고, 이 구분이 "추정"이며
+  "완전 확정되지 않음"을 각주/비고에 명시할 것을 권고한다.
+
 ## 경쟁 동향
 
-(아직 근거 없음 — 이번 조사 범위(시장현황/규제 변화)에는 포함되지 않음. 향후
-market-researcher가 별도로 조사)
+### 1. 국내 간편송금 이용 서비스 선호도 — 카카오페이 45.2% vs 토스페이 32.6% vs 네이버페이 22.3%
+
+- **수치/핵심 사실**: 송금 시 이용 서비스 조사에서 카카오페이 45.2%로 1위, 토스페이 32.6%로
+  2위, 네이버페이 22.3%로 3위. 결제(쇼핑 등 일상 결제)는 네이버페이가 강세인 반면, 송금은
+  카카오페이·토스페이가 강세를 보이는 구도. 카카오페이 선택 이유 1위는 "상대방이 쓰는
+  플랫폼이라서"(38.9%, 메신저·연락처 기반 네트워크효과), 토스페이는 "낮은 송금 수수료"(66.3%)와
+  "보안 신뢰"(14.4%)가 주요 선택 이유.
+- **원문 발췌**: "송금 시 카카오페이를 사용한다는 응답은 45.2%로 1위였고, 토스페이는 32.6%로
+  2위였습니다. 네이버페이를 사용하는 비율은 22.3%에 그쳤습니다." / "카카오페이를 송금
+  수단으로 선택한 가장 큰 이유는 '송금 상대방이 사용하는 플랫폼이기 때문'인 것으로
+  나타났으며, 메신저와 연락처 기반의 네트워크 효과가 영향을 미쳤습니다. 토스페이는
+  경쟁사 대비 낮은 수수료와 보안에 대한 신뢰가 주된 강점으로 꼽혔습니다."
+- **출처명**: 오픈서베이 "간편결제 경쟁 - 네이버페이 vs. 카카오페이 vs. 토스페이" 블로그
+  (2026 결제 서비스 트렌드 리포트 기반), 자본시장뉴스 "네이버페이 결제 64.7% 장악, 송금은
+  카카오 천하" (WebSearch 요약 종합, 원문 직접 대조 불가)
+- **출처 URL**: https://blog.opensurvey.co.kr/article/ds-payment-2025-2/ (직접 열람 시도 안함),
+  https://www.jabon.co.kr/news/articleView.html?idxno=4654 ,
+  https://news.nate.com/view/20260705n12885
+- **기준 시점**: 오픈서베이 조사·기사 게재일 2026-07 전후로 추정(원문 미대조로 정확한 조사
+  시점 불명확)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 이는 "송금 시 이용 서비스 선호도(설문 응답 비율)"이며, 실제 거래액·MAU 기준
+  시장점유율과는 다른 지표임을 report-writer가 리포트에 명시할 것. 오픈서베이 원문
+  URL을 사람이 직접 열람해 정확한 조사 시점·표본 규모를 확인할 것을 권고.
+
+### 2. 토스(비바리퍼블리카) MAU 및 2025년 상반기 실적 — 컨슈머(송금 포함) 부문 매출 8,021억원
+
+- **수치/핵심 사실**: 토스 MAU는 약 2,500만명 수준(주요 시중은행 앱 MAU가 통상 1,000만명
+  안팎인 것과 비교해 압도적 규모), 앱 가입자 수는 약 3,000만명. 2025년 상반기 연결 기준
+  영업수익(매출) 1조 2,355억원(전년동기 9,141억원 대비 +35.2%), 영업이익 1,546억원, 당기순이익
+  1,057억원. 이 중 송금·중개·광고·간편결제·커머스·증권·세무·인증 등을 포함하는 "컨슈머
+  서비스" 부문 매출이 8,021억원으로 상반기 연결 매출의 64.9% 차지(별도 WebSearch 결과에서는
+  전년동기 5,011억원 대비 +60.06%로 언급되었으나 이 증가율은 원문 직접 대조 못함). 나머지
+  "머천트 서비스" 부문 매출은 4,333억원(35.1%).
+- **원문 발췌**: "토스의 월간활성이용자(MAU)는 약 2500만명 수준으로, 주요 시중은행 앱의
+  MAU가 통상 1000만명 안팎인 점을 고려하면 압도적인 규모입니다." / "이승건 토스 대표,
+  3000만 앱 가입자·B2B 기반 영업수익 1.2조 돌파" / "토스(운영사 비바리퍼블리카)가 2025년
+  상반기 연결 기준 영업수익(매출) 1조 2355억원, 영업이익 1546억원, 당기순이익 1057억원을
+  기록했다고 하였습니다." / "토스의 컨슈머 서비스 부문 매출은 8021억원으로 상반기 연결
+  매출의 64.9%를 차지했습니다. 해당 부문에는 송금, 중개, 광고, 간편결제, 커머스, 증권,
+  세무, 인증 서비스 등이 포함되며... 머천트 서비스 부문 매출은 4333억원으로 연결 매출의
+  35.1% 수준입니다."
+- **출처명**: 한국금융신문 "이승건 토스 대표, 3000만 앱 가입자·B2B 기반 영업수익 1.2조
+  돌파 [금융사 2025 상반기 실적]", 이데일리 "토스, 상반기 매출 1.2조 돌파…전년 대비 35%
+  성장", 서울파이낸스, 중앙이코노미뉴스 등 (WebSearch 요약 종합)
+- **출처 URL**: https://www.fntimes.com/html/view.php?ud=202508141641349446957e88cdd5_18 ,
+  https://www.edaily.co.kr/News/Read?newsId=01558006642268304&mediaCodeNo=257 (접속 차단),
+  https://www.seoulfn.com/news/articleView.html?idxno=603912
+- **기준 시점**: 2025년 상반기(2025년 1~6월), 발표일 2025-08-14경
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 토스는 "송금 서비스" 단독 매출·거래액을 별도 공시하지 않고 "컨슈머 서비스"
+  부문에 송금을 포함한 8개 서비스를 합산 공시하므로, 송금만의 정확한 거래액/매출은
+  확인하지 못함(확인 필요). "8021억원 대비 전년동기 5011억원, +60.06%"이라는 증가율
+  수치는 별도 WebSearch 요약에서만 확인되었고 원문 대조가 안 되어 신뢰도가 상대적으로
+  낮음 — 전체 매출 증가율(+35.2%)과 함께 병기하되 상충 가능성을 감안할 것.
+
+### 3. 토스 해외송금 서비스 — 모인(내국인 대상)·센트비(외국인 대상) 제휴 모델
+
+- **수치/핵심 사실**: 토스는 2025년 5월 28일 해외송금 서비스를 도입, 국내 대표 해외송금
+  전문기업 '모인(Moin)'의 서비스를 자사 앱에 연동해 내국인 고객 대상으로 전 세계 60개국에
+  24시간 연중무휴 송금 기능을 제공. 이와 별개로 2025년 7월 2일에는 글로벌 외환 솔루션
+  기업 '센트비(SentBe)'와 협업해 국내 체류 외국인 전용 해외송금 서비스를 출시. 센트비-토스
+  서비스는 최소 5분 이내 송금, 은행 대비 90% 이상 낮은 수수료, 은행·모바일월렛·캐시픽업·
+  홈딜리버리 등 다양한 수취 옵션 제공.
+- **원문 발췌**: "토스는 국내 대표 해외송금 전문 기업인 '모인' 서비스를 자사 앱에 연동해
+  내국인 고객을 대상으로 간편 해외송금 기능을 제공합니다. 사용자는 전 세계 60개국으로
+  연중무휴 24시간 송금이 가능합니다." / "글로벌 외환 토탈 솔루션 기업 센트비가
+  토스(비바리퍼블리카)와 함께 국내 체류 외국인을 대상으로 한 해외송금 서비스를
+  출시했습니다." / "주요 서비스 특징으로는 최소 5분 이내의 빠른 송금 속도, 은행 대비 90%
+  이상 낮은 합리적인 수수료, 은행·모바일 월렛·캐시 픽업·홈 딜리버리 등 수취 국가 환경을
+  고려한 다양한 수취 옵션을 제공합니다." / "외국인 국적자로 등록된 토스 고객은 토스 앱
+  홈 화면에서 연동된 계좌의 송금 신청 메뉴를 선택한 뒤 해외 메뉴를 눌러 센트비 서비스를
+  이용할 수 있습니다."
+  또한(200만 국내 장기체류 외국인 타겟 관련) "200만 국내 장기 체류 외국인을 위한 해외송금
+  서비스 출시를 위해 글로벌 외환 솔루션 기업 '센트비'와 협력하고 있습니다."
+- **출처명**: 토스피드 "토스, 해외송금 서비스 도입…금융생활 영역 넓힌다", 전자신문,
+  아시아경제, 머니투데이, 파이낸셜뉴스, 플래텀 (WebSearch 요약 종합)
+- **출처 URL**: https://toss.im/tossfeed/article/moneytransfer ,
+  https://www.etnews.com/20250528000043 (접속 차단),
+  https://www.asiae.co.kr/article/2025052809014506600 (접속 차단),
+  https://www.fnnews.com/news/202507021610351610 (접속 차단),
+  https://platum.kr/archives/265048 (접속 차단)
+- **기준 시점**: 모인 연동 도입 2025-05-28, 센트비 협업(외국인 전용) 출시 2025-07-02
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 카카오페이는 2026년 2월 앤트인터내셔널+ICB 3자 협업 모델(시장현황 7번 항목),
+  토스는 모인(내국인)·센트비(외국인) 이원화 제휴 모델로 서로 다른 파트너십 구조를 취하고
+  있음 — 두 회사 모두 자체 소액해외송금업 라이선스 없이 등록업자와의 제휴로 서비스를
+  운영하는 공통점이 있는 것으로 파악되나, 이는 여러 기사 종합에 따른 정황 판단이며 공식
+  라이선스 보유 여부를 1차 출처로 명시적으로 확인하지는 못함.
+
+### 4. 한패스(Hanpass) — 2026년 3월 코스닥 상장, 국내 소액해외송금 시장점유율 약 22%
+
+- **수치/핵심 사실**: 외국인 대상 금융 플랫폼 한패스가 2026년 3월 25일 코스닥에 상장. 공모가
+  19,000원 기준 시가총액 약 2,000억원이었으나 상장 후 첫날 시초가 37,100원으로 출발해
+  장중 47,750원(공모가 대비 151.3%)까지 상승하는 "따블"(공모가 2배 이상)을 기록, 상장 후
+  시가총액 약 3,700억원. 기관투자자 수요예측 경쟁률 1,172대 1, 일반청약 경쟁률 1,673대 1(총
+  공모금액 209억원, 공모주식수 110만주). 2026년 8월 6일 발표에 따르면 한패스는 해외송금
+  서비스 기준 월 이용자 약 20만명, 월 송금건수 약 60만건, 월 송금액 약 4,000억원을 기록,
+  국내 소액해외송금 시장점유율 약 22%로 추정(이달 초 기준 송금건수는 전월 대비 10% 이상
+  증가). 송금 외 서비스(월렛·선불카드·구인구직·모빌리티·커머스 등)는 월 이용건수 약 400만건,
+  중복 제외 이용고객 약 45만명. 2025년 실적: 매출 664억원(사람인 공시 기준 661억 7,358만원),
+  영업이익 82억원, 순이익 69억원(3년 전 2022년 매출 290억원 대비 급증, 2023년 91억원
+  순손실에서 2024~2025년 흑자 전환). 상장 전 누적 해외송금 거래액은 2025년 3월(4월 18일
+  보도, 시장현황 8번 항목) 10조원 돌파.
+- **원문 발췌**: "외국인 송금 플랫폼 한패스가 코스닥 상장 첫날 공모가의 2배 이상을
+  뛰어넘었습니다. 한패스는 시초가 3만7100원으로 시작한 뒤 한때 4만7750원으로 공모가의
+  151.3%를 달성했습니다." / "상장 전 기관투자자 대상 수요예측에서 경쟁률 1172대 1을
+  기록했으며, 일반청약에서도 경쟁률 1673대 1을 기록했습니다." / "공모(예정)가는 19,000원..
+  총 공모금액은 209억원이며, 공모주식수는 110만주였고" / "외국인 금융 플랫폼 기업 한패스가
+  송금 서비스 기준 월 이용자 약 20만명, 월 송금건수 약 60만건, 월 송금액 약 4000억원을
+  기록했다고 2026년 8월 6일에 발표했습니다." / "한패스의 국내 소액해외송금 시장점유율은
+  약 22%이며, 이달 초 기준 송금건수는 전월 대비 10% 이상 증가하며 성장세를 이어가고
+  있습니다." / "송금을 제외한 서비스의 월 이용건수는 약 400만건, 중복을 제외한 이용
+  고객은 약 45만명입니다." / "한패스의 2025년 매출은 664억원이고 순이익은 69억원을
+  기록했습니다. 영업이익은 82억원입니다." / "체류 외국인 증가(2025년 말 278만명, 역대
+  최고)라는 구조적 성장 동력에 올라타 매출이 3년 만에 290억→664억으로 급증했고, 2023년
+  91억 순손실에서 2024~2025년 흑자(2025년 순이익 69억)로 돌아섰습니다."
+- **출처명**: 전자신문 "한패스, 코스닥 첫날 '따블' 달성…장중 공모가 150% 초과", 글로벌이코노믹,
+  머니투데이 "한패스, 월 송금 60만건·4000억 돌파… 금융 플랫폼 확장 가속", 이데일리 "한패스,
+  월 해외송금 4000억 돌파…외국인 금융 플랫폼 확장 가속", 뉴스핌 "한패스, 월 송금 60만건
+  돌파", 사람인 기업정보(재무제표 공시), THE VC 등 (WebSearch 요약 종합)
+- **출처 URL**: https://www.etnews.com/20260325000302 (접속 차단),
+  https://www.g-enews.com/article/Securities/2026/03/2026032510160633044093b5d4e_1 (접속 차단),
+  https://www.mt.co.kr/stock/2026/08/06/2026080616345255356 (접속 차단),
+  https://www.edaily.co.kr/News/Read?newsId=06953606645544696 (접속 차단),
+  https://www.newspim.com/news/view/20260806001139 (접속 차단),
+  https://www.saramin.co.kr/zf_user/company-info/view-inner-finance/csn/djY4QS9CN25WN2Y5aUY0WTlzZExXdz09/company_nm/%ED%95%9C%ED%8C%A8%EC%8A%A4(%EC%A3%BC)
+- **기준 시점**: 상장일 2026-03-25; 월간 실적 발표 2026-08-06(2026년 7월 또는 8월 초 기준
+  추정, 정확한 기준월 원문 미대조로 불명확); 2025년 연간 실적(2025년 1~12월)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 한패스의 코스닥 상장 및 월 실적 공개(시장점유율 22% 포함)는 카카오페이가
+  2026년 2월 해외송금 베타를 출시한 시점(시장현황 7번 항목)과 거의 동시기로, 국내
+  소액해외송금 시장에서 핀테크 전업사(한패스)와 대형 슈퍼앱(카카오페이·토스)의 경쟁
+  구도가 본격화되는 정황으로 판단됨(단, 이는 market-researcher의 해석이며 원출처가
+  명시적으로 "경쟁 심화"를 언급한 것은 아님 — report-writer는 해석과 사실을 구분해서
+  서술할 것). "시장점유율 22%"의 산정 기준(전체 소액해외송금업 거래액 대비인지, 특정
+  세그먼트 대비인지)은 원문 미대조로 불명확 — 시장현황 9번 항목("국내 소액해외송금업
+  시장 규모 — 공식 통계 공백")과 함께 볼 때, 이 22%라는 수치의 분모가 되는 시장 전체
+  규모 자체가 공식 통계로 확인되지 않으므로 참고용으로만 사용할 것.
+
+### 5. 센트비(SentBe) — 누적 송금액 6.5조원, 회원 63만명
+
+- **수치/핵심 사실**: 2015년 9월 설립된 핀테크 스타트업 센트비의 누적 송금액은 6.5조원
+  이상, 누적 회원수는 63만명 이상(확인 시점 기준 최신 집계 시점 불명확). 토스와 제휴해
+  국내 체류 외국인 대상 해외송금 서비스 운영(3번 항목 참고).
+- **원문 발췌**: "센트비는 2015년 9월에 설립된 한국 스타트업으로, 블록체인 기술을 활용한
+  글로벌 해외 송금 및 결제 서비스를 제공하는 금융 기업입니다. 2025년 실적과 관련해서,
+  2025년의 매출액은 전년대비 0.032%의 증가를 기록했습니다. 또한 누적 송금액은 6.5조원
+  이상이며, 누적 회원수는 63만명 이상입니다."
+- **출처명**: THE VC(thevc.kr) 센트비 기업정보 페이지, 이노포레스트 (WebSearch 요약 종합)
+- **출처 URL**: https://thevc.kr/sentbe , https://www.innoforest.co.kr/company/CP00001808/%EC%84%BC%ED%8A%B8%EB%B9%84
+- **기준 시점**: 원문 미대조로 정확한 기준 시점(집계일) 불명확 — "2025년 실적"이라는 언급으로
+  보아 2025년 연간 또는 그 이전 누적치로 추정
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: "2025년 매출액 전년대비 0.032% 증가"는 사실상 정체 수준의 성장률로, 한패스
+  (매출 3년새 290억→664억 급증) 대비 상대적으로 저성장 정황. 단, 두 회사의 매출 규모
+  자체를 비교할 수 있는 절대액은 센트비 쪽에서 확보하지 못함 — 확인 필요.
+
+### 6. 와이어바알리(WireBarley) — 2025년 매출 755.9억원(-4.9% YoY), 수익성은 개선
+
+- **수치/핵심 사실**: 와이어바알리 운영사(와이어블)의 2025년 매출액 755억 8,930만원으로
+  2024년 794억 4,328만원 대비 4.9% 감소. 반면 영업이익은 55억 2,594만원으로 전년 대비
+  44.5% 증가, 당기순이익은 45억 6,936만원으로 52.7% 증가. 자산총계 1,395억 8,080만원,
+  부채총계 615억 1,288만원, 자본총계 780억 6,791만원.
+- **원문 발췌**: "2025년 매출액은 755억8930만1183원으로, 2024년 794억4328만1962원 대비
+  4.9% 감소했습니다. 같은 기간 영업이익은 55억2594만8336원으로 44.5% 늘었고, 당기순이익은
+  45억6936만7467원으로 52.7% 증가했습니다. 자산총계는 1395억8080만5481원, 부채총계는
+  615억1288만8719원, 자본총계는 780억6791만6762원으로 집계되었습니다."
+- **출처명**: 네이트뉴스 "와이어블, 지난해 영업이익 55억2594만8336원…전년 대비 44.5% 증가"
+- **출처 URL**: https://news.nate.com/view/20260213n31574
+- **기준 시점**: 2025년 연간(2025년 1~12월), 보도일 2026-02-13
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: 매출은 줄었지만 수익성(영업이익·순이익)은 개선된 패턴으로, 외형 성장보다
+  비용 효율화·마진 관리에 집중한 정황. 한패스(매출 급성장)와 대조되는 전략적 포지션.
+  "3,300억원 이상 고객이 아낀 수수료" 등 마케팅성 누적 지표도 검색됐으나 공식 재무
+  수치가 아니어서 채택하지 않음.
+
+### 7. 3사(네이버페이·카카오페이·토스) 선불충전금 vs 한패스 등 소액해외송금 전업사 — 경쟁 구도 참고 (시장현황 6·9번 항목 교차 참조)
+
+- **상태**: 부분 확인 (신규 검색 결과 없음, 기존 시장현황 6·9번 항목 교차 참조로 대체)
+- **비고**: 카카오페이·토스·네이버페이 등 슈퍼앱 3사는 "선불충전금"(국내 송금·결제 원천)
+  경쟁이 중심인 반면, 한패스·센트비·와이어바알리 등은 "소액해외송금업" 등록 전업사로서
+  해외송금 시장에서 경쟁한다. 두 시장의 성격이 다르므로(전자는 국내 송금·결제 인프라,
+  후자는 외국환거래법상 별도 라이선스 필요 시장) report-writer는 이 둘을 같은 "경쟁"
+  카테고리로 뭉뚱그리지 말고 국내 송금 vs 해외송금을 구분해 서술할 것을 권고.
 
 ## 해외 시장 및 경쟁 동향
 
-(아직 근거 없음 — 이번 조사 범위(시장현황/규제 변화)에는 포함되지 않음. 향후
-market-researcher가 별도로 조사)
+### 1. Wise plc — FY2025(연간) 및 FY2026 상반기 실적
+
+- **수치/핵심 사실**: (a) **FY2025(2024년 4월~2025년 3월, 2025-06-05 발표)**: cross-border
+  volume(고객이 Wise를 통해 이동시킨 금액) £145.2bn(전년 대비 +23%), revenue £1.2bn(전년
+  £1.1bn 대비 +15%), underlying income £1.4bn(+19%), underlying profit before tax £282m
+  (전년 £242m 대비 +17%, margin 21%). (b) **FY2026 상반기(2025년 4~9월, 2025-11-06 발표)**:
+  cross-border volume £84.9bn(전년동기 대비 +24%), 전체 revenue £658m(+12% YoY), 이 중
+  cross-border revenue는 £441m(+5% YoY, 전체 revenue에서 차지하는 비중이 H1 FY25의 71%에서
+  H1 FY26 67%로 하락 — 가격 인하로 거래량 증가/매출 증가율 둔화), underlying income £750m
+  (+13%), active customers 1,340만명(+18% YoY), underlying profit before tax margin 16.3%
+  (목표 범위 13~16% 상단).
+- **원문 발췌**: "Cross-border volume surged 23% year-over-year to £145.2 billion in FY
+  2025." / "Revenue increased 15% to £1.2 billion (FY2024 £1.1 billion), and underlying
+  income for FY25 reached £1.4 billion, up 19 per cent compared to the previous year." /
+  "After accounting for costs and reinvestment, the company generated £282 million of
+  underlying profit before tax (FY2024 £242 million +17%), equivalent to an underlying
+  profit before tax margin of 21%." / "Customers moved £84.9bn with Wise in H1 FY26, an
+  increase of 24% vs H1 FY25." / "Wise reported a 12% year-on-year rise in revenue for
+  the period to £658m... cross-border revenue grew by 5% YoY to £441m in H1 26, although
+  accounted for a lower share of overall revenue – falling from 71% in H1 25 to 67% in
+  H1 26." / "Wise's number of active customers increased 18% YoY to 13.4 million in
+  financial H1 2026." / "Underlying profit before tax margin was at 16.3%, at the top
+  of the 13%-16% target range."
+- **출처명**: Wise plc 공식 실적발표(FY2025 Results, FY26 Half Year Results), fxcintel.com
+  분석 리포트 (WebSearch 요약 종합, 원문 PDF 직접 대조는 못함)
+- **출처 URL**: https://wise.com/imaginary-v2/images/7225a78f5d177b9bba2c8152e664ee7e-Wiseplc-FY2025.pdf ,
+  https://wise.com/imaginary-v2/images/04bfdcbc39ddf7b9cbd06aea398e014b-WISEplcH1FY26Results.pdf ,
+  https://www.fxcintel.com/research/analysis/wise-h1-26-earnings ,
+  https://www.investegate.co.uk/announcement/rns/wise-class-a--wise/fy26-half-year-results/9215554
+- **기준 시점**: FY2025 = 2024-04~2025-03(발표 2025-06-05); FY2026 상반기 = 2025-04~2025-09
+  (발표 2025-11-06). **참고**: Wise의 FY2026 연간(2025-04~2026-03) 전체 실적은 검색 결과
+  일부(stocktitan "Wise Group FY26 net revenue rises 19% to $2.5B")에 언급이 있었으나
+  이번 조사에서 세부 수치를 확보/검증하지 못함 — 다음 조사 시 FY26 연간(발표 예상
+  2026-06월경) 결과를 우선 확인 권장.
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: cross-border 거래량은 빠르게 느는데 cross-border 매출 성장률은 상대적으로
+  둔화(가격 인하 전략)되는 패턴이 FY2025, H1 FY26에서 일관되게 관찰됨 — 저가 경쟁을
+  통한 점유율 확대 전략으로 해석 가능(단, 이는 fxcintel 등 2차 분석의 해석이며
+  Wise의 공식 전략 발표문 원문 대조는 못함).
+
+### 2. Remitly — 2026년 2분기(캘린더 기준) 실적, 활성고객 1,000만명 첫 돌파
+
+- **수치/핵심 사실**: Remitly의 2026년 2분기(2026-08-05 발표) 실적: send volume(송금액)
+  235억달러(+27% YoY), revenue 4억 9,500만달러(+20% YoY), adjusted EBITDA 1억 1,500만달러
+  (역대 최고, margin 23%), quarterly active customers 1,020만명(+20% YoY, 분기 활성고객
+  1,000만명 최초 돌파), 고객 1인당 송금액(send volume per active customer) 2,300달러
+  (+6% YoY, 역대 최고).
+- **원문 발췌**: "Send volume grew 27% to $23.5 billion." / "Remitly had 10.2 million
+  quarterly active customers in Q2 2026, a 20% year-over-year increase. This milestone
+  marks the first time quarterly active customers surpassed 10 million." / "Revenue rose
+  20% year over year to $495 million and adjusted EBITDA reached a record $115 million,
+  or a 23% margin" / "Send volume per active customer reached a record $2,300, up 6%
+  year-over-year"
+- **출처명**: Remitly Global, Inc. 공식 보도자료 "Remitly Reports Record Second Quarter
+  Results and Raises Full Year 2026 Outlook", investing.com/stocktitan 요약 (WebSearch
+  요약 종합, 원문 직접 대조는 못함)
+- **출처 URL**: https://ir.remitly.com/news-releases/news-release-details/remitly-reports-record-second-quarter-results-and-raises-full ,
+  https://www.globenewswire.com/news-release/2026/08/05/3339673/0/en/Remitly-Reports-Record-Second-Quarter-Results-and-Raises-Full-Year-2026-Outlook.html ,
+  https://www.stocktitan.net/news/RELY/remitly-reports-record-second-quarter-results-and-raises-full-year-e40ypp2854ks.html
+- **기준 시점**: 2026년 2분기(캘린더 기준, 2026년 4~6월), 발표일 2026-08-05
+- **확인일**: 2026-08-12
+- **비고**: **확인 시점 기준 가장 최신 공식 자료** (2026년 2분기는 조사 시점인 2026-08-12
+  직전에 발표된 최신 분기 실적). 2026년 연간 가이던스 상향 조정도 함께 발표됐으나 세부
+  가이던스 수치는 이번 조사에서 확보하지 못함(확인 필요 시 추가 조사).
+- **조사자**: market-researcher
+
+### 3. Western Union — 디지털 전환 성과 및 2025년 연간·2026년 상반기 실적
+
+- **수치/핵심 사실**: (a) **2025년 연간(FY2025)**: GAAP revenue 41억달러. 연간 매출
+  목표는 미달성했으나 조정 EPS 목표는 달성, 5건의 전략적 인수 완료. (b) 2022년 이후 브랜드
+  디지털(Branded Digital) 사업 성장에 힘입어 revenue growth rate가 400bp(4%p) 개선, 브랜드
+  디지털 고객 25% 증가. (c) 최근 분기(브랜드 디지털) revenue +7% YoY, 브랜드 디지털
+  거래건수 +25% YoY. (d) **2026년 2분기**: 전체 revenue 10억달러(-1% YoY), Consumer Money
+  Transfer(CMT) revenue 8억 6,610만달러(-2% YoY). (e) 전략: 2025년 미국 내 'Vigo Money'
+  월렛 출시, 중남미 송금 코리도어 경쟁사 Intermex 인수 발표, 싱가포르 Dash 인수(아태
+  지역 월렛 역량 확보).
+- **원문 발췌**: "For the full year, Western Union delivered GAAP revenue of $4.1 billion.
+  However, the Company did not meet its overall revenue target for 2025, but achieved
+  its adjusted Earnings Per Share (EPS) goal, maintained industry-leading margins,
+  completed five strategic acquisitions, and demonstrated strong operational discipline." /
+  "The executive team drove a 400-basis-point improvement in the revenue growth rate
+  since 2022, fueled by growth in the branded digital business and a 25% increase in
+  branded digital customers. Western Union saw its continuing digital transformation
+  efforts rewarded as branded digital revenues increased 7% YoY and branded digital
+  transactions rose 25%." / "Western Union has reported its Q2 2026 results, seeing
+  overall revenue decline 1% YoY to $1bn, while Consumer Money Transfer (CMT) revenue
+  fell 2% to $866.1m." / "The company launched its Vigo Money wallet in the United
+  States in 2025 and announced the acquisition of Intermex, a major competitor in the
+  Latin American corridor. Additionally, Western Union acquired Dash in Singapore to
+  add wallet capabilities in the Asia-Pacific region."
+- **출처명**: Western Union 공식 실적발표(SEC 공시), fxcintel.com "Western Union presses on
+  with digital transformation in Q2 26", investing.com 요약 (WebSearch 요약 종합, 원문
+  직접 대조는 못함)
+- **출처 URL**: https://www.fxcintel.com/research/analysis/western-union-q2-2026-earnings ,
+  https://www.investing.com/news/company-news/western-union-q1-2026-slides-show-strategic-progress-profitability-concerns-93CH-4636096 ,
+  https://s21.q4cdn.com/100551446/files/doc_financials/2026/q1/Q1-2026-Press-Release-FINAL.pdf ,
+  https://www.sec.gov/Archives/edgar/data/1365135/000120677426000169/wu4500131-ars.pdf
+- **기준 시점**: 2025년 연간(FY2025); 2026년 2분기(캘린더 기준, 2026년 4~6월)
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: **확인 시점 기준 가장 최신 공식 자료.** 전통 강자 Western Union이 매출은
+  정체·감소(전체 -1% YoY, 2026년 2분기)하는 가운데 디지털 채널·월렛(Vigo Money)·M&A
+  (Intermex, Dash)로 사업 전환을 시도하는 패턴이 관찰됨. 이는 Wise·Remitly 등 디지털
+  네이티브 핀테크 대비 레거시(오프라인 대리점 기반) 사업자가 겪는 구조적 압박을 보여주는
+  참고 사례로 기록. 2026년 전체 가이던스(약 41.2억달러)는 검색 결과에 있었으나 실제
+  2026년 2분기까지의 트렌드(매출 감소)와 상충되는 뉘앙스가 있어, report-writer는 가이던스와
+  실제 발표치를 구분해서 서술할 것.
+
+### 4. PayPal Xoom — 크로스보더 송금 사업, 스테이블코인(PYUSD) 활용 확대
+
+- **수치/핵심 사실**: PayPal의 Cross-border TPV(Xoom을 통한 거래 포함)는 2025년 1분기
+  기준 498억달러(전년동기 대비 +3% YoY), 전체 TPV 대비 비중 12% 유지. 성장률이 상대적으로
+  낮은 것은 과거 Xoom에 대한 투자 부족(historical underinvestment) 때문으로 분석되며,
+  Alex Chriss CEO 체제 하에서 Xoom 재투자·성장 가속화를 시도 중. PayPal은 PayPal P2P와
+  Xoom을 통합해 PayPal 생태계 내에서 Xoom 레일을 활용한 송금이 가능하도록 했고, 자체
+  스테이블코인 PYUSD를 활용한 수수료 무료(fee-free) 송금 서비스를 Xoom을 통해 도입(단,
+  환전 마진(FX margin)은 여전히 부과). PayPal 전사 2026년 2분기(2026-04~06월) 실적은
+  net revenue 86.8억달러, 전체 TPV 4,864억달러(+10% YoY, 환율중립 기준 +9%), 결제건수
+  68억건(+8%)이나, **Xoom 단독의 2026년 1~2분기 크로스보더 거래량 수치는 검색 결과에서
+  별도로 확보하지 못함(확인 필요)**.
+- **원문 발췌**: "Cross-border TPV, which includes transactions initiated through Xoom,
+  saw 3% year-over-year growth to $49.8 billion in Q1 2025, retaining its 12% share of
+  total TPV." / "PayPal has unified PayPal P2P and Xoom, so customers can send
+  remittances using Xoom's rails from within the PayPal ecosystem." / "PayPal announced
+  the introduction of fee-free money transfers using its stablecoin PYUSD through Xoom,
+  with stablecoin-based remittance services offered on a fee-free basis, although Xoom
+  still charges an FX margin." / "PayPal reported second-quarter 2026 results with net
+  revenues of $8.68 billion and total payment volume of $486.4 billion... TPV increased
+  10% to $486.45 billion, or 9% on a currency-neutral basis. Payment transactions rose
+  8% to 6.8 billion." / "While the search results don't provide a specific breakdown of
+  Xoom's individual remittance growth for Q1 2026... the publicly available earnings
+  materials don't appear to isolate Xoom's specific Q1 2026 remittance growth figures
+  separately." (WebSearch 요약 자체가 Xoom 단독 수치 부재를 명시)
+- **출처명**: fxcintel.com "PayPal continues platform focus amid trade concerns in Q1
+  2025", "Can PayPal grow Xoom with stablecoins? PYUSD remittances", "PayPal's strategic
+  realignment: Insights from Q1 2026", PayPal 공식 실적발표(Q2 2026 Earnings Release),
+  tradingview/yahoo finance 요약 (WebSearch 요약 종합, 원문 직접 대조는 못함)
+- **출처 URL**: https://www.fxcintel.com/research/analysis/paypal-q1-25-earnings ,
+  https://www.fxcintel.com/research/reports/ct-paypal-xoom-stablecoins-pyusd-remittances ,
+  https://www.fxcintel.com/research/reports/ct-paypal-q1-2026-earnings ,
+  https://s205.q4cdn.com/875401827/files/doc_financials/2026/q2/PYPL-2Q-26-Earnings-Release.pdf ,
+  https://www.tradingview.com/news/tradingview:3918348c7949c:0-paypal-reports-q2-2026-revenue-8-68b-tpv-486-4b-non-gaap-eps-1-38/
+- **기준 시점**: Xoom cross-border TPV 성장률(+3%)은 **2025년 1분기 기준(발표 2025-05월경)
+  — 조사 시점(2026-08-12) 기준으로는 5분기 이상 지난 자료.** PayPal 전사 TPV(4,864억달러)는
+  2026년 2분기(2026-04~06월, 발표 2026-07월경)로 최신. **주의: Xoom 단독 최신 지표를
+  찾지 못해 부득이 오래된 Xoom 수치(2025년 1분기)와 최신 PayPal 전사 수치(2026년 2분기)를
+  함께 기록함 — 두 수치의 기준 시점이 5분기 이상 차이나므로 report-writer는 반드시 각각
+  다른 시점임을 명시하고, 같은 시점인 것처럼 병기하지 말 것.**
+- **확인일**: 2026-08-12
+- **조사자**: market-researcher
+- **비고**: PayPal은 실적발표에서 Xoom 단독 거래량·매출을 분기별로 별도 공시하지 않는
+  것으로 보이며(2026년 1분기·2분기 검색에서도 Xoom 개별 수치를 찾지 못함), 크로스보더
+  TPV(Xoom 포함 합산 지표)만 공개하는 것으로 파악됨 — 이 자체가 하나의 관찰 포인트
+  (Xoom의 상대적 사업 비중·공시 우선순위가 낮다는 정황)이나, 이는 market-researcher의
+  해석이며 PayPal이 공식적으로 밝힌 이유는 아님. **Xoom 단독 최신(2026년) 거래량·매출
+  수치는 확인 필요로 남김** — 다음 조사 시 "Xoom quarterly volume 2026", PayPal 10-Q
+  세그먼트 노트 등을 추가로 시도할 것을 권고.
