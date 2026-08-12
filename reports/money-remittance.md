@@ -1,7 +1,8 @@
 # 머니&송금(Money & Remittance) 트렌드 & 인사이트 리포트
 
 > 작성일: 2026-08-12 | 작성: report-writer | 근거: [evidence/money-remittance.md](../evidence/money-remittance.md)
-> 검수 상태: **초안(fact-checker 검수 전) — 아직 전사 공유 불가.** [review/money-remittance-checklist.md](../review/money-remittance-checklist.md)에서
+> 검수 상태: **재조사 1차 반영 완료(2026-08-12) — fact-checker 재검수 대기.** 아직 전사 공유
+> 불가. [review/money-remittance-checklist.md](../review/money-remittance-checklist.md)에서
 > fact-checker 검수 결과를 확인한 뒤에만 공유하십시오.
 
 > **조사 환경 제약 안내**: 이번 조사 세션은 네트워크 프록시가 bok.or.kr·fsc.go.kr·law.go.kr·
@@ -32,7 +33,7 @@
       * 카카오페이 전사 실적이며, 송금/해외송금/선불충전금만의 사업부 단독 매출은 **확인 필요**(evidence상 breakdown 미확보)[^3]
 
 * **카카오페이머니 잔고 관련 수치 — "부분 확인/확인 필요" 상태로 명시**
-   * "카카오페이머니 충전 잔고 2조 5,122억원"(2026년 1분기 보도)과 "선불충전금 6,008억원"(2025년 4분기 공시 기반 보도)은 4배 이상 차이나는 별개 수치로, **동일시하거나 단정적으로 서술할 수 없다.** 두 지표는 개념이 다를 가능성이 있다는 정황 단서만 확보됐을 뿐, 1차 출처(카카오페이 공식 IR)로 확정되지 않았다
+   * "카카오페이머니 충전 잔고 2조 5,122억원"(2026년 1분기 보도)과 "선불충전금 6,008억원"(2025년 4분기 공시 기반 보도)은 4배 이상 차이나는 별개 수치로, **동일시하거나 단정적으로 서술할 수 없다.** 두 지표는 개념이 다를 가능성이 있다는 정황 단서만 확보됐을 뿐, 1차 출처(카카오페이 공식 IR)로 확정되지 않았다[^4][^5][^6]
       * (협의) **"선불충전금"**(전자금융거래법상 규제 대상, 1인당 충전한도 200만원): 2024년 상반기 5,481억원 → 2024년 3분기 5,698억원 → 2025년 1분기 5,920억원(전년동기 대비 +11%) → 2025년 4분기 6,008억 3,400만원(직전분기 5,925억 8,200만원 대비 증가)[^5]
       * (광의, 추정) **"카카오페이머니 충전 잔고"**(언론이 실적발표 시 인용하는 더 넓은 개념): 2025년 3분기 2조 961억원("처음 2조원 돌파", 2025.11.25 보도) → 2026년 1분기 2조 5,122억원(2026.5.6경 보도)[^4][^6]
       * market-researcher의 정황적 추론(1차 출처 미확인, "가설" 수준): 카카오페이머니를 충전하면 카카오페이증권 계좌로 자동이체·예탁되는 구조이며, 이 예탁금은 전자금융거래법상 200만원 한도가 없고 1인당 최대 1억원까지 예금자보호를 받는 것으로 설명되는 기사가 있어, "충전 잔고"가 협의의 "선불충전금"에 증권 예탁금까지 포함하는 더 넓은 개념일 가능성이 있다. 다만 이는 확정된 사실이 아니라 정황적 추론이다[^6]
@@ -90,7 +91,10 @@
 > **국내 송금(카카오페이·토스·네이버페이) vs 해외송금 전업사(한패스·센트비·와이어바알리)는 서로
 > 다른 시장/카테고리다.** 전자는 국내 송금·결제 인프라(선불충전금 기반) 경쟁이고, 후자는
 > 외국환거래법상 별도의 소액해외송금업 라이선스가 필요한 시장이므로 두 그룹을 같은 "경쟁"
-> 범주로 묶어 직접 비교하지 않는다[^22].
+> 범주로 묶어 직접 비교하지 않는다. 구체적으로 카카오페이·네이버페이·티머니는 전자금융거래법상
+> "선불업자"로 등록된 사업자인 반면[^13], 한패스 등은 외국환거래법 제15조의2에 따른
+> "소액해외송금업자"로 별도 등록된 사업자다(토스가 선불업자로 직접 등록돼 있는지는 evidence상
+> 확인되지 않아 이 문장에서는 판단을 유보함)[^27].
 
 ### 3-1. 국내 송금(카카오페이·토스·네이버페이)
 
@@ -179,7 +183,7 @@
 [^5]: 서울경제, https://www.sedaily.com/article/14077566 / 전자신문, https://www.etnews.com/20241014000252 (2025년 4분기 수치는 개별 기사 URL 미특정, WebSearch 종합) (확인일: 2026-08-12)
 [^6]: 헤럴드경제, "카카오페이머니 충전잔고 2조원 돌파"(2025.11.25 보도 추정), https://biz.heraldcorp.com/article/10623663 / 뉴스1, https://www.news1.kr/it-science/general-it/5982204 / 아시아경제, https://www.asiae.co.kr/article/2025112509442704305 / M이코노미뉴스, https://www.m-economynews.com/news/article.html?no=69085 (모두 원문 접속 차단, WebSearch 요약 기반) (확인일: 2026-08-12 — 이 수치와 [^5] 수치의 개념 차이는 확정되지 않은 정황적 추론임)
 [^7]: 아주경제, "네·카·토 선불충전금, 전년比 11%↑…1兆 돌파 앞두고 '주춤'"(게재일 2026.7.12), https://www.ajunews.com/view/20260712142230445 (원문 접속 차단, 정확한 기준 분기 불명확) (확인일: 2026-08-12)
-[^8]: 금융감독원 파인 포털(fine.fss.or.kr) 등록현황 조회 페이지 확인, WebSearch 종합 결과("2019년 5월 이후 6년 넘게 소액해외송금업자 송금실적 미발표" 언급) — 원문 대조 불가로 시장 규모는 "확인 필요"로 남김 (확인일: 2026-08-12)
+[^8]: 뉴데일리(Save Internet), "갈수록 치열해진 해외송금…등록업체 4→25개"(2019.5.30), http://biz.newdaily.co.kr/site/data/html/2019/05/30/2019053000109.html (WebFetch 접속 차단, WebSearch 스니펫 기반 — 재조사 1차에서 원 출처로 특정됨: "소액 해외송금 업체는 제도 변경 이후 현재 25개 업체가 기재부에 해외송금업자로 등록했습니다. 이 중 전자금융업 등 타업무 겸영이 가능한 일반업자는 16개, 소액해외송금업만 영위하는 전업사는 9곳입니다.") / 뉴스토마토, "소액 해외송금업자 2년여만에 4개→25개…송금액 3.6억", http://www.newstomato.com/ReadNews.aspx?no=898679 (교차 확인, 제목 기준) / 금융감독원 파인 포털 등록현황 조회 페이지, https://fine.fss.or.kr/fine/fncco/smlamtLnd/list.do?menuNo=900041 (실시간 조회 페이지 존재 확인, 실제 조회는 접속 차단으로 불가) — 기준 시점 2019-05-30, 6년 이상 경과했으며 이후 공식 갱신 통계 없음. 시장 전체 규모는 여전히 "확인 필요"로 남김 (확인일: 2026-08-12)
 [^9]: 유니콘팩토리, "한패스, 해외송금 거래액 10조원 돌파...크로스보더 핀테크 확장 가속"(2025.4.18), https://www.unicornfactory.co.kr/article/2025041809520687548 (확인일: 2026-08-12)
 [^10]: 금융위원회, 「전자금융거래법 시행령」 개정안 입법예고(2024.5.24), https://www.fsc.go.kr/po040301/view?noticeId=3990 (접속 차단) / 율촌 디지털금융 정책동향 뉴스레터, https://yulchonllc.com/fix/2024/fix-DF-2410/PDF/2410_YC_DF_NL_10_Sub03.pdf (개정 전자금융거래법 2024.9.15 시행) (확인일: 2026-08-12)
 [^11]: 대한민국 정책브리핑(korea.kr), "내년부터 '무증빙 해외송금' 업권 구분 없이 연 10만 달러까지 가능", https://www.korea.kr/news/policyNewsView.do?newsId=148956081 (접속 차단) / 세계일보, https://www.segye.com/newsView/20251208517263 / 서울STV뉴스, https://www.stvnews.kr/news/articleView.html?idxno=14548 / 한국세정신문, https://www.taxtimes.co.kr/news/article.html?no=272760 (시행일 2026년 1월, 기사 발표일 2025.12.8 전후) (확인일: 2026-08-12)
@@ -187,9 +191,9 @@
 [^13]: 굿모닝경제, "카카오페이, 네이버페이 등 소비자 충전금 소멸시효로 매년 수백억 '꿀꺽'...시효 없애는 법 나온다", https://www.goodkyung.com/news/articleView.html?idxno=287227 / 글로벌뉴스통신GNA, "김상훈 의원, 서민금융법 개정안 발의", https://www.globalnewsagency.kr/news/articleView.html?idxno=476493 (법안 발의일 2026.5.20, 국회 통과 전) (확인일: 2026-08-12)
 [^14]: 굿모닝경제(금융감독원 자료 인용), https://www.goodkyung.com/news/articleView.html?idxno=287227 (확인일: 2026-08-12, 카카오페이 단독 낙전수익액은 확인 필요)
 [^15]: 인사이트코리아, https://www.insightkorea.co.kr/news/articleView.html?idxno=252200 / 굿모닝경제, https://www.goodkyung.com/news/articleView.html?idxno=290158 / 서울경제, https://www.sedaily.com/article/20078163 (확인일: 2026-08-12)
-[^16]: 오픈서베이 블로그, "간편결제 경쟁 - 네이버페이 vs. 카카오페이 vs. 토스페이"(2026 결제 서비스 트렌드 리포트 기반), https://blog.opensurvey.co.kr/article/ds-payment-2025-2/ / 자본시장뉴스, "네이버페이 결제 64.7% 장악, 송금은 카카오 천하", https://www.jabon.co.kr/news/articleView.html?idxno=4654 / 네이트뉴스, https://news.nate.com/view/20260705n12885 (조사·게재 시점 2026.7 전후 추정) (확인일: 2026-08-12)
-[^17]: 한국금융신문, "이승건 토스 대표, 3000만 앱 가입자·B2B 기반 영업수익 1.2조 돌파", https://www.fntimes.com/html/view.php?ud=202508141641349446957e88cdd5_18 / 이데일리, https://www.edaily.co.kr/News/Read?newsId=01558006642268304&mediaCodeNo=257 (접속 차단) / 서울파이낸스, https://www.seoulfn.com/news/articleView.html?idxno=603912 (2025년 상반기, 발표일 2025.8.14경) (확인일: 2026-08-12)
-[^18]: 모비인사이드, https://www.mobiinside.co.kr/2026/02/06/kakaopay-overseas-remittance-beta/ / 플래텀, https://platum.kr/archives/281120 (접속 차단) / 조세일보, https://m.joseilbo.com/news/view.htm?newsid=562304 (서비스 출시일 2026.2.5) (확인일: 2026-08-12)
+[^16]: 오픈서베이 블로그, "네이버·카카오·토스페이 각축전, 다음 승부처는 페이스페이가 될까? — 2026 결제 서비스 트렌드"(오픈서베이 2026 결제 서비스 트렌드 리포트 기반), https://blog.opensurvey.co.kr/article/payment-2026-2/ (재조사 1차: 기존 각주 URL(/article/ds-payment-2025-2/)이 오기로 확인되어 실제 수치가 등장하는 페이지로 정정함; WebFetch 접속 차단) / 자본시장뉴스, "네이버페이 결제 64.7% 장악, 송금은 카카오 천하", https://www.jabon.co.kr/news/articleView.html?idxno=4654 / 네이트뉴스, "지갑 대신 스마트폰 시대…네이버페이 1위, 카카오·토스는 송금 강세", https://news.nate.com/view/20260705n12885 (WebFetch 접속 차단, 오픈서베이 원문과 독립적으로 동일 수치 교차 확인됨) (조사·게재 시점 2026.7 전후 추정) (확인일: 2026-08-12)
+[^17]: 뉴스1, "토스, 상반기 영업수익 1.2조 돌파 '역대 최대'…전년 동기比 35%↑"(2025.8.14), https://www.news1.kr/finance/general-finance/5880136 (WebFetch 접속 차단, 원문 인용: "토스(운영사 비바리퍼블리카)가 2025년 상반기 연결 기준 영업수익이 1조2355억 원을 기록하며 전년 동기(9141억원) 대비 35.2% 증가했다고 발표했습니다") / 토스피드(토스 공식 블로그), "토스, 2025년 상반기 연결 기준 영업수익 1.2조 원 돌파… 전년 동기 대비 35% 성장", https://toss.im/tossfeed/article/251H (WebFetch 접속 차단, 토스 자체 발표 성격의 1차 출처) / 한국금융신문, https://www.fntimes.com/html/view.php?ud=202508141641349446957e88cdd5_18 / 이데일리, https://www.edaily.co.kr/News/Read?newsId=01558006642268304&mediaCodeNo=257 (접속 차단) / 서울파이낸스, https://www.seoulfn.com/news/articleView.html?idxno=603912 (2025년 상반기, 발표일 2025.8.14경) — 재조사 1차: "1조2,355억원, 전년동기 9,141억원 대비 +35.2%" 수치를 9개 이상의 독립 매체 및 토스 공식 블로그에서 교차 확인함. 기존 evidence 비고에 있던 "전년동기 5,011억원 대비 +60.06%"는 전사 매출이 아니라 "컨슈머 서비스" 부문 단독의 증가율로 재확인되어, 전사 매출 증가율(+35.2%)과 상충되는 수치가 아니라 서로 다른 지표(전사 vs 부문)임이 확인됨 (확인일: 2026-08-12)
+[^18]: 모비인사이드, https://www.mobiinside.co.kr/2026/02/06/kakaopay-overseas-remittance-beta/ / 플래텀, "카카오페이, '해외송금' 베타 서비스 출시… 5분 이내 입금", https://platum.kr/archives/281120 (WebFetch 접속 차단 — 재조사 1차: 기사 제목 자체에 "5분 이내 입금"이 카카오페이 해외송금 서비스 전용으로 명시됨을 확인) / 데일리한국, "5분 내 송금 완료…카카오페이, 해외송금 베타 서비스 출시", https://daily.hankooki.com/news/articleView.html?idxno=1332117 (WebFetch 접속 차단, 기사 제목 자체에 "5분 내 송금 완료"가 카카오페이 해외송금 서비스 전용으로 명시됨) / 조세일보, https://m.joseilbo.com/news/view.htm?newsid=562304 (서비스 출시일 2026.2.5) — 재조사 1차 결과, 토스+센트비 서비스([^19])와의 혼입 의심은 해소됨(두 회사가 각자 자사 서비스에서 유사한 처리 속도를 마케팅 포인트로 별도 사용) (확인일: 2026-08-12)
 [^19]: 토스피드, "토스, 해외송금 서비스 도입…금융생활 영역 넓힌다", https://toss.im/tossfeed/article/moneytransfer / 전자신문, https://www.etnews.com/20250528000043 (접속 차단) / 파이낸셜뉴스, https://www.fnnews.com/news/202507021610351610 (접속 차단) (모인 연동 2025.5.28, 센트비 협업 2025.7.2) (확인일: 2026-08-12)
 [^20]: 전자신문, "한패스, 코스닥 첫날 '따블' 달성…장중 공모가 150% 초과", https://www.etnews.com/20260325000302 (접속 차단) / 머니투데이, "한패스, 월 송금 60만건·4000억 돌파… 금융 플랫폼 확장 가속", https://www.mt.co.kr/stock/2026/08/06/2026080616345255356 (접속 차단) / 이데일리, https://www.edaily.co.kr/News/Read?newsId=06953606645544696 (접속 차단) / 뉴스핌, https://www.newspim.com/news/view/20260806001139 (접속 차단) / 사람인 기업정보, https://www.saramin.co.kr/zf_user/company-info/view-inner-finance/csn/djY4QS9CN25WN2Y5aUY0WTlzZExXdz09/company_nm/%ED%95%9C%ED%8C%A8%EC%8A%A4(%EC%A3%BC) (상장일 2026.3.25, 월 실적 발표 2026.8.6, "시장점유율 22%"의 분모는 공식 통계 미확인) (확인일: 2026-08-12)
 [^21]: THE VC, https://thevc.kr/sentbe / 이노포레스트, https://www.innoforest.co.kr/company/CP00001808/%EC%84%BC%ED%8A%B8%EB%B9%84 (기준 시점 원문 미대조로 불명확, 2025년 실적 언급 기준 추정) (확인일: 2026-08-12)
@@ -198,3 +202,4 @@
 [^24]: Remitly Global, Inc. 공식 보도자료, "Remitly Reports Record Second Quarter Results and Raises Full Year 2026 Outlook"(발표일 2026.8.5), https://ir.remitly.com/news-releases/news-release-details/remitly-reports-record-second-quarter-results-and-raises-full / GlobeNewswire, https://www.globenewswire.com/news-release/2026/08/05/3339673/0/en/Remitly-Reports-Record-Second-Quarter-Results-and-Raises-Full-Year-2026-Outlook.html (확인일: 2026-08-12)
 [^25]: Western Union 공식 실적발표(SEC 공시), fxcintel.com, "Western Union presses on with digital transformation in Q2 26", https://www.fxcintel.com/research/analysis/western-union-q2-2026-earnings / investing.com, https://www.investing.com/news/company-news/western-union-q1-2026-slides-show-strategic-progress-profitability-concerns-93CH-4636096 / SEC 공시, https://www.sec.gov/Archives/edgar/data/1365135/000120677426000169/wu4500131-ars.pdf (2025년 연간, 2026년 2분기) (확인일: 2026-08-12)
 [^26]: fxcintel.com, "PayPal continues platform focus amid trade concerns in Q1 2025", https://www.fxcintel.com/research/analysis/paypal-q1-25-earnings / "Can PayPal grow Xoom with stablecoins? PYUSD remittances", https://www.fxcintel.com/research/reports/ct-paypal-xoom-stablecoins-pyusd-remittances / PayPal 공식 Q2 2026 Earnings Release, https://s205.q4cdn.com/875401827/files/doc_financials/2026/q2/PYPL-2Q-26-Earnings-Release.pdf / TradingView, https://www.tradingview.com/news/tradingview:3918348c7949c:0-paypal-reports-q2-2026-revenue-8-68b-tpv-486-4b-non-gaap-eps-1-38/ (Xoom 수치는 2025년 1분기 기준, PayPal 전사 수치는 2026년 2분기 기준 — 시점이 다름에 유의) (확인일: 2026-08-12)
+[^27]: THE VC(thevc.kr) 한패스 기업정보 페이지, https://thevc.kr/onepass (WebFetch 접속 차단, WebSearch 스니펫 기반 원문 인용: "한패스는 비은행권에게 2017년 기획재정부로부터 부여받은 소액해외송금업 라이선스 1호 사업자이며 라이센스번호는 '2017-1'입니다.") / 국가법령정보센터, 외국환거래법 시행령 제15조의2(소액해외송금업무의 등록), https://www.law.go.kr/LSW//lsLawLinkInfo.do?lsJoLnkSeq=1000619563&lsId=004273&chrClsCd=010202&print=print (WebFetch 접속 차단, WebSearch로 조문 내용 일부 확인) — 재조사 1차: 카카오페이·네이버페이·티머니(전자금융거래법상 선불업자, [^13])와 한패스 등(외국환거래법상 소액해외송금업자)이 서로 다른 라이선스 체계로 등록된 사업자임을 뒷받침하는 근거로 신규 확보. 두 evidence를 결합한 논리적 추론이며, "국내송금 vs 해외송금 전업사가 다른 카테고리"라는 문장을 1대1로 직접 서술한 단일 1차 출처는 아님에 유의 (확인일: 2026-08-12)
